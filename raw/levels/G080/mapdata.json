@@ -1,0 +1,856 @@
+{
+	"Grid": {
+		"CellLength": 1,
+		"Cells": [
+			{
+				"CoverType": "NoCover",
+				"Height": 1.35886239e-07,
+				"Key": 0,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					1,
+					6,
+					5
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 1.35886353e-07,
+				"Key": 1,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					0,
+					2,
+					7,
+					6,
+					5
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 1.35886353e-07,
+				"Key": 2,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					1,
+					3,
+					8,
+					7,
+					6
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 1.358863e-07,
+				"Key": 3,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					2,
+					4,
+					9,
+					8,
+					7
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 1.35886353e-07,
+				"Key": 4,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					3,
+					9,
+					8
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 1.08927566e-07,
+				"Key": 5,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					0,
+					1,
+					6,
+					11,
+					10
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 1.08927566e-07,
+				"Key": 6,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					5,
+					0,
+					1,
+					2,
+					7,
+					12,
+					11,
+					10
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 1.08927566e-07,
+				"Key": 7,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					6,
+					1,
+					2,
+					3,
+					8,
+					13,
+					12,
+					11
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 1.08927452e-07,
+				"Key": 8,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					7,
+					2,
+					3,
+					4,
+					9,
+					14,
+					13,
+					12
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 1.08927566e-07,
+				"Key": 9,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					8,
+					3,
+					4,
+					14,
+					13
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 8.196878e-08,
+				"Key": 10,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					5,
+					6,
+					11,
+					16,
+					15
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 8.196878e-08,
+				"Key": 11,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					10,
+					5,
+					6,
+					7,
+					12,
+					17,
+					16,
+					15
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 8.196878e-08,
+				"Key": 12,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					11,
+					6,
+					7,
+					8,
+					13,
+					18,
+					17,
+					16
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 8.196878e-08,
+				"Key": 13,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					12,
+					7,
+					8,
+					9,
+					14,
+					19,
+					18,
+					17
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 8.19686647e-08,
+				"Key": 14,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					13,
+					8,
+					9,
+					19,
+					18
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 5.500999e-08,
+				"Key": 15,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					10,
+					11,
+					16,
+					21,
+					20
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 5.500999e-08,
+				"Key": 16,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					15,
+					10,
+					11,
+					12,
+					17,
+					22,
+					21,
+					20
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 5.500999e-08,
+				"Key": 17,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					16,
+					11,
+					12,
+					13,
+					18,
+					23,
+					22,
+					21
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 5.50099344e-08,
+				"Key": 18,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					17,
+					12,
+					13,
+					14,
+					19,
+					24,
+					23,
+					22
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 5.500999e-08,
+				"Key": 19,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					18,
+					13,
+					14,
+					24,
+					23
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 2.8051204e-08,
+				"Key": 20,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					15,
+					16,
+					21
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 2.8051204e-08,
+				"Key": 21,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					20,
+					15,
+					16,
+					17,
+					22
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 2.805126e-08,
+				"Key": 22,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					21,
+					16,
+					17,
+					18,
+					23
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 2.80511472e-08,
+				"Key": 23,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					22,
+					17,
+					18,
+					19,
+					24
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 2.8051204e-08,
+				"Key": 24,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					23,
+					18,
+					19
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			}
+		],
+		"Height": 5,
+		"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Grid, SRO.Core.Compatibility",
+		"Width": 5
+	},
+	"MovementTriggerDefinitions": [
+		{
+			"ActivationConditions": [],
+			"AllTeamMemberConstraint": false,
+			"FireOnEachTile": false,
+			"GameObject": "206bf2df-8611-4cf3-86f7-49b06de840cf",
+			"Id": "",
+			"MoodOMatDialog": "",
+			"OnEnterActivities": [
+				{
+					"ActivityId": 393268,
+					"Context": [],
+					"StringContext": [
+						{
+							"Id": "TriggerScriptItemId",
+							"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.TriggerActivityContextStringEntry, SRO.Core.Compatibility",
+							"Value": "Event:Victory"
+						}
+					],
+					"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.ActivityRef, SRO.Core.Compatibility"
+				}
+			],
+			"OnLeaveActivities": [],
+			"OnStayActivities": [],
+			"OneShotTrigger": false,
+			"Position": {
+				"TypeName": "SRO.Core.Compatibility.Math.IntVector2D, SRO.Core.Compatibility",
+				"X": 3,
+				"Y": 4
+			},
+			"Priority": "Medium",
+			"SuspendedOnStart": false,
+			"Team": [
+				0
+			],
+			"TeamConstraint": true,
+			"TriggerArea": [
+				{
+					"TypeName": "SRO.Core.Compatibility.Math.IntVector2D, SRO.Core.Compatibility",
+					"X": 2,
+					"Y": 3
+				},
+				{
+					"TypeName": "SRO.Core.Compatibility.Math.IntVector2D, SRO.Core.Compatibility",
+					"X": 2,
+					"Y": 4
+				},
+				{
+					"TypeName": "SRO.Core.Compatibility.Math.IntVector2D, SRO.Core.Compatibility",
+					"X": 3,
+					"Y": 3
+				},
+				{
+					"TypeName": "SRO.Core.Compatibility.Math.IntVector2D, SRO.Core.Compatibility",
+					"X": 3,
+					"Y": 4
+				},
+				{
+					"TypeName": "SRO.Core.Compatibility.Math.IntVector2D, SRO.Core.Compatibility",
+					"X": 4,
+					"Y": 3
+				},
+				{
+					"TypeName": "SRO.Core.Compatibility.Math.IntVector2D, SRO.Core.Compatibility",
+					"X": 4,
+					"Y": 4
+				}
+			],
+			"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.MovementTriggerDefinition, SRO.Core.Compatibility"
+		}
+	],
+	"PointOfInterestDefinitions": [],
+	"SpawnManagers": [
+		{
+			"DeathActivities": [
+				{
+					"ActivityId": 393243,
+					"Context": [
+						{
+							"Id": "StatusValueId",
+							"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.TriggerActivityContextFloatEntry, SRO.Core.Compatibility",
+							"Value": 524308
+						},
+						{
+							"Id": "Delta",
+							"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.TriggerActivityContextFloatEntry, SRO.Core.Compatibility",
+							"Value": 2
+						}
+					],
+					"StringContext": [],
+					"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.ActivityRef, SRO.Core.Compatibility"
+				}
+			],
+			"Delay": 0,
+			"ID": 1,
+			"Id": "",
+			"InCombatAfterSpawn": false,
+			"OneShotTrigger": true,
+			"Position": {
+				"TypeName": "SRO.Core.Compatibility.Math.IntVector2D, SRO.Core.Compatibility",
+				"X": 0,
+				"Y": 0
+			},
+			"SpawngroupDefinitions": [
+				{
+					"ID": 101,
+					"SpawnActivities": [],
+					"SpawnpointDefinitions": [
+						{
+							"BlockedGridCells": [],
+							"DeathActivities": [],
+							"DifficultyOffset": 0,
+							"ID": 10101,
+							"InteractionObjectOverride": false,
+							"InteractionSkillId": 90006,
+							"IsHenchmanSpawn": false,
+							"IsLieutenant": false,
+							"IsPlayerSpawn": true,
+							"IsRoleSpawn": false,
+							"OnActivatedActivities": [],
+							"OnDeactivatedActivities": [],
+							"Position": {
+								"TypeName": "SRO.Core.Compatibility.Math.IntVector2D, SRO.Core.Compatibility",
+								"X": 0,
+								"Y": 0
+							},
+							"Priority": 0,
+							"RoleName": "",
+							"SpawnPointId": "",
+							"StatusValueDependentActivities": [],
+							"Template": 721697,
+							"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.SpawnpointDefinition, SRO.Core.Compatibility",
+							"UniqueGameObjectIdentifier": "",
+							"ViewDirection": {
+								"TypeName": "SRO.Core.Compatibility.Math.IntVector2D, SRO.Core.Compatibility",
+								"X": 1,
+								"Y": 1
+							}
+						}
+					],
+					"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.SpawngroupDefinition, SRO.Core.Compatibility",
+					"Weight": 1
+				}
+			],
+			"StatusValueThreshold": null,
+			"SuspendedOnStart": false,
+			"Team": 0,
+			"TurnPhase": "StartMission",
+			"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.SpawnmanagerDefinition, SRO.Core.Compatibility"
+		}
+	],
+	"TeamDefinitions": [
+		{
+			"AIControlled": false,
+			"AlliedTeams": [
+				0
+			],
+			"HostileTeams": [
+				1
+			],
+			"ID": 0,
+			"IgnoredTeams": [],
+			"NeutralTeams": [],
+			"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.TeamDefinition, SRO.Core.Compatibility"
+		},
+		{
+			"AIControlled": true,
+			"AlliedTeams": [
+				1
+			],
+			"HostileTeams": [
+				0
+			],
+			"ID": 1,
+			"IgnoredTeams": [],
+			"NeutralTeams": [],
+			"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.TeamDefinition, SRO.Core.Compatibility"
+		}
+	],
+	"TickTriggerDefinitions": [],
+	"TriggerScriptDefinitions": [
+		{
+			"Items": [
+				{
+					"Condition": {
+						"StatusValue": 0,
+						"Treshold": 0,
+						"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.StatusValueCondition, SRO.Core.Compatibility"
+					},
+					"Id": "Event:Victory",
+					"Items": [
+						{
+							"ParallelProcessing": false,
+							"TriggerActivities": [
+								{
+									"ActivityId": 393255,
+									"Context": [],
+									"StringContext": [
+										{
+											"Id": "TextReference",
+											"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.TriggerActivityContextStringEntry, SRO.Core.Compatibility",
+											"Value": "Victory"
+										}
+									],
+									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.ActivityRef, SRO.Core.Compatibility"
+								},
+								{
+									"ActivityId": 393249,
+									"Context": [
+										{
+											"Id": "TeamA",
+											"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.TriggerActivityContextFloatEntry, SRO.Core.Compatibility",
+											"Value": 0
+										}
+									],
+									"StringContext": [],
+									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.ActivityRef, SRO.Core.Compatibility"
+								}
+							],
+							"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.TriggerActivityGroupDefinition, SRO.Core.Compatibility"
+						}
+					],
+					"OneShotTrigger": true,
+					"Position": {
+						"TypeName": "SRO.Core.Compatibility.Math.IntVector2D, SRO.Core.Compatibility",
+						"X": 0,
+						"Y": 0
+					},
+					"SuspendedOnStart": false,
+					"TriggeredBy": "Activity",
+					"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.TriggerScriptItemDefinition, SRO.Core.Compatibility"
+				},
+				{
+					"Condition": {
+						"StatusValue": 524289,
+						"Treshold": 1,
+						"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.StatusValueCondition, SRO.Core.Compatibility"
+					},
+					"Id": "Event:Defeat",
+					"Items": [
+						{
+							"ParallelProcessing": false,
+							"TriggerActivities": [
+								{
+									"ActivityId": 393255,
+									"Context": [],
+									"StringContext": [
+										{
+											"Id": "TextReference",
+											"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.TriggerActivityContextStringEntry, SRO.Core.Compatibility",
+											"Value": "Defeat"
+										}
+									],
+									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.ActivityRef, SRO.Core.Compatibility"
+								},
+								{
+									"ActivityId": 393249,
+									"Context": [
+										{
+											"Id": "TeamA",
+											"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.TriggerActivityContextFloatEntry, SRO.Core.Compatibility",
+											"Value": 1
+										}
+									],
+									"StringContext": [],
+									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.ActivityRef, SRO.Core.Compatibility"
+								}
+							],
+							"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.TriggerActivityGroupDefinition, SRO.Core.Compatibility"
+						}
+					],
+					"OneShotTrigger": true,
+					"Position": {
+						"TypeName": "SRO.Core.Compatibility.Math.IntVector2D, SRO.Core.Compatibility",
+						"X": 0,
+						"Y": 0
+					},
+					"SuspendedOnStart": false,
+					"TriggeredBy": "StatusValue",
+					"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.TriggerScriptItemDefinition, SRO.Core.Compatibility"
+				},
+				{
+					"Condition": {
+						"StatusValue": 524291,
+						"Treshold": 0,
+						"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.StatusValueCondition, SRO.Core.Compatibility"
+					},
+					"Id": "Event:MissionStart",
+					"Items": [
+						{
+							"ParallelProcessing": false,
+							"TriggerActivities": [
+								{
+									"ActivityId": 393255,
+									"Context": [],
+									"StringContext": [
+										{
+											"Id": "TextReference",
+											"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.TriggerActivityContextStringEntry, SRO.Core.Compatibility",
+											"Value": "MissionStart"
+										}
+									],
+									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.ActivityRef, SRO.Core.Compatibility"
+								},
+								{
+									"ActivityId": 393256,
+									"Context": [],
+									"StringContext": [
+										{
+											"Id": "TextReference",
+											"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.TriggerActivityContextStringEntry, SRO.Core.Compatibility",
+											"Value": "MainGoal"
+										},
+										{
+											"Id": "SmallTextReference",
+											"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.TriggerActivityContextStringEntry, SRO.Core.Compatibility",
+											"Value": "MainGoalSmall"
+										}
+									],
+									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.ActivityRef, SRO.Core.Compatibility"
+								}
+							],
+							"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.TriggerActivityGroupDefinition, SRO.Core.Compatibility"
+						}
+					],
+					"OneShotTrigger": true,
+					"Position": {
+						"TypeName": "SRO.Core.Compatibility.Math.IntVector2D, SRO.Core.Compatibility",
+						"X": 0,
+						"Y": 0
+					},
+					"SuspendedOnStart": false,
+					"TriggeredBy": "StatusValue",
+					"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.TriggerScriptItemDefinition, SRO.Core.Compatibility"
+				},
+				{
+					"Condition": {
+						"StatusValue": 0,
+						"Treshold": 0,
+						"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.StatusValueCondition, SRO.Core.Compatibility"
+					},
+					"Id": "usedDialogs",
+					"Items": [
+						{
+							"ParallelProcessing": false,
+							"TriggerActivities": [
+								{
+									"ActivityId": 393255,
+									"Context": [],
+									"StringContext": [
+										{
+											"Id": "TextReference",
+											"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.TriggerActivityContextStringEntry, SRO.Core.Compatibility",
+											"Value": "Warning"
+										}
+									],
+									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.ActivityRef, SRO.Core.Compatibility"
+								},
+								{
+									"ActivityId": 393255,
+									"Context": [],
+									"StringContext": [
+										{
+											"Id": "TextReference",
+											"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.TriggerActivityContextStringEntry, SRO.Core.Compatibility",
+											"Value": "NextWave"
+										}
+									],
+									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.ActivityRef, SRO.Core.Compatibility"
+								},
+								{
+									"ActivityId": 393255,
+									"Context": [],
+									"StringContext": [
+										{
+											"Id": "TextReference",
+											"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.TriggerActivityContextStringEntry, SRO.Core.Compatibility",
+											"Value": "NextWave2"
+										}
+									],
+									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.ActivityRef, SRO.Core.Compatibility"
+								},
+								{
+									"ActivityId": 393255,
+									"Context": [],
+									"StringContext": [
+										{
+											"Id": "TextReference",
+											"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.TriggerActivityContextStringEntry, SRO.Core.Compatibility",
+											"Value": "Chatter"
+										}
+									],
+									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.ActivityRef, SRO.Core.Compatibility"
+								}
+							],
+							"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.TriggerActivityGroupDefinition, SRO.Core.Compatibility"
+						}
+					],
+					"OneShotTrigger": true,
+					"Position": {
+						"TypeName": "SRO.Core.Compatibility.Math.IntVector2D, SRO.Core.Compatibility",
+						"X": 0,
+						"Y": 0
+					},
+					"SuspendedOnStart": false,
+					"TriggeredBy": "Activity",
+					"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.TriggerScriptItemDefinition, SRO.Core.Compatibility"
+				}
+			],
+			"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.TriggerScriptDefinition, SRO.Core.Compatibility"
+		}
+	],
+	"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Level, SRO.Core.Compatibility",
+	"VictoryConditions": [
+		{
+			"GameworldStatusValueVictoryConditions": [],
+			"TeamId": 0,
+			"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.TeamVictoryConditions, SRO.Core.Compatibility",
+			"WinsWhenAllOpponentsAreEliminated": false
+		},
+		{
+			"GameworldStatusValueVictoryConditions": [],
+			"TeamId": 1,
+			"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.TeamVictoryConditions, SRO.Core.Compatibility",
+			"WinsWhenAllOpponentsAreEliminated": false
+		}
+	]
+}

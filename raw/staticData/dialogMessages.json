@@ -1,0 +1,2661 @@
+{
+	"Components": [
+		{
+			"AvailableIds": [
+				"AttackerGoGetThem",
+				"AttackerStayAlert",
+				"BurnBabyBurn",
+				"CheckYourAim",
+				"DownBadBear",
+				"DownBadDrone",
+				"GetReady",
+				"HereWeGoAgain1",
+				"HereWeGoAgain2",
+				"HereWeGoAgain3",
+				"IAmCriticallyHit",
+				"IAmHit",
+				"IamHitWithLowCTH",
+				"IAmOutOfAmmo",
+				"IAmUnderHeavyFire",
+				"Initial:AttackedAncient",
+				"IAttackAzzie",
+				"IAttackCritter",
+				"IAttackDwarf",
+				"IAttackElf",
+				"IAttackHeadcase",
+				"IAttackLuna",
+				"IAttackMechanical",
+				"IAttackNeoNet",
+				"IAttackOrc",
+				"IAttackSpirit",
+				"IAttackTroll",
+				"IDemolishedSomething",
+				"IDie",
+				"IDontSeeAnyone",
+				"IFailedAnInteraction",
+				"IGetAnotherAction",
+				"IHackAttackYou",
+				"IHackedSomething",
+				"IHarvestOrgans",
+				"IHaveLowHealth",
+				"IHitCritically",
+				"IHitWithLowCTH",
+				"IHitYou",
+				"IKilledCritically",
+				"IKilledYou",
+				"ILockPickedSomething",
+				"IMarkedHim",
+				"IMissed",
+				"IMissedWithLowCTH",
+				"Initial:AllisionShotPhoto",
+				"Initial:Armorrepair",
+				"Initial:AssaultFlankingEnemyNotInCover",
+				"Initial:AttackCritHit",
+				"Initial:AttackedAzzie",
+				"Initial:AttackedCritter",
+				"Initial:AttackedDwarf",
+				"Initial:AttackedElf",
+				"Initial:AttackedHeadcase",
+				"Initial:AttackedLuna",
+				"Initial:AttackedMechanical",
+				"Initial:AttackedNeoNet",
+				"Initial:AttackedOrc",
+				"Initial:AttackedSpirit",
+				"Initial:AttackedTroll",
+				"Initial:AttackHit",
+				"Initial: AttackHitWithLowCTH",
+				"Initial:AttackMissed",
+				"Initial:AttackMissedWithLowCTH",
+				"Initial:Bear",
+				"Initial:ShamanSummonBear",
+				"Initial:BerserkWearsOff",
+				"Initial:BruteBerserkUsed",
+				"Initial:BurstShot",
+				"Initial:Charge",
+				"Initial:CramUsed",
+				"Initial:CramWearsOff",
+				"Initial:DemolishUsed",
+				"Initial:Dog",
+				"Initial:EnemySpotted",
+				"Initial:ExtractUsed",
+				"Initial:Feared",
+				"Initial:Flamethrower",
+				"Initial:Grenade",
+				"Initial:HackingUsed",
+				"Initial:Healed",
+				"Initial:HealedMySelf",
+				"Initial:IKilled",
+				"Initial:IKilledCritically",
+				"Initial:InteractionSkillFailed",
+				"Initial:JazzUsed",
+				"Initial:JazzWearsOff",
+				"Initial:KamikazeUsed",
+				"Initial:LifeLeech",
+				"Initial:LockpickingUsed",
+				"Initial:LowHealth",
+				"Initial:LunaTaunt",
+				"Initial:MissionStart",
+				"Initial:NoEnemyInSight",
+				"Initial:NoLOSHacking",
+				"Initial:OrganHarvestingUsed",
+				"Initial:OutOfAmmo",
+				"Initial:PistolDefaultUsed",
+				"Initial:PistolGotAnotherAction",
+				"Initial:Reload",
+				"Initial:RiggerDroneAttack",
+				"Initial:Sacrifice",
+				"Initial:ShamanSummonAirSpirit",
+				"Initial:ShamanSummonWolf",
+				"Initial:StatusEffectBetterAimApplied",
+				"Initial:StatusEffectMarkedApplied",
+				"Initial:StatusEffectShieldApplied",
+				"Initial:StatusEffectStunApplied",
+				"Initial:StimPatch",
+				"Initial:SuicideBomb",
+				"Initial:Takshak",
+				"Initial:TalkToUsed",
+				"Initial:TargetHealed",
+				"Initial:Warcries",
+				"InteractionSkillFailAdvice",
+				"IReload",
+				"ISeeAnEnemy",
+				"IStunnedHim",
+				"ISummonBear",
+				"IThrowGrenade",
+				"IUseDrugs",
+				"Iwillfuckyouup",
+				"IWillKeepHittingYou",
+				"MakeFunOfDeath",
+				"NoYouAreNotDead",
+				"TargetBeCareful",
+				"TheyAreRepairing",
+				"YouAreAttackedByDog",
+				"YouHitWithLowCTH",
+				"YouMissedMe",
+				"YouMissedWithLowCTH",
+				"YouSeeMe",
+				"YouSeemToBeHurt",
+				"Initial:AttackHitWithLowCTH",
+				"Initial:AttackedHuman",
+				"Killed"
+			],
+			"DialogMessages": [
+				{
+					"Id": "AttackerGoGetThem",
+					"NextMessageId": "SarcasticRemark",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "AttackerGoGetThem",
+					"NextMessageId": "SnarkyAdviceReply",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "AttackerStayAlert",
+					"NextMessageId": "Confirm",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "AttackerStayAlert",
+					"NextMessageId": "SarcasticRemark",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "AttackerStayAlert",
+					"NextMessageId": "SnarkyAdviceReply",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "BurnBabyBurn",
+					"NextMessageId": "OhItBurns",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "BurnBabyBurn",
+					"NextMessageId": "GenericPraise",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "CheckYourAim",
+					"NextMessageId": "SnarkyAdviceReply",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "CheckYourAim",
+					"NextMessageId": "SarcasticRemark",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "CheckYourAim",
+					"NextMessageId": "Confirm",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "DownBadBear",
+					"NextMessageId": "YouAreAttackedByBear",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "DownBadDrone",
+					"NextMessageId": "TargetBeCareful",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "GetReady",
+					"NextMessageId": "Confirm",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 2
+				},
+				{
+					"Id": "GetReady",
+					"NextMessageId": "SarcasticRemark",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "GetReady",
+					"NextMessageId": "SnarkyAdviceReply",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "HereWeGoAgain1",
+					"NextMessageId": "HereWeGoAgain2",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "HereWeGoAgain1",
+					"NextMessageId": "YouTalkTooMuch",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "HereWeGoAgain2",
+					"NextMessageId": "HereWeGoAgain3",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "HereWeGoAgain3",
+					"NextMessageId": "Confirm",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "HereWeGoAgain3",
+					"NextMessageId": "ThankYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAmCriticallyHit",
+					"NextMessageId": "TargetBeCareful",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAmCriticallyHit",
+					"NextMessageId": "IWillKeepHittingYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAmHit",
+					"NextMessageId": "TargetBeCareful",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAmHit",
+					"NextMessageId": "IWillKeepHittingYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IamHitWithLowCTH",
+					"NextMessageId": "TargetBeCareful",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IamHitWithLowCTH",
+					"NextMessageId": "IWillKeepHittingYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAmOutOfAmmo",
+					"NextMessageId": "OutOfAmmoTaunt",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogFoe, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAmOutOfAmmo",
+					"NextMessageId": "TargetBeCareful",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAmOutOfAmmo",
+					"NextMessageId": "Confirm",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAmUnderHeavyFire",
+					"NextMessageId": "TargetBeCareful",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAmUnderHeavyFire",
+					"NextMessageId": "IWillKeepHittingYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 2
+				},
+				{
+					"Id": "Initial:AttackedAncient",
+					"NextMessageId": "GenericPraise",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:AttackedAncient",
+					"NextMessageId": "FuckYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAttackAzzie",
+					"NextMessageId": "GenericPraise",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAttackAzzie",
+					"NextMessageId": "FuckYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAttackCritter",
+					"NextMessageId": "GenericPraise",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAttackCritter",
+					"NextMessageId": "FuckYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAttackDwarf",
+					"NextMessageId": "GenericPraise",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAttackDwarf",
+					"NextMessageId": "YouColdHeartedBastard",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAttackDwarf",
+					"NextMessageId": "FuckYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAttackElf",
+					"NextMessageId": "GenericPraise",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAttackElf",
+					"NextMessageId": "YouColdHeartedBastard",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAttackElf",
+					"NextMessageId": "FuckYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAttackHeadcase",
+					"NextMessageId": "GenericPraise",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAttackHeadcase",
+					"NextMessageId": "FuckYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAttackLuna",
+					"NextMessageId": "GenericPraise",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAttackLuna",
+					"NextMessageId": "FuckYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAttackLuna",
+					"NextMessageId": "YouColdHeartedBastard",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAttackLuna",
+					"NextMessageId": "LunaReply",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAttackMechanical",
+					"NextMessageId": "GenericPraise",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAttackMechanical",
+					"NextMessageId": "FuckYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAttackNeoNet",
+					"NextMessageId": "GenericPraise",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAttackNeoNet",
+					"NextMessageId": "FuckYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAttackOrc",
+					"NextMessageId": "GenericPraise",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAttackOrc",
+					"NextMessageId": "YouColdHeartedBastard",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAttackOrc",
+					"NextMessageId": "FuckYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAttackSpirit",
+					"NextMessageId": "GenericPraise",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAttackSpirit",
+					"NextMessageId": "FuckYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAttackTroll",
+					"NextMessageId": "GenericPraise",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAttackTroll",
+					"NextMessageId": "YouColdHeartedBastard",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IAttackTroll",
+					"NextMessageId": "FuckYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IDemolishedSomething",
+					"NextMessageId": "Confirm",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IDemolishedSomething",
+					"NextMessageId": "GenericWellDone",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IDie",
+					"NextMessageId": "NoYouAreNotDead",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IDie",
+					"NextMessageId": "MyAllyWasKilled",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IDontSeeAnyone",
+					"NextMessageId": "AttackerStayAlert",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IDontSeeAnyone",
+					"NextMessageId": "SarcasticRemark",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IFailedAnInteraction",
+					"NextMessageId": "InteractionSkillFailAdvice",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IGetAnotherAction",
+					"NextMessageId": "GenericPraise",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IGetAnotherAction",
+					"NextMessageId": "GenericWellDone",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IGetAnotherAction",
+					"NextMessageId": "FuckYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IHackAttackYou",
+					"NextMessageId": "GenericPraise",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IHackedSomething",
+					"NextMessageId": "Confirm",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IHackedSomething",
+					"NextMessageId": "GenericWellDone",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IHarvestOrgans",
+					"NextMessageId": "YouHarvestOrgans",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IHaveLowHealth",
+					"NextMessageId": "IAmNotADoctor",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IHaveLowHealth",
+					"NextMessageId": "YouAreHurtTaunt",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogFoe, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IHitCritically",
+					"NextMessageId": "IAmCriticallyHit",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IHitCritically",
+					"NextMessageId": "TargetBeCareful",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogFoe, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IHitCritically",
+					"NextMessageId": "GenericPraise",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IHitWithLowCTH",
+					"NextMessageId": "IAmHit",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IHitWithLowCTH",
+					"NextMessageId": "TargetBeCareful",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogFoe, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IHitWithLowCTH",
+					"NextMessageId": "GenericPraise",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IHitYou",
+					"NextMessageId": "IAmHit",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IHitYou",
+					"NextMessageId": "TargetBeCareful",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogFoe, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IHitYou",
+					"NextMessageId": "GenericPraise",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IKilledCritically",
+					"NextMessageId": "ThatWasAwesome",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IKilledCritically",
+					"NextMessageId": "YouColdHeartedBastard",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IKilledCritically",
+					"NextMessageId": "FuckYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogFoe, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IKilledCritically",
+					"NextMessageId": "MyAllyWasKilled",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogFoe, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IKilledYou",
+					"NextMessageId": "GenericPraise",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IKilledYou",
+					"NextMessageId": "MyAllyWasKilled",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogFoe, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "ILockPickedSomething",
+					"NextMessageId": "Confirm",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "ILockPickedSomething",
+					"NextMessageId": "GenericWellDone",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IMarkedHim",
+					"NextMessageId": "GenericPraise",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IMarkedHim",
+					"NextMessageId": "GenericWellDone",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IMissed",
+					"NextMessageId": "YouMissedMe",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IMissed",
+					"NextMessageId": "CheckYourAim",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IMissedWithLowCTH",
+					"NextMessageId": "YouMissedMe",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:AllisionShotPhoto",
+					"NextMessageId": "TESTAllisonShotPhoto",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:Armorrepair",
+					"NextMessageId": "MyArmorRepaired",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:Armorrepair",
+					"NextMessageId": "TheyAreRepairing",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogFoe, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 0
+				},
+				{
+					"Id": "Initial:AssaultFlankingEnemyNotInCover",
+					"NextMessageId": "IWillKeepHittingYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:AssaultFlankingEnemyNotInCover",
+					"NextMessageId": "Iwillfuckyouup",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:AssaultFlankingEnemyNotInCover",
+					"NextMessageId": "IAmFlanked",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 5
+				},
+				{
+					"Id": "Initial:AttackCritHit",
+					"NextMessageId": "IHitCritically",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:AttackCritHit",
+					"NextMessageId": "IAmCriticallyHit",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:AttackedAncient",
+					"NextMessageId": "IAttackAncient",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:AttackedAzzie",
+					"NextMessageId": "IAttackAzzie",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:AttackedCritter",
+					"NextMessageId": "IAttackCritter",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:AttackedDwarf",
+					"NextMessageId": "IAttackDwarf",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:AttackedElf",
+					"NextMessageId": "IAttackElf",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:AttackedHeadcase",
+					"NextMessageId": "IAttackHeadcase",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:AttackedLuna",
+					"NextMessageId": "IAttackLuna",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:AttackedMechanical",
+					"NextMessageId": "IAttackMechanical",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:AttackedNeoNet",
+					"NextMessageId": "IAttackNeoNet",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:AttackedOrc",
+					"NextMessageId": "IAttackOrc",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:AttackedSpirit",
+					"NextMessageId": "IAttackSpirit",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:AttackedTroll",
+					"NextMessageId": "IAttackTroll",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:AttackHit",
+					"NextMessageId": "IHitYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:AttackHit",
+					"NextMessageId": "IAmHit",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 0
+				},
+				{
+					"Id": "Initial: AttackHitWithLowCTH",
+					"NextMessageId": "IHitWithLowCTH",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial: AttackHitWithLowCTH",
+					"NextMessageId": "IamHitWithLowCTH",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial: AttackHitWithLowCTH",
+					"NextMessageId": "YouHitWithLowCTH",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:AttackMissed",
+					"NextMessageId": "IMissed",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:AttackMissed",
+					"NextMessageId": "YouMissedMe",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:AttackMissed",
+					"NextMessageId": "TargetBeCareful",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogFoe, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:AttackMissedWithLowCTH",
+					"NextMessageId": "IMissedWithLowCTH",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:AttackMissedWithLowCTH",
+					"NextMessageId": "YouMissedWithLowCTH",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:Bear",
+					"NextMessageId": "DownBadBear",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:ShamanSummonBear",
+					"NextMessageId": "ShamanSummonBear",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:BerserkWearsOff",
+					"NextMessageId": "TESTBerserkWearsOff",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:BruteBerserkUsed",
+					"NextMessageId": "TESTBruteBerserkUsed",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:BurstShot",
+					"NextMessageId": "Iwillfuckyouup",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:BurstShot",
+					"NextMessageId": "TargetBeCareful",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogFoe, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:BurstShot",
+					"NextMessageId": "IAmUnderHeavyFire",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 5
+				},
+				{
+					"Id": "Initial:Charge",
+					"NextMessageId": "TESTCharge",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:CramUsed",
+					"NextMessageId": "IUseDrugs",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:CramUsed",
+					"NextMessageId": "IFeelBetterNow",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:CramWearsOff",
+					"NextMessageId": "DrugWearsOff",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:DemolishUsed",
+					"NextMessageId": "IDemolishedSomething",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:Dog",
+					"NextMessageId": "DownBadDog",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:Dog",
+					"NextMessageId": "YouAreAttackedByDog",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:EnemySpotted",
+					"NextMessageId": "ISeeAnEnemy",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:EnemySpotted",
+					"NextMessageId": "YouSeeMe",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogFoe, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:ExtractUsed",
+					"NextMessageId": "TESTExtractUsed",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:Feared",
+					"NextMessageId": "IAmFeared",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:Flamethrower",
+					"NextMessageId": "BurnBabyBurn",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:Flamethrower",
+					"NextMessageId": "OhItBurns",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:Grenade",
+					"NextMessageId": "IThrowGrenade",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:HackingUsed",
+					"NextMessageId": "IHackedSomething",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:Healed",
+					"NextMessageId": "TESTHealed",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:HealedMySelf",
+					"NextMessageId": "IFeelBetterNow",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:IKilled",
+					"NextMessageId": "IKilledYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:IKilled",
+					"NextMessageId": "IDie",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:IKilled",
+					"NextMessageId": "NoYouAreNotDead",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogFoe, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:IKilled",
+					"NextMessageId": "MyAllyWasKilled",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogFoe, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:IKilledCritically",
+					"NextMessageId": "IKilledCritically",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:IKilledCritically",
+					"NextMessageId": "ThatWasAwesome",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:IKilledCritically",
+					"NextMessageId": "NoYouAreNotDead",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogFoe, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:InteractionSkillFailed",
+					"NextMessageId": "IFailedAnInteraction",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:JazzUsed",
+					"NextMessageId": "IFeelBetterNow",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:JazzUsed",
+					"NextMessageId": "IUseDrugs",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:JazzWearsOff",
+					"NextMessageId": "DrugWearsOff",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:KamikazeUsed",
+					"NextMessageId": "IUseDrugs",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:KamikazeUsed",
+					"NextMessageId": "IFeelBetterNow",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:LifeLeech",
+					"NextMessageId": "ILifeLeechYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:LockpickingUsed",
+					"NextMessageId": "ILockPickedSomething",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:LowHealth",
+					"NextMessageId": "IHaveLowHealth",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogSelf, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:LowHealth",
+					"NextMessageId": "YouSeemToBeHurt",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:LunaTaunt",
+					"NextMessageId": "TESTLunaTaunt",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:MissionStart",
+					"NextMessageId": "GetReady",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 3
+				},
+				{
+					"Id": "Initial:MissionStart",
+					"NextMessageId": "HereWeGoAgain1",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:NoEnemyInSight",
+					"NextMessageId": "IDontSeeAnyone",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:NoLOSHacking",
+					"NextMessageId": "IHackAttackYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:NoLOSHacking",
+					"NextMessageId": "IAmBeingHacked",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:OrganHarvestingUsed",
+					"NextMessageId": "IHarvestOrgans",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:OrganHarvestingUsed",
+					"NextMessageId": "YouHarvestOrgans",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:OutOfAmmo",
+					"NextMessageId": "IAmOutOfAmmo",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:OutOfAmmo",
+					"NextMessageId": "YouAreOutOfAmmo",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogFoe, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:OutOfAmmo",
+					"NextMessageId": "Iwillfuckyouup",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogFoe, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:PistolDefaultUsed",
+					"NextMessageId": "BeCarefulTaunt",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 0
+				},
+				{
+					"Id": "Initial:PistolGotAnotherAction",
+					"NextMessageId": "IGetAnotherAction",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:Reload",
+					"NextMessageId": "IReload",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:RiggerDroneAttack",
+					"NextMessageId": "DownBadDrone",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:Sacrifice",
+					"NextMessageId": "ISacrificeYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:ShamanSummonAirSpirit",
+					"NextMessageId": "IsummonSpirit",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogSelf, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:ShamanSummonBear",
+					"NextMessageId": "ISummonBear",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogSelf, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:ShamanSummonWolf",
+					"NextMessageId": "IsummonSpirit",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogSelf, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:StatusEffectBetterAimApplied",
+					"NextMessageId": "ThankYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:StatusEffectMarkedApplied",
+					"NextMessageId": "IMarkedHim",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:StatusEffectMarkedApplied",
+					"NextMessageId": "YouAreMarked",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogFoe, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:StatusEffectShieldApplied",
+					"NextMessageId": "ThankYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:StatusEffectStunApplied",
+					"NextMessageId": "IStunnedHim",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:StatusEffectStunApplied",
+					"NextMessageId": "YouAreStunned",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogFoe, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:StimPatch",
+					"NextMessageId": "IFeelBetterNow",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:SuicideBomb",
+					"NextMessageId": "HeExploded",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogFoe, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:Takshak",
+					"NextMessageId": "TESTTakshak",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:TalkToUsed",
+					"NextMessageId": "YouTalkTooMuch",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:TalkToUsed",
+					"NextMessageId": "AttackerGoGetThem",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:TargetHealed",
+					"NextMessageId": "ThankYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:TargetHealed",
+					"NextMessageId": "IFeelBetterNow",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "Initial:Warcries",
+					"NextMessageId": "TESTWarcries",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "InteractionSkillFailAdvice",
+					"NextMessageId": "SnarkyAdviceReply",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IReload",
+					"NextMessageId": "Confirm",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IReload",
+					"NextMessageId": "OutOfAmmoTaunt",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogFoe, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "ISeeAnEnemy",
+					"NextMessageId": "YouSeeMe",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "ISeeAnEnemy",
+					"NextMessageId": "AttackerGoGetThem",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IStunnedHim",
+					"NextMessageId": "GenericPraise",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IStunnedHim",
+					"NextMessageId": "GenericWellDone",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "ISummonBear",
+					"NextMessageId": "SummonBearStupidReply",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IThrowGrenade",
+					"NextMessageId": "GrenadeIncoming",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IThrowGrenade",
+					"NextMessageId": "GrenadeIncoming",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogFoe, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IUseDrugs",
+					"NextMessageId": "YouUseDrugs",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IUseDrugs",
+					"NextMessageId": "GenericPraise",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 0
+				},
+				{
+					"Id": "Iwillfuckyouup",
+					"NextMessageId": "SarcasticRemark",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "IWillKeepHittingYou",
+					"NextMessageId": "FuckYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "MakeFunOfDeath",
+					"NextMessageId": "FuckYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogFoe, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "MakeFunOfDeath",
+					"NextMessageId": "Confirm",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "MakeFunOfDeath",
+					"NextMessageId": "YouColdHeartedBastard",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "NoYouAreNotDead",
+					"NextMessageId": "MakeFunOfDeath",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "NoYouAreNotDead",
+					"NextMessageId": "FuckYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "TargetBeCareful",
+					"NextMessageId": "SnarkyAdviceReply",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "TargetBeCareful",
+					"NextMessageId": "BeCarefulTaunt",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "TargetBeCareful",
+					"NextMessageId": "SarcasticRemark",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "TargetBeCareful",
+					"NextMessageId": "Confirm",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "TheyAreRepairing",
+					"NextMessageId": "Confirm",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 0
+				},
+				{
+					"Id": "TheyAreRepairing",
+					"NextMessageId": "SarcasticRemark",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 0
+				},
+				{
+					"Id": "YouAreAttackedByDog",
+					"NextMessageId": "YouColdHeartedBastard",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "YouAreAttackedByDog",
+					"NextMessageId": "FuckYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogTarget, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "YouHitWithLowCTH",
+					"NextMessageId": "Confirm",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "YouHitWithLowCTH",
+					"NextMessageId": "SarcasticRemark",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "YouMissedMe",
+					"NextMessageId": "FuckYou",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "YouMissedWithLowCTH",
+					"NextMessageId": "SnarkyAdviceReply",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "YouSeeMe",
+					"NextMessageId": "Iwillfuckyouup",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAttacker, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "YouSeeMe",
+					"NextMessageId": "TargetBeCareful",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogAlly, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "YouSeemToBeHurt",
+					"NextMessageId": "Confirm",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogSelf, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "YouSeemToBeHurt",
+					"NextMessageId": "YouColdHeartedBastard",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogSelf, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				},
+				{
+					"Id": "YouSeemToBeHurt",
+					"NextMessageId": "SarcasticRemark",
+					"Target": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.DialogSelf, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOmatDialogMessage, Cliffhanger.SRO.ServerClientCommons",
+					"Weight": 1
+				}
+			],
+			"EventProbabilities": [
+				{
+					"Id": "Initial: AttackHitWithLowCTH",
+					"Probability": 0.577,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:AllisionShotPhoto",
+					"Probability": 0,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:AssaultFlankingEnemyNotInCover",
+					"Probability": 0.729,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:AttackCritHit",
+					"Probability": 0.508,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:AttackHit",
+					"Probability": 0.22,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:AttackHitWithLowCTH",
+					"Probability": 0.423,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:AttackMissed",
+					"Probability": 0.115,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:AttackMissedWithLowCTH",
+					"Probability": 0.305,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:BerserkWearsOff",
+					"Probability": 0,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:BruteBerserkUsed",
+					"Probability": 0,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:CramUsed",
+					"Probability": 0.57,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:CramWearsOff",
+					"Probability": 0.654,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:DemolishUsed",
+					"Probability": 0.546,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:Dog",
+					"Probability": 0.231,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:EnemySpotted",
+					"Probability": 0.173,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:ExtractUsed",
+					"Probability": 0.264,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:Feared",
+					"Probability": 0.427,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:Grenade",
+					"Probability": 0.783,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:HackingUsed",
+					"Probability": 0.685,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:HealedMySelf",
+					"Probability": 0.803,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:IKilled",
+					"Probability": 0.414,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:IKilledCritically",
+					"Probability": 0.742,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:InteractionSkillFailed",
+					"Probability": 0.654,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:JazzUsed",
+					"Probability": 0.735,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:JazzWearsOff",
+					"Probability": 0.817,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:KamikazeUsed",
+					"Probability": 0.756,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:LockpickingUsed",
+					"Probability": 0.654,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:LunaTaunt",
+					"Probability": 0.786,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:NoEnemyInSight",
+					"Probability": 0.166,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:OrganHarvestingUsed",
+					"Probability": 0.403,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:PistolDefaultUsed",
+					"Probability": 0,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:PistolGotAnotherAction",
+					"Probability": 0.516,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:RiggerDroneAttack",
+					"Probability": 0.271,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:ShamanSummonAirSpirit",
+					"Probability": 0.444,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:ShamanSummonBear",
+					"Probability": 0.556,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:ShamanSummonWolf",
+					"Probability": 0.458,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:StatusEffectBetterAimApplied",
+					"Probability": 0.665,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:StatusEffectMarkedApplied",
+					"Probability": 0.882,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:StatusEffectShieldApplied",
+					"Probability": 0.627,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:StatusEffectStunApplied",
+					"Probability": 0.858,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:StimPatch",
+					"Probability": 0.688,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:TalkToUsed",
+					"Probability": 0.769,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:TargetHealed",
+					"Probability": 0.637,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:MissionStart",
+					"Probability": 0.102,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:Healed",
+					"Probability": 0.353,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:LowHealth",
+					"Probability": 0.468,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:OutOfAmmo",
+					"Probability": 0.607,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:Armorrepair",
+					"Probability": 0.814,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:Bear",
+					"Probability": 0.485,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:BurstShot",
+					"Probability": 0.776,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:Charge",
+					"Probability": 0.773,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:Flamethrower",
+					"Probability": 0.735,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:LifeLeech",
+					"Probability": 0.736,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:NoLOSHacking",
+					"Probability": 0.227,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:Reload",
+					"Probability": 0.488,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:Sacrifice",
+					"Probability": 0.736,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:SuicideBomb",
+					"Probability": 1,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:Takshak",
+					"Probability": 0,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:Warcries",
+					"Probability": 0,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:AttackedAncient",
+					"Probability": 0.403,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:AttackedAzzie",
+					"Probability": 0.38,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:AttackedCritter",
+					"Probability": 0.4,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:AttackedDwarf",
+					"Probability": 0.217,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:AttackedElf",
+					"Probability": 0.224,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:AttackedHeadcase",
+					"Probability": 0.247,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:AttackedHuman",
+					"Probability": 0.247,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:AttackedLuna",
+					"Probability": 0.671,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:AttackedMechanical",
+					"Probability": 0.397,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:AttackedNeoNet",
+					"Probability": 0.264,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:AttackedOrc",
+					"Probability": 0.244,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:AttackedSpirit",
+					"Probability": 0.431,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "Initial:AttackedTroll",
+					"Probability": 0.227,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MoodOMatEventProbability, Cliffhanger.SRO.ServerClientCommons"
+				}
+			],
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.MoodOmatMessages, Cliffhanger.SRO.ServerClientCommons"
+		}
+	],
+	"TypeName": "Cliffhanger.Core.Compatibility.Composite, Cliffhanger.Core.Compatibility"
+}

@@ -1,0 +1,2783 @@
+{
+	"CyberwareCharacterDefinitions": [],
+	"Grid": {
+		"CellLength": 1,
+		"Cells": [
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 0,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					1,
+					12,
+					11
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 1,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					0,
+					2,
+					13,
+					12,
+					11
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 2,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					1,
+					3,
+					14,
+					13,
+					12
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 3,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					2,
+					4,
+					15,
+					14,
+					13
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 4,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					3,
+					5,
+					16,
+					15,
+					14
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 5,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					4,
+					6,
+					17,
+					16,
+					15
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 6,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					5,
+					7,
+					18,
+					17,
+					16
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 7,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					6,
+					8,
+					19,
+					18,
+					17
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 8,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					7,
+					9,
+					20,
+					19,
+					18
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 9,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					8,
+					10,
+					21,
+					20,
+					19
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 10,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					9,
+					21,
+					20
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 11,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					0,
+					1,
+					12,
+					23,
+					22
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 12,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					11,
+					0,
+					1,
+					2,
+					13,
+					24,
+					23,
+					22
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 13,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					12,
+					1,
+					2,
+					3,
+					14,
+					25,
+					24,
+					23
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 14,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					13,
+					2,
+					3,
+					4,
+					15,
+					26,
+					25,
+					24
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 15,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					14,
+					3,
+					4,
+					5,
+					16,
+					27,
+					26,
+					25
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 16,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					15,
+					4,
+					5,
+					6,
+					17,
+					28,
+					27,
+					26
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 17,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					18
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					16,
+					5,
+					6,
+					7,
+					29,
+					28,
+					27
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 18,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					17,
+					29
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					6,
+					7,
+					8,
+					19,
+					30,
+					28
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 19,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					18,
+					7,
+					8,
+					9,
+					20,
+					31,
+					30,
+					29
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 20,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					19,
+					8,
+					9,
+					10,
+					21,
+					32,
+					31,
+					30
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 21,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					20,
+					9,
+					10,
+					32,
+					31
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 22,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					11,
+					12,
+					23,
+					34,
+					33
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 23,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					22,
+					11,
+					12,
+					13,
+					24,
+					35,
+					34,
+					33
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 24,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					23,
+					12,
+					13,
+					14,
+					25,
+					36,
+					35,
+					34
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 25,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					24,
+					13,
+					14,
+					15,
+					26,
+					37,
+					36,
+					35
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 26,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					25,
+					14,
+					15,
+					16,
+					27,
+					38,
+					37,
+					36
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 27,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					26,
+					15,
+					16,
+					17,
+					28,
+					39,
+					38,
+					37
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 28,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					27,
+					16,
+					17,
+					18,
+					29,
+					40,
+					39,
+					38
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 29,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					18,
+					30,
+					41,
+					40
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					28,
+					17,
+					19,
+					39
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 30,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					29,
+					31,
+					42,
+					41,
+					40
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					18,
+					19,
+					20
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 31,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					30,
+					42,
+					41
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					19,
+					20,
+					21,
+					32,
+					43
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 32,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					31,
+					20,
+					21,
+					43,
+					42
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 33,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					22,
+					23,
+					34,
+					45,
+					44
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 34,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					33,
+					22,
+					23,
+					24,
+					35,
+					46,
+					45,
+					44
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 35,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					34,
+					23,
+					24,
+					25,
+					36,
+					47,
+					46,
+					45
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 36,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					35,
+					24,
+					25,
+					26,
+					37,
+					48,
+					47,
+					46
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 37,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					36,
+					25,
+					26,
+					27,
+					38,
+					49,
+					48,
+					47
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 38,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					37,
+					26,
+					27,
+					28,
+					39,
+					50,
+					49,
+					48
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 39,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					38,
+					27,
+					28,
+					29,
+					40,
+					51,
+					50,
+					49
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 40,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					29,
+					30,
+					41,
+					52,
+					51
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					39,
+					28,
+					50
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 41,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					40,
+					29,
+					30,
+					31,
+					42,
+					53,
+					52,
+					51
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 42,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					41,
+					30,
+					31,
+					53,
+					52
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					32,
+					43,
+					54
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 43,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					42,
+					31,
+					32,
+					54,
+					53
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 44,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					33,
+					34,
+					45,
+					56,
+					55
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 45,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					44,
+					33,
+					34,
+					35,
+					46,
+					57,
+					56,
+					55
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 46,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					45,
+					34,
+					35,
+					36,
+					47,
+					58,
+					57,
+					56
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 47,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					46,
+					35,
+					36,
+					37,
+					48,
+					59,
+					58,
+					57
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 48,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					47,
+					36,
+					37,
+					38,
+					49,
+					60,
+					59,
+					58
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 49,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					50,
+					61,
+					60
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					48,
+					37,
+					38,
+					39,
+					59
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 50,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					49,
+					51,
+					62,
+					61,
+					60
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					38,
+					39,
+					40
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 51,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					50,
+					40,
+					41,
+					52,
+					63,
+					62,
+					61
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					39
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 52,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					51,
+					40,
+					41,
+					42,
+					53,
+					64,
+					63,
+					62
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 53,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					52,
+					41,
+					42,
+					64,
+					63
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					43,
+					54,
+					65
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 54,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					53,
+					42,
+					43,
+					65,
+					64
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 55,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					44,
+					45,
+					56,
+					67,
+					66
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 56,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					55,
+					44,
+					45,
+					46,
+					57,
+					68,
+					67,
+					66
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 57,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					56,
+					45,
+					46,
+					47,
+					58,
+					69,
+					68,
+					67
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 58,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					57,
+					46,
+					47,
+					48,
+					59,
+					70,
+					69,
+					68
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 59,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					58,
+					47,
+					48,
+					49,
+					60,
+					71,
+					70,
+					69
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 60,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					49,
+					50,
+					61,
+					72,
+					71
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					59,
+					48,
+					70
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 61,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					60,
+					49,
+					50,
+					51,
+					62,
+					73,
+					72,
+					71
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 62,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					61,
+					50,
+					51,
+					52,
+					63,
+					73,
+					72
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					74
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 63,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					62,
+					51,
+					52,
+					53,
+					64
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					75,
+					74,
+					73
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 64,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					63,
+					52,
+					53
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					54,
+					65,
+					76,
+					75,
+					74
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 65,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					64,
+					53,
+					54,
+					76,
+					75
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 66,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					55,
+					56,
+					67,
+					78,
+					77
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 67,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					66,
+					55,
+					56,
+					57,
+					68,
+					79,
+					78,
+					77
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 68,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					67,
+					56,
+					57,
+					58,
+					69,
+					80,
+					79,
+					78
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 69,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					70,
+					81,
+					80
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					68,
+					57,
+					58,
+					59,
+					79
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 70,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					69,
+					71,
+					82,
+					81,
+					80
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					58,
+					59,
+					60
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 71,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					70,
+					60,
+					61,
+					72,
+					83,
+					82,
+					81
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					59
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 72,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					71,
+					60,
+					61,
+					62,
+					73,
+					83,
+					82
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					84
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 73,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					72,
+					61,
+					62
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					63,
+					74,
+					85,
+					84,
+					83
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 74,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					73,
+					62,
+					63,
+					64,
+					75,
+					86,
+					85,
+					84
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 75,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					74,
+					63,
+					64,
+					65,
+					76,
+					87,
+					86,
+					85
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 76,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					75,
+					64,
+					65,
+					87,
+					86
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 77,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					66,
+					67,
+					78,
+					89,
+					88
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 78,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					77,
+					66,
+					67,
+					68,
+					79,
+					90,
+					89,
+					88
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 79,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					80,
+					91,
+					90
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					78,
+					67,
+					68,
+					69,
+					89
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 80,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					79,
+					69,
+					70,
+					81,
+					92,
+					91,
+					90
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					68
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 81,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					80,
+					69,
+					70,
+					71,
+					82,
+					93,
+					92,
+					91
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 82,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					81,
+					70,
+					71,
+					72,
+					83,
+					94,
+					93,
+					92
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 83,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					82,
+					71,
+					72,
+					94,
+					93
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					73,
+					84,
+					95
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 84,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					83,
+					72,
+					73,
+					74,
+					85,
+					96,
+					95,
+					94
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 85,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					84,
+					73,
+					74,
+					75,
+					86,
+					97,
+					96,
+					95
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 86,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					85,
+					74,
+					75,
+					76,
+					87,
+					98,
+					97,
+					96
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 87,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					86,
+					75,
+					76,
+					98,
+					97
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 88,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					77,
+					78,
+					89,
+					100,
+					99
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 89,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					88,
+					77,
+					78,
+					79,
+					90,
+					101,
+					100,
+					99
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 90,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					79,
+					80,
+					91,
+					102,
+					101
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					89,
+					78,
+					100
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 91,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					90,
+					79,
+					80,
+					81,
+					92,
+					103,
+					102,
+					101
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 92,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					91,
+					80,
+					81,
+					82,
+					93,
+					104,
+					103,
+					102
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 93,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					92,
+					81,
+					82,
+					83,
+					94,
+					105,
+					104,
+					103
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 94,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					93,
+					82,
+					83,
+					95,
+					106,
+					105,
+					104
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					84
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 95,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					94,
+					106,
+					105
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					83,
+					84,
+					85,
+					96,
+					107
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 96,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					95,
+					84,
+					85,
+					86,
+					97,
+					108,
+					107,
+					106
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 97,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					96,
+					85,
+					86,
+					87,
+					98,
+					109,
+					108,
+					107
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 98,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					97,
+					86,
+					87,
+					109,
+					108
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 99,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					88,
+					89,
+					100,
+					111,
+					110
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 100,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					99,
+					88,
+					89,
+					90,
+					101,
+					112,
+					111,
+					110
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 101,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					90,
+					91,
+					102,
+					113,
+					112
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					100,
+					89,
+					111
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 102,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					101,
+					90,
+					91,
+					92,
+					103,
+					114,
+					113,
+					112
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 103,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					102,
+					91,
+					92,
+					93,
+					104,
+					114,
+					113
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					115
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 104,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					103,
+					92,
+					93,
+					94,
+					105
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					116,
+					115,
+					114
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 105,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					104,
+					93,
+					94,
+					95,
+					106,
+					116
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					117,
+					115
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 106,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					105,
+					94,
+					95
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					96,
+					107,
+					118,
+					117,
+					116
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 107,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					106,
+					95,
+					96,
+					97,
+					108,
+					119,
+					118,
+					117
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 108,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					107,
+					96,
+					97,
+					98,
+					109,
+					120,
+					119,
+					118
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 109,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					108,
+					97,
+					98,
+					120,
+					119
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 110,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					99,
+					100,
+					111,
+					122,
+					121
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 111,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					110,
+					99,
+					100,
+					101,
+					112,
+					123,
+					122,
+					121
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 112,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					101,
+					102,
+					113
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					111,
+					100,
+					124,
+					123,
+					122
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 113,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					112,
+					101,
+					102,
+					103,
+					114
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					125,
+					124,
+					123
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 114,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					113,
+					102,
+					103
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					104,
+					115,
+					126,
+					125,
+					124
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 115,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					114,
+					103,
+					104,
+					105,
+					116,
+					127,
+					126,
+					125
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 3.061617e-17,
+				"Key": 116,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [
+					105
+				],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					115,
+					104,
+					106,
+					117,
+					128,
+					127,
+					126
+				],
+				"WalkableType": "Walkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 117,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					116,
+					105,
+					106,
+					107,
+					118,
+					129,
+					128,
+					127
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 118,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					117,
+					106,
+					107,
+					108,
+					119,
+					130,
+					129,
+					128
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 119,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					118,
+					107,
+					108,
+					109,
+					120,
+					131,
+					130,
+					129
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 120,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					119,
+					108,
+					109,
+					131,
+					130
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 121,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					110,
+					111,
+					122,
+					133,
+					132
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 122,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					121,
+					110,
+					111,
+					112,
+					123,
+					134,
+					133,
+					132
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 123,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					122,
+					111,
+					112,
+					113,
+					124,
+					135,
+					134,
+					133
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 124,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					123,
+					112,
+					113,
+					114,
+					125,
+					136,
+					135,
+					134
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 125,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					124,
+					113,
+					114,
+					115,
+					126,
+					137,
+					136,
+					135
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 126,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					125,
+					114,
+					115,
+					116,
+					127,
+					138,
+					137,
+					136
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 127,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					126,
+					115,
+					116,
+					117,
+					128,
+					139,
+					138,
+					137
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 128,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					127,
+					116,
+					117,
+					118,
+					129,
+					140,
+					139,
+					138
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 129,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					128,
+					117,
+					118,
+					119,
+					130,
+					141,
+					140,
+					139
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 130,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					129,
+					118,
+					119,
+					120,
+					131,
+					142,
+					141,
+					140
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 131,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					130,
+					119,
+					120,
+					142,
+					141
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 132,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					121,
+					122,
+					133
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 133,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					132,
+					121,
+					122,
+					123,
+					134
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 134,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					133,
+					122,
+					123,
+					124,
+					135
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 135,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					134,
+					123,
+					124,
+					125,
+					136
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 136,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					135,
+					124,
+					125,
+					126,
+					137
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 137,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					136,
+					125,
+					126,
+					127,
+					138
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 138,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					137,
+					126,
+					127,
+					128,
+					139
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 139,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					138,
+					127,
+					128,
+					129,
+					140
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 140,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					139,
+					128,
+					129,
+					130,
+					141
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 141,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					140,
+					129,
+					130,
+					131,
+					142
+				],
+				"WalkableType": "NotWalkable"
+			},
+			{
+				"CoverType": "NoCover",
+				"Height": 0,
+				"Key": 142,
+				"LoSBlockingType": "IsNotBlocking",
+				"ReachableNeighbours": [],
+				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
+				"UnreachableNeighbours": [
+					141,
+					130,
+					131
+				],
+				"WalkableType": "NotWalkable"
+			}
+		],
+		"Height": 13,
+		"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Grid, SRO.Core.Compatibility",
+		"Width": 11
+	},
+	"HenchHubDefinitions": [],
+	"NonPlayerEntities": [
+		{
+			"Id": "Sarah",
+			"PlayerPosition": {
+				"TypeName": "SRO.Core.Compatibility.Serialization.SerializableVector2, SRO.Core.Compatibility",
+				"X": 3.71,
+				"Y": 9.91
+			},
+			"Position": {
+				"TypeName": "SRO.Core.Compatibility.Serialization.SerializableIntVector2, SRO.Core.Compatibility",
+				"X": 3,
+				"Y": 11
+			},
+			"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.NonPlayerEntityDefinition, SRO.Core.Compatibility"
+		},
+		{
+			"Id": "Jane",
+			"PlayerPosition": {
+				"TypeName": "SRO.Core.Compatibility.Serialization.SerializableVector2, SRO.Core.Compatibility",
+				"X": 6.44625759,
+				"Y": 9.427121
+			},
+			"Position": {
+				"TypeName": "SRO.Core.Compatibility.Serialization.SerializableIntVector2, SRO.Core.Compatibility",
+				"X": 7,
+				"Y": 10
+			},
+			"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.NonPlayerEntityDefinition, SRO.Core.Compatibility"
+		},
+		{
+			"Id": "WorldMapAccessActMatrix",
+			"PlayerPosition": {
+				"TypeName": "SRO.Core.Compatibility.Serialization.SerializableVector2, SRO.Core.Compatibility",
+				"X": 8.339307,
+				"Y": 4.43217468
+			},
+			"Position": {
+				"TypeName": "SRO.Core.Compatibility.Serialization.SerializableIntVector2, SRO.Core.Compatibility",
+				"X": 10,
+				"Y": 4
+			},
+			"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.NonPlayerEntityDefinition, SRO.Core.Compatibility"
+		},
+		{
+			"Id": "Smedley",
+			"PlayerPosition": {
+				"TypeName": "SRO.Core.Compatibility.Serialization.SerializableVector2, SRO.Core.Compatibility",
+				"X": 5.213545,
+				"Y": 9.286982
+			},
+			"Position": {
+				"TypeName": "SRO.Core.Compatibility.Serialization.SerializableIntVector2, SRO.Core.Compatibility",
+				"X": 5,
+				"Y": 10
+			},
+			"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.NonPlayerEntityDefinition, SRO.Core.Compatibility"
+		},
+		{
+			"Id": "Buster",
+			"PlayerPosition": {
+				"TypeName": "SRO.Core.Compatibility.Serialization.SerializableVector2, SRO.Core.Compatibility",
+				"X": 2.50383377,
+				"Y": 9.907896
+			},
+			"Position": {
+				"TypeName": "SRO.Core.Compatibility.Serialization.SerializableIntVector2, SRO.Core.Compatibility",
+				"X": 1,
+				"Y": 10
+			},
+			"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.NonPlayerEntityDefinition, SRO.Core.Compatibility"
+		}
+	],
+	"PlayerCharacterStart": {
+		"TypeName": "SRO.Core.Compatibility.Serialization.SerializableVector3, SRO.Core.Compatibility",
+		"X": 8.5,
+		"Y": 0,
+		"Z": 3.5
+	},
+	"PlayerLimits": {
+		"HardCap": 4,
+		"SoftCap": 1,
+		"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.HubLimits, SRO.Core.Compatibility"
+	},
+	"QuestGivers": [
+		{
+			"Id": "Sarah",
+			"PlayerPosition": {
+				"TypeName": "SRO.Core.Compatibility.Serialization.SerializableVector2, SRO.Core.Compatibility",
+				"X": 3.71,
+				"Y": 9.91
+			},
+			"Position": {
+				"TypeName": "SRO.Core.Compatibility.Serialization.SerializableIntVector2, SRO.Core.Compatibility",
+				"X": 3,
+				"Y": 11
+			},
+			"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.QuestGiverDefinition, SRO.Core.Compatibility"
+		},
+		{
+			"Id": "Jane",
+			"PlayerPosition": {
+				"TypeName": "SRO.Core.Compatibility.Serialization.SerializableVector2, SRO.Core.Compatibility",
+				"X": 6.44625759,
+				"Y": 9.427121
+			},
+			"Position": {
+				"TypeName": "SRO.Core.Compatibility.Serialization.SerializableIntVector2, SRO.Core.Compatibility",
+				"X": 7,
+				"Y": 10
+			},
+			"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.QuestGiverDefinition, SRO.Core.Compatibility"
+		},
+		{
+			"Id": "Smedley",
+			"PlayerPosition": {
+				"TypeName": "SRO.Core.Compatibility.Serialization.SerializableVector2, SRO.Core.Compatibility",
+				"X": 5.213545,
+				"Y": 9.286982
+			},
+			"Position": {
+				"TypeName": "SRO.Core.Compatibility.Serialization.SerializableIntVector2, SRO.Core.Compatibility",
+				"X": 5,
+				"Y": 10
+			},
+			"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.QuestGiverDefinition, SRO.Core.Compatibility"
+		},
+		{
+			"Id": "Buster",
+			"PlayerPosition": {
+				"TypeName": "SRO.Core.Compatibility.Serialization.SerializableVector2, SRO.Core.Compatibility",
+				"X": 2.50383377,
+				"Y": 9.907896
+			},
+			"Position": {
+				"TypeName": "SRO.Core.Compatibility.Serialization.SerializableIntVector2, SRO.Core.Compatibility",
+				"X": 1,
+				"Y": 10
+			},
+			"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.QuestGiverDefinition, SRO.Core.Compatibility"
+		}
+	],
+	"ShopKeepers": [],
+	"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Hub, SRO.Core.Compatibility",
+	"WorldMapAccesses": [
+		{
+			"Id": "WorldMapAccessActMatrix",
+			"PlayerPosition": {
+				"TypeName": "SRO.Core.Compatibility.Serialization.SerializableVector2, SRO.Core.Compatibility",
+				"X": 8.339307,
+				"Y": 4.43217468
+			},
+			"Position": {
+				"TypeName": "SRO.Core.Compatibility.Serialization.SerializableIntVector2, SRO.Core.Compatibility",
+				"X": 10,
+				"Y": 4
+			},
+			"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.WorldMapAccessDefinition, SRO.Core.Compatibility"
+		}
+	]
+}
