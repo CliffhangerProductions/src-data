@@ -88026,6 +88026,7 @@
 									"Comparison": "Equal",
 									"Context": [],
 									"StatusValue": 524291,
+									"StringContext": [],
 									"Treshold": 0,
 									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.StatusValueDependentActivity, SRO.Core.Compatibility"
 								},
@@ -88034,6 +88035,7 @@
 									"Comparison": "Equal",
 									"Context": [],
 									"StatusValue": 524291,
+									"StringContext": [],
 									"Treshold": 0,
 									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.StatusValueDependentActivity, SRO.Core.Compatibility"
 								}
@@ -89171,6 +89173,7 @@
 									"Comparison": "Equal",
 									"Context": [],
 									"StatusValue": 524291,
+									"StringContext": [],
 									"Treshold": 0,
 									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.StatusValueDependentActivity, SRO.Core.Compatibility"
 								},
@@ -89179,6 +89182,7 @@
 									"Comparison": "Equal",
 									"Context": [],
 									"StatusValue": 524291,
+									"StringContext": [],
 									"Treshold": 0,
 									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.StatusValueDependentActivity, SRO.Core.Compatibility"
 								}
@@ -89790,6 +89794,7 @@
 									"Comparison": "Equal",
 									"Context": [],
 									"StatusValue": 524291,
+									"StringContext": [],
 									"Treshold": 0,
 									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.StatusValueDependentActivity, SRO.Core.Compatibility"
 								}

@@ -1450,23 +1450,22 @@
 			},
 			{
 				"CoverType": "NoCover",
-				"Height": 3.061617e-17,
+				"Height": 0,
 				"Key": 79,
 				"LoSBlockingType": "IsNotBlocking",
-				"ReachableNeighbours": [
-					80,
-					91,
-					90
-				],
+				"ReachableNeighbours": [],
 				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
 				"UnreachableNeighbours": [
 					78,
 					67,
 					68,
 					69,
+					80,
+					91,
+					90,
 					89
 				],
-				"WalkableType": "Walkable"
+				"WalkableType": "NotWalkable"
 			},
 			{
 				"CoverType": "NoCover",
@@ -1474,17 +1473,17 @@
 				"Key": 80,
 				"LoSBlockingType": "IsNotBlocking",
 				"ReachableNeighbours": [
-					79,
 					69,
 					70,
 					81,
 					92,
-					91,
-					90
+					91
 				],
 				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
 				"UnreachableNeighbours": [
-					68
+					79,
+					68,
+					90
 				],
 				"WalkableType": "Walkable"
 			},
@@ -1660,8 +1659,6 @@
 				"Key": 90,
 				"LoSBlockingType": "IsNotBlocking",
 				"ReachableNeighbours": [
-					79,
-					80,
 					91,
 					102,
 					101
@@ -1670,6 +1667,8 @@
 				"UnreachableNeighbours": [
 					89,
 					78,
+					79,
+					80,
 					100
 				],
 				"WalkableType": "Walkable"
@@ -1681,7 +1680,6 @@
 				"LoSBlockingType": "IsNotBlocking",
 				"ReachableNeighbours": [
 					90,
-					79,
 					80,
 					81,
 					92,
@@ -1690,7 +1688,9 @@
 					101
 				],
 				"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.Cell, SRO.Core.Compatibility",
-				"UnreachableNeighbours": [],
+				"UnreachableNeighbours": [
+					79
+				],
 				"WalkableType": "Walkable"
 			},
 			{
@@ -2623,6 +2623,20 @@
 	"HenchHubDefinitions": [],
 	"NonPlayerEntities": [
 		{
+			"Id": "Drone",
+			"PlayerPosition": {
+				"TypeName": "SRO.Core.Compatibility.Serialization.SerializableVector2, SRO.Core.Compatibility",
+				"X": 4.294878,
+				"Y": 7.368495
+			},
+			"Position": {
+				"TypeName": "SRO.Core.Compatibility.Serialization.SerializableIntVector2, SRO.Core.Compatibility",
+				"X": 2,
+				"Y": 7
+			},
+			"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.NonPlayerEntityDefinition, SRO.Core.Compatibility"
+		},
+		{
 			"Id": "Sarah",
 			"PlayerPosition": {
 				"TypeName": "SRO.Core.Compatibility.Serialization.SerializableVector2, SRO.Core.Compatibility",
@@ -2705,6 +2719,20 @@
 		"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.HubLimits, SRO.Core.Compatibility"
 	},
 	"QuestGivers": [
+		{
+			"Id": "Drone",
+			"PlayerPosition": {
+				"TypeName": "SRO.Core.Compatibility.Serialization.SerializableVector2, SRO.Core.Compatibility",
+				"X": 4.294878,
+				"Y": 7.368495
+			},
+			"Position": {
+				"TypeName": "SRO.Core.Compatibility.Serialization.SerializableIntVector2, SRO.Core.Compatibility",
+				"X": 2,
+				"Y": 7
+			},
+			"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.QuestGiverDefinition, SRO.Core.Compatibility"
+		},
 		{
 			"Id": "Sarah",
 			"PlayerPosition": {

@@ -23306,6 +23306,7 @@
 									"Comparison": "GreaterOrEqual",
 									"Context": [],
 									"StatusValue": 524291,
+									"StringContext": [],
 									"Treshold": 0,
 									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.StatusValueDependentActivity, SRO.Core.Compatibility"
 								}
@@ -23320,7 +23321,13 @@
 							}
 						},
 						{
-							"BlockedGridCells": [],
+							"BlockedGridCells": [
+								{
+									"TypeName": "SRO.Core.Compatibility.Serialization.SerializableIntVector2, SRO.Core.Compatibility",
+									"X": 7,
+									"Y": 39
+								}
+							],
 							"DeathActivities": [],
 							"DifficultyOffset": 0,
 							"ID": 10106,
@@ -23413,6 +23420,7 @@
 									"Comparison": "GreaterOrEqual",
 									"Context": [],
 									"StatusValue": 524291,
+									"StringContext": [],
 									"Treshold": 0,
 									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.StatusValueDependentActivity, SRO.Core.Compatibility"
 								}
@@ -23475,6 +23483,7 @@
 									"Comparison": "GreaterOrEqual",
 									"Context": [],
 									"StatusValue": 524291,
+									"StringContext": [],
 									"Treshold": 0,
 									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.StatusValueDependentActivity, SRO.Core.Compatibility"
 								}
@@ -23489,7 +23498,13 @@
 							}
 						},
 						{
-							"BlockedGridCells": [],
+							"BlockedGridCells": [
+								{
+									"TypeName": "SRO.Core.Compatibility.Serialization.SerializableIntVector2, SRO.Core.Compatibility",
+									"X": 7,
+									"Y": 27
+								}
+							],
 							"DeathActivities": [],
 							"DifficultyOffset": 0,
 							"ID": 10105,
@@ -23610,14 +23625,7 @@
 									"Comparison": "GreaterOrEqual",
 									"Context": [],
 									"StatusValue": 524291,
-									"Treshold": 0,
-									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.StatusValueDependentActivity, SRO.Core.Compatibility"
-								},
-								{
-									"ActivityId": 0,
-									"Comparison": "GreaterOrEqual",
-									"Context": [],
-									"StatusValue": 524291,
+									"StringContext": [],
 									"Treshold": 0,
 									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.StatusValueDependentActivity, SRO.Core.Compatibility"
 								},
@@ -23626,6 +23634,7 @@
 									"Comparison": "GreaterOrEqual",
 									"Context": [],
 									"StatusValue": 524291,
+									"StringContext": [],
 									"Treshold": 0,
 									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.StatusValueDependentActivity, SRO.Core.Compatibility"
 								}
@@ -23691,7 +23700,13 @@
 							}
 						},
 						{
-							"BlockedGridCells": [],
+							"BlockedGridCells": [
+								{
+									"TypeName": "SRO.Core.Compatibility.Serialization.SerializableIntVector2, SRO.Core.Compatibility",
+									"X": 7,
+									"Y": 13
+								}
+							],
 							"DeathActivities": [],
 							"DifficultyOffset": 0,
 							"ID": 10103,

@@ -42714,6 +42714,7 @@
 									"Comparison": "GreaterOrEqual",
 									"Context": [],
 									"StatusValue": 524291,
+									"StringContext": [],
 									"Treshold": 0,
 									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.StatusValueDependentActivity, SRO.Core.Compatibility"
 								},
@@ -42722,6 +42723,7 @@
 									"Comparison": "GreaterOrEqual",
 									"Context": [],
 									"StatusValue": 524291,
+									"StringContext": [],
 									"Treshold": 0,
 									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.StatusValueDependentActivity, SRO.Core.Compatibility"
 								}
@@ -44131,7 +44133,7 @@
 							"StatusValueDependentActivities": [],
 							"Template": 721599,
 							"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.SpawnpointDefinition, SRO.Core.Compatibility",
-							"UniqueGameObjectIdentifier": "dc9c41fa-4683-4128-acf6-cf34e5f571f7",
+							"UniqueGameObjectIdentifier": "b7e37056-5ff9-433f-a2d6-00b227729029",
 							"ViewDirection": {
 								"TypeName": "SRO.Core.Compatibility.Serialization.SerializableIntVector2, SRO.Core.Compatibility",
 								"X": 0,
@@ -44258,6 +44260,7 @@
 									"Comparison": "GreaterOrEqual",
 									"Context": [],
 									"StatusValue": 524291,
+									"StringContext": [],
 									"Treshold": 0,
 									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.StatusValueDependentActivity, SRO.Core.Compatibility"
 								}

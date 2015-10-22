@@ -44358,6 +44358,7 @@
 									"Comparison": "GreaterOrEqual",
 									"Context": [],
 									"StatusValue": 524291,
+									"StringContext": [],
 									"Treshold": 0,
 									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.StatusValueDependentActivity, SRO.Core.Compatibility"
 								}
@@ -44412,26 +44413,13 @@
 							"ID": 30103,
 							"IgnoreOverrideSet": false,
 							"InteractionObjectOverride": false,
-							"InteractionSkillId": 90006,
+							"InteractionSkillId": 90018,
 							"IsHenchmanSpawn": false,
 							"IsLieutenant": false,
 							"IsPlayerSpawn": false,
 							"IsRoleSpawn": false,
 							"OnActivatedActivities": [],
-							"OnDeactivatedActivities": [
-								{
-									"ActivityId": 393519,
-									"Context": [],
-									"StringContext": [
-										{
-											"Id": "LootTable",
-											"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.TriggerActivityContextStringEntry, SRO.Core.Compatibility",
-											"Value": "FirstAidWardLootTable"
-										}
-									],
-									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.ActivityRef, SRO.Core.Compatibility"
-								}
-							],
+							"OnDeactivatedActivities": [],
 							"Position": {
 								"TypeName": "SRO.Core.Compatibility.Serialization.SerializableIntVector2, SRO.Core.Compatibility",
 								"X": 32,
@@ -44443,7 +44431,7 @@
 							"StatusValueDependentActivities": [],
 							"Template": 721597,
 							"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.SpawnpointDefinition, SRO.Core.Compatibility",
-							"UniqueGameObjectIdentifier": "dc9c41fa-4683-4128-acf6-cf34e5f571f7",
+							"UniqueGameObjectIdentifier": "b7e37056-5ff9-433f-a2d6-00b227729029",
 							"ViewDirection": {
 								"TypeName": "SRO.Core.Compatibility.Serialization.SerializableIntVector2, SRO.Core.Compatibility",
 								"X": 9,
@@ -44619,6 +44607,7 @@
 									"Comparison": "Equal",
 									"Context": [],
 									"StatusValue": 524291,
+									"StringContext": [],
 									"Treshold": 0,
 									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.StatusValueDependentActivity, SRO.Core.Compatibility"
 								},
@@ -44627,6 +44616,7 @@
 									"Comparison": "Equal",
 									"Context": [],
 									"StatusValue": 524291,
+									"StringContext": [],
 									"Treshold": 0,
 									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.StatusValueDependentActivity, SRO.Core.Compatibility"
 								}

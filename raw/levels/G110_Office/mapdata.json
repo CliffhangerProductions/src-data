@@ -21618,7 +21618,7 @@
 							"ID": 10103,
 							"IgnoreOverrideSet": false,
 							"InteractionObjectOverride": false,
-							"InteractionSkillId": 90006,
+							"InteractionSkillId": 90018,
 							"IsHenchmanSpawn": false,
 							"IsLieutenant": false,
 							"IsPlayerSpawn": false,
@@ -21652,6 +21652,7 @@
 									"Comparison": "GreaterOrEqual",
 									"Context": [],
 									"StatusValue": 524295,
+									"StringContext": [],
 									"Treshold": 1,
 									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.StatusValueDependentActivity, SRO.Core.Compatibility"
 								},
@@ -21660,6 +21661,7 @@
 									"Comparison": "GreaterOrEqual",
 									"Context": [],
 									"StatusValue": 524295,
+									"StringContext": [],
 									"Treshold": 1,
 									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.StatusValueDependentActivity, SRO.Core.Compatibility"
 								}
@@ -21711,7 +21713,7 @@
 							"ID": 10104,
 							"IgnoreOverrideSet": false,
 							"InteractionObjectOverride": false,
-							"InteractionSkillId": 90006,
+							"InteractionSkillId": 90018,
 							"IsHenchmanSpawn": false,
 							"IsLieutenant": false,
 							"IsPlayerSpawn": false,
@@ -21745,6 +21747,7 @@
 									"Comparison": "GreaterOrEqual",
 									"Context": [],
 									"StatusValue": 524296,
+									"StringContext": [],
 									"Treshold": 1,
 									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.StatusValueDependentActivity, SRO.Core.Compatibility"
 								},
@@ -21753,6 +21756,7 @@
 									"Comparison": "GreaterOrEqual",
 									"Context": [],
 									"StatusValue": 524296,
+									"StringContext": [],
 									"Treshold": 1,
 									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.StatusValueDependentActivity, SRO.Core.Compatibility"
 								}

@@ -67429,6 +67429,13 @@
 										}
 									],
 									"StatusValue": 524295,
+									"StringContext": [
+										{
+											"Id": "CharacterId",
+											"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.TriggerActivityContextStringEntry, SRO.Core.Compatibility",
+											"Value": "SPAWN_Turret03"
+										}
+									],
 									"Treshold": 1,
 									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.StatusValueDependentActivity, SRO.Core.Compatibility"
 								}
@@ -67476,6 +67483,13 @@
 										}
 									],
 									"StatusValue": 524294,
+									"StringContext": [
+										{
+											"Id": "CharacterId",
+											"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.TriggerActivityContextStringEntry, SRO.Core.Compatibility",
+											"Value": "SPAWN_Turret02"
+										}
+									],
 									"Treshold": 1,
 									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.StatusValueDependentActivity, SRO.Core.Compatibility"
 								}
@@ -67523,6 +67537,13 @@
 										}
 									],
 									"StatusValue": 524293,
+									"StringContext": [
+										{
+											"Id": "CharacterId",
+											"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.TriggerActivityContextStringEntry, SRO.Core.Compatibility",
+											"Value": "SPAWN_Turret01"
+										}
+									],
 									"Treshold": 1,
 									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.StatusValueDependentActivity, SRO.Core.Compatibility"
 								}

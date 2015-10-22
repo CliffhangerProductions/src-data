@@ -34941,6 +34941,7 @@
 									"Comparison": "GreaterOrEqual",
 									"Context": [],
 									"StatusValue": 524291,
+									"StringContext": [],
 									"Treshold": 0,
 									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.StatusValueDependentActivity, SRO.Core.Compatibility"
 								}
@@ -35384,6 +35385,13 @@
 										}
 									],
 									"StatusValue": 524294,
+									"StringContext": [
+										{
+											"Id": "CharacterId",
+											"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.TriggerActivityContextStringEntry, SRO.Core.Compatibility",
+											"Value": "SPAWN_Turret01"
+										}
+									],
 									"Treshold": 1,
 									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.StatusValueDependentActivity, SRO.Core.Compatibility"
 								}

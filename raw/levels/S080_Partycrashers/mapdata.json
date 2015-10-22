@@ -20940,12 +20940,6 @@
 							"OnActivatedActivities": [],
 							"OnDeactivatedActivities": [
 								{
-									"ActivityId": 0,
-									"Context": [],
-									"StringContext": [],
-									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.ActivityRef, SRO.Core.Compatibility"
-								},
-								{
 									"ActivityId": 393268,
 									"Context": [],
 									"StringContext": [

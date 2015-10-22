@@ -1010,6 +1010,50 @@
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureModification, Cliffhanger.SRO.ServerClientCommons"
 				},
 				{
+					"Description": "cyberware reinforced arm q4 modification",
+					"Id": "CyberwareReinforcedArmQ5Modification",
+					"Layer": 5,
+					"Texture": {
+						"DefaultTexture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_ReinforcedArm_Q5_Tex",
+						"SpecificTextures": [],
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureReference, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureModification, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Description": "cyberware reinforced arm q4 modification",
+					"Id": "CyberwareReinforcedArmQ6AlphaModification",
+					"Layer": 5,
+					"Texture": {
+						"DefaultTexture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_ReinforcedArm_Q6_Alpha_Tex",
+						"SpecificTextures": [],
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureReference, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureModification, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Description": "cyberware reinforced arm q4 modification",
+					"Id": "CyberwareReinforcedArmQ7Modification",
+					"Layer": 5,
+					"Texture": {
+						"DefaultTexture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_ReinforcedArm_Q7_Alpha_Tex",
+						"SpecificTextures": [],
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureReference, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureModification, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Description": "cyberware reinforced arm q4 modification",
+					"Id": "CyberwareReinforcedArmQ6DeltaModification",
+					"Layer": 5,
+					"Texture": {
+						"DefaultTexture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_ReinforcedArm_Q6_Delta_Tex",
+						"SpecificTextures": [],
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureReference, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureModification, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
 					"Description": "cyberware wired reflexes q2 modification",
 					"Id": "CyberwareWiredReflexesQ2Modification",
 					"Layer": 5,
@@ -1043,6 +1087,50 @@
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureModification, Cliffhanger.SRO.ServerClientCommons"
 				},
 				{
+					"Description": "cyberware wired reflexes q4 modification",
+					"Id": "CyberwareWiredReflexesQ4AlphaModification",
+					"Layer": 5,
+					"Texture": {
+						"DefaultTexture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_WiredReflexes_Q4_Alpha_Tex",
+						"SpecificTextures": [],
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureReference, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureModification, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Description": "cyberware wired reflexes q4 modification",
+					"Id": "CyberwareWiredReflexesQ5AlphaModification",
+					"Layer": 5,
+					"Texture": {
+						"DefaultTexture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_WiredReflexes_Q5_Alpha_Tex",
+						"SpecificTextures": [],
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureReference, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureModification, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Description": "cyberware wired reflexes q4 modification",
+					"Id": "CyberwareWiredReflexesQ6AlphaModification",
+					"Layer": 5,
+					"Texture": {
+						"DefaultTexture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_WiredReflexes_Q6_Alpha_Tex",
+						"SpecificTextures": [],
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureReference, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureModification, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Description": "cyberware wired reflexes q4 modification",
+					"Id": "CyberwareWiredReflexesQ5DeltaModification",
+					"Layer": 5,
+					"Texture": {
+						"DefaultTexture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_WiredReflexes_Q5_Delta_Tex",
+						"SpecificTextures": [],
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureReference, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureModification, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
 					"Description": "cyberware legs q2 modification",
 					"Id": "CyberwareLegsQ2Modification",
 					"Layer": 5,
@@ -1059,6 +1147,61 @@
 					"Layer": 5,
 					"Texture": {
 						"DefaultTexture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_Legs_Q3_Tex",
+						"SpecificTextures": [],
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureReference, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureModification, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Description": "cyberware legs q3 modification",
+					"Id": "CyberwareLegsQ4AlphaModification",
+					"Layer": 5,
+					"Texture": {
+						"DefaultTexture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_Legs_Q4_Alpha_Tex",
+						"SpecificTextures": [],
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureReference, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureModification, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Description": "cyberware legs q3 modification",
+					"Id": "CyberwareLegsQ5AlphaModification",
+					"Layer": 5,
+					"Texture": {
+						"DefaultTexture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_Legs_Q5_Alpha_Tex",
+						"SpecificTextures": [],
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureReference, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureModification, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Description": "cyberware legs q3 modification",
+					"Id": "CyberwareLegsQ6AlphaModification",
+					"Layer": 5,
+					"Texture": {
+						"DefaultTexture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_Legs_Q6_Alpha_Tex",
+						"SpecificTextures": [],
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureReference, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureModification, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Description": "cyberware legs q3 modification",
+					"Id": "CyberwareLegsQ5DeltaModification",
+					"Layer": 5,
+					"Texture": {
+						"DefaultTexture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_Legs_Q5_Alpha_Tex",
+						"SpecificTextures": [],
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureReference, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureModification, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Description": "cyberware legs q3 modification",
+					"Id": "CyberwareLegsQ7Modification",
+					"Layer": 5,
+					"Texture": {
+						"DefaultTexture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_Legs_Q7_Tex",
 						"SpecificTextures": [],
 						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureReference, Cliffhanger.SRO.ServerClientCommons"
 					},
@@ -1191,6 +1334,174 @@
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureModification, Cliffhanger.SRO.ServerClientCommons"
 				},
 				{
+					"Description": "cyberware dermal plating q4 modification",
+					"Id": "CyberwareDermalPlatingQ4AlphaModification",
+					"Layer": 5,
+					"Texture": {
+						"DefaultTexture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_DermalPlating_Q4_Alpha_Tex_M",
+						"SpecificTextures": [
+							{
+								"GenderId": "F",
+								"RaceId": "human",
+								"Texture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_DermalPlating_Q4_Alpha_Tex_F",
+								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.SpecificBodyTexture, Cliffhanger.SRO.ServerClientCommons"
+							},
+							{
+								"GenderId": "F",
+								"RaceId": "orc",
+								"Texture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_DermalPlating_Q4_Alpha_Tex_F",
+								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.SpecificBodyTexture, Cliffhanger.SRO.ServerClientCommons"
+							},
+							{
+								"GenderId": "F",
+								"RaceId": "elf",
+								"Texture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_DermalPlating_Q4_Alpha_Tex_F",
+								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.SpecificBodyTexture, Cliffhanger.SRO.ServerClientCommons"
+							},
+							{
+								"GenderId": "F",
+								"RaceId": "troll",
+								"Texture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_DermalPlating_Q4_Alpha_Tex_F",
+								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.SpecificBodyTexture, Cliffhanger.SRO.ServerClientCommons"
+							},
+							{
+								"GenderId": "F",
+								"RaceId": "dwarf",
+								"Texture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_DermalPlating_Q4_Alpha_Tex_F",
+								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.SpecificBodyTexture, Cliffhanger.SRO.ServerClientCommons"
+							}
+						],
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureReference, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureModification, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Description": "cyberware dermal plating q5 modification",
+					"Id": "CyberwareDermalPlatingQ5DeltaModification",
+					"Layer": 5,
+					"Texture": {
+						"DefaultTexture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_DermalPlating_Q5_Delta_Tex_M",
+						"SpecificTextures": [
+							{
+								"GenderId": "F",
+								"RaceId": "human",
+								"Texture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_DermalPlating_Q5_Delta_Tex_F",
+								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.SpecificBodyTexture, Cliffhanger.SRO.ServerClientCommons"
+							},
+							{
+								"GenderId": "F",
+								"RaceId": "orc",
+								"Texture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_DermalPlating_Q5_Delta_Tex_F",
+								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.SpecificBodyTexture, Cliffhanger.SRO.ServerClientCommons"
+							},
+							{
+								"GenderId": "F",
+								"RaceId": "elf",
+								"Texture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_DermalPlating_Q5_Delta_Tex_F",
+								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.SpecificBodyTexture, Cliffhanger.SRO.ServerClientCommons"
+							},
+							{
+								"GenderId": "F",
+								"RaceId": "troll",
+								"Texture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_DermalPlating_Q5_Delta_Tex_F",
+								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.SpecificBodyTexture, Cliffhanger.SRO.ServerClientCommons"
+							},
+							{
+								"GenderId": "F",
+								"RaceId": "dwarf",
+								"Texture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_DermalPlating_Q5_Delta_Tex_F",
+								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.SpecificBodyTexture, Cliffhanger.SRO.ServerClientCommons"
+							}
+						],
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureReference, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureModification, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Description": "cyberware dermal plating q5 modification",
+					"Id": "CyberwareDermalPlatingQ5AlphaModification",
+					"Layer": 5,
+					"Texture": {
+						"DefaultTexture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_DermalPlating_Q5_Alpha_Tex_M",
+						"SpecificTextures": [
+							{
+								"GenderId": "F",
+								"RaceId": "human",
+								"Texture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_DermalPlating_Q5_Alpha_Tex_F",
+								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.SpecificBodyTexture, Cliffhanger.SRO.ServerClientCommons"
+							},
+							{
+								"GenderId": "F",
+								"RaceId": "orc",
+								"Texture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_DermalPlating_Q5_Alpha_Tex_F",
+								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.SpecificBodyTexture, Cliffhanger.SRO.ServerClientCommons"
+							},
+							{
+								"GenderId": "F",
+								"RaceId": "elf",
+								"Texture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_DermalPlating_Q5_Alpha_Tex_F",
+								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.SpecificBodyTexture, Cliffhanger.SRO.ServerClientCommons"
+							},
+							{
+								"GenderId": "F",
+								"RaceId": "troll",
+								"Texture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_DermalPlating_Q5_Alpha_Tex_F",
+								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.SpecificBodyTexture, Cliffhanger.SRO.ServerClientCommons"
+							},
+							{
+								"GenderId": "F",
+								"RaceId": "dwarf",
+								"Texture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_DermalPlating_Q5_Alpha_Tex_F",
+								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.SpecificBodyTexture, Cliffhanger.SRO.ServerClientCommons"
+							}
+						],
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureReference, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureModification, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Description": "cyberware dermal plating q4 modification",
+					"Id": "CyberwareDermalPlatingQ6AlphaModification",
+					"Layer": 5,
+					"Texture": {
+						"DefaultTexture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_DermalPlating_Q6_Alpha_Tex_M",
+						"SpecificTextures": [
+							{
+								"GenderId": "F",
+								"RaceId": "human",
+								"Texture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_DermalPlating_Q4_Alpha_Tex_F",
+								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.SpecificBodyTexture, Cliffhanger.SRO.ServerClientCommons"
+							},
+							{
+								"GenderId": "F",
+								"RaceId": "orc",
+								"Texture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_DermalPlating_Q4_Alpha_Tex_F",
+								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.SpecificBodyTexture, Cliffhanger.SRO.ServerClientCommons"
+							},
+							{
+								"GenderId": "F",
+								"RaceId": "elf",
+								"Texture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_DermalPlating_Q4_Alpha_Tex_F",
+								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.SpecificBodyTexture, Cliffhanger.SRO.ServerClientCommons"
+							},
+							{
+								"GenderId": "F",
+								"RaceId": "troll",
+								"Texture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_DermalPlating_Q4_Alpha_Tex_F",
+								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.SpecificBodyTexture, Cliffhanger.SRO.ServerClientCommons"
+							},
+							{
+								"GenderId": "F",
+								"RaceId": "dwarf",
+								"Texture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_DermalPlating_Q4_Alpha_Tex_F",
+								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.SpecificBodyTexture, Cliffhanger.SRO.ServerClientCommons"
+							}
+						],
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureReference, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureModification, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
 					"Description": "cyberware glandular implants q2 modification",
 					"Id": "CyberwareGlandularImplantsQ2Modification",
 					"Layer": 5,
@@ -1218,6 +1529,50 @@
 					"Layer": 5,
 					"Texture": {
 						"DefaultTexture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_GlandularImplants_Q4_Tex",
+						"SpecificTextures": [],
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureReference, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureModification, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Description": "cyberware glandular implants q4 modification",
+					"Id": "CyberwareGlandularImplantsQ4AlphaModification",
+					"Layer": 5,
+					"Texture": {
+						"DefaultTexture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_GlandularImplants_Q4_Alpha.Tex",
+						"SpecificTextures": [],
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureReference, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureModification, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Description": "cyberware glandular implants q4 modification",
+					"Id": "CyberwareGlandularImplantsQ6AlphaModification",
+					"Layer": 5,
+					"Texture": {
+						"DefaultTexture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_GlandularImplants_Q6_Alpha.Tex",
+						"SpecificTextures": [],
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureReference, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureModification, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Description": "cyberware glandular implants q4 modification",
+					"Id": "CyberwareGlandularImplantsQ5AlphaModification",
+					"Layer": 5,
+					"Texture": {
+						"DefaultTexture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_GlandularImplants_Q5_Alpha.Tex",
+						"SpecificTextures": [],
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureReference, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureModification, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Description": "cyberware glandular implants q4 modification",
+					"Id": "CyberwareGlandularImplantsQ5DeltaModification",
+					"Layer": 5,
+					"Texture": {
+						"DefaultTexture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_GlandularImplants_Q5_Delta.Tex",
 						"SpecificTextures": [],
 						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureReference, Cliffhanger.SRO.ServerClientCommons"
 					},
@@ -1262,6 +1617,50 @@
 					"Layer": 5,
 					"Texture": {
 						"DefaultTexture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_StabilizedArm_Q4_Tex",
+						"SpecificTextures": [],
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureReference, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureModification, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Description": "cyberware stabilized arm q4 modification",
+					"Id": "CyberwareStabilizedArmQ5Modification",
+					"Layer": 5,
+					"Texture": {
+						"DefaultTexture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_StabilizedArm_Q5_Tex",
+						"SpecificTextures": [],
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureReference, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureModification, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Description": "cyberware stabilized arm q4 modification",
+					"Id": "CyberwareStabilizedArmQ6AlphaModification",
+					"Layer": 5,
+					"Texture": {
+						"DefaultTexture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_StabilizedArm_Q6_Alpha_Tex",
+						"SpecificTextures": [],
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureReference, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureModification, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Description": "cyberware stabilized arm q4 modification",
+					"Id": "CyberwareStabilizedArmQ6DeltaModification",
+					"Layer": 5,
+					"Texture": {
+						"DefaultTexture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_StabilizedArm_Q6_Delta_Tex",
+						"SpecificTextures": [],
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureReference, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureModification, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Description": "cyberware stabilized arm q4 modification",
+					"Id": "CyberwareStabilizedArmQ7Modification",
+					"Layer": 5,
+					"Texture": {
+						"DefaultTexture": "CharacterCreation/Body/Textures/Cyberware/Cyberware_StabilizedArm_Q7_Tex",
 						"SpecificTextures": [],
 						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.BodyTextureReference, Cliffhanger.SRO.ServerClientCommons"
 					},
@@ -11758,6 +12157,114 @@
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Meshset, Cliffhanger.SRO.ServerClientCommons"
 				},
 				{
+					"Id": "CyberwareCranialRemoteQ4AlphaMeshSet",
+					"Layer": 30,
+					"Meshsets": [
+						{
+							"Prefab": "CharacterCreation/Items/Prefabs/Cyberware/Cyberware_Head",
+							"RemovedZones": [],
+							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MeshsetEntry, Cliffhanger.SRO.ServerClientCommons",
+							"Zones": [
+								"hatzone",
+								"head"
+							]
+						},
+						{
+							"Prefab": "CharacterCreation/Items/Prefabs/Empty",
+							"RemovedZones": [],
+							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MeshsetEntry, Cliffhanger.SRO.ServerClientCommons",
+							"Zones": []
+						}
+					],
+					"Texture": {
+						"Mask": null,
+						"Texture": "CharacterCreation/Items/Textures/Cyberware/Cyberware_CranialRemote_Q4_Alpha_Tex",
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.TextureEntry, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Meshset, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "CyberwareCranialRemoteQ5AlphaMeshSet",
+					"Layer": 30,
+					"Meshsets": [
+						{
+							"Prefab": "CharacterCreation/Items/Prefabs/Cyberware/Cyberware_Head",
+							"RemovedZones": [],
+							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MeshsetEntry, Cliffhanger.SRO.ServerClientCommons",
+							"Zones": [
+								"hatzone",
+								"head"
+							]
+						},
+						{
+							"Prefab": "CharacterCreation/Items/Prefabs/Empty",
+							"RemovedZones": [],
+							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MeshsetEntry, Cliffhanger.SRO.ServerClientCommons",
+							"Zones": []
+						}
+					],
+					"Texture": {
+						"Mask": null,
+						"Texture": "CharacterCreation/Items/Textures/Cyberware/Cyberware_CranialRemote_Q5_Alpha_Tex",
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.TextureEntry, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Meshset, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "CyberwareCranialRemoteQ5DeltaMeshSet",
+					"Layer": 30,
+					"Meshsets": [
+						{
+							"Prefab": "CharacterCreation/Items/Prefabs/Cyberware/Cyberware_Head",
+							"RemovedZones": [],
+							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MeshsetEntry, Cliffhanger.SRO.ServerClientCommons",
+							"Zones": [
+								"hatzone",
+								"head"
+							]
+						},
+						{
+							"Prefab": "CharacterCreation/Items/Prefabs/Empty",
+							"RemovedZones": [],
+							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MeshsetEntry, Cliffhanger.SRO.ServerClientCommons",
+							"Zones": []
+						}
+					],
+					"Texture": {
+						"Mask": null,
+						"Texture": "CharacterCreation/Items/Textures/Cyberware/Cyberware_CranialRemote_Q5_Delta_Tex",
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.TextureEntry, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Meshset, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "CyberwareCranialRemoteQ6AlphaMeshSet",
+					"Layer": 30,
+					"Meshsets": [
+						{
+							"Prefab": "CharacterCreation/Items/Prefabs/Cyberware/Cyberware_Head",
+							"RemovedZones": [],
+							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MeshsetEntry, Cliffhanger.SRO.ServerClientCommons",
+							"Zones": [
+								"hatzone",
+								"head"
+							]
+						},
+						{
+							"Prefab": "CharacterCreation/Items/Prefabs/Empty",
+							"RemovedZones": [],
+							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MeshsetEntry, Cliffhanger.SRO.ServerClientCommons",
+							"Zones": []
+						}
+					],
+					"Texture": {
+						"Mask": null,
+						"Texture": "CharacterCreation/Items/Textures/Cyberware/Cyberware_CranialRemote_Q6__Alpha_Tex",
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.TextureEntry, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Meshset, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
 					"Id": "CyberwareCranialRemoteQ4MeshSet",
 					"Layer": 30,
 					"Meshsets": [
@@ -11866,6 +12373,114 @@
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Meshset, Cliffhanger.SRO.ServerClientCommons"
 				},
 				{
+					"Id": "CyberwareVisionMagnificationQ3AlphaMeshSet",
+					"Layer": 30,
+					"Meshsets": [
+						{
+							"Prefab": "CharacterCreation/Items/Prefabs/Cyberware/Cyberware_EyeBoth",
+							"RemovedZones": [],
+							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MeshsetEntry, Cliffhanger.SRO.ServerClientCommons",
+							"Zones": [
+								"eyes",
+								"head"
+							]
+						},
+						{
+							"Prefab": "CharacterCreation/Items/Prefabs/Empty",
+							"RemovedZones": [],
+							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MeshsetEntry, Cliffhanger.SRO.ServerClientCommons",
+							"Zones": []
+						}
+					],
+					"Texture": {
+						"Mask": null,
+						"Texture": "CharacterCreation/Items/Textures/Cyberware/Cyberware_VisionMagnification_Q3_Alpha.Tex",
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.TextureEntry, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Meshset, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "CyberwareVisionMagnificationQ4AlphaMeshSet",
+					"Layer": 30,
+					"Meshsets": [
+						{
+							"Prefab": "CharacterCreation/Items/Prefabs/Cyberware/Cyberware_EyeBoth",
+							"RemovedZones": [],
+							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MeshsetEntry, Cliffhanger.SRO.ServerClientCommons",
+							"Zones": [
+								"eyes",
+								"head"
+							]
+						},
+						{
+							"Prefab": "CharacterCreation/Items/Prefabs/Empty",
+							"RemovedZones": [],
+							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MeshsetEntry, Cliffhanger.SRO.ServerClientCommons",
+							"Zones": []
+						}
+					],
+					"Texture": {
+						"Mask": null,
+						"Texture": "CharacterCreation/Items/Textures/Cyberware/Cyberware_VisionMagnification_Q4_Alpha.Tex",
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.TextureEntry, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Meshset, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "CyberwareVisionMagnificationQ4DeltaMeshSet",
+					"Layer": 30,
+					"Meshsets": [
+						{
+							"Prefab": "CharacterCreation/Items/Prefabs/Cyberware/Cyberware_EyeBoth",
+							"RemovedZones": [],
+							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MeshsetEntry, Cliffhanger.SRO.ServerClientCommons",
+							"Zones": [
+								"eyes",
+								"head"
+							]
+						},
+						{
+							"Prefab": "CharacterCreation/Items/Prefabs/Empty",
+							"RemovedZones": [],
+							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MeshsetEntry, Cliffhanger.SRO.ServerClientCommons",
+							"Zones": []
+						}
+					],
+					"Texture": {
+						"Mask": null,
+						"Texture": "CharacterCreation/Items/Textures/Cyberware/Cyberware_VisionMagnification_Q4_Delta.Tex",
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.TextureEntry, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Meshset, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "CyberwareVisionMagnificationQ5AlphaMeshSet",
+					"Layer": 30,
+					"Meshsets": [
+						{
+							"Prefab": "CharacterCreation/Items/Prefabs/Cyberware/Cyberware_EyeBoth",
+							"RemovedZones": [],
+							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MeshsetEntry, Cliffhanger.SRO.ServerClientCommons",
+							"Zones": [
+								"eyes",
+								"head"
+							]
+						},
+						{
+							"Prefab": "CharacterCreation/Items/Prefabs/Empty",
+							"RemovedZones": [],
+							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MeshsetEntry, Cliffhanger.SRO.ServerClientCommons",
+							"Zones": []
+						}
+					],
+					"Texture": {
+						"Mask": null,
+						"Texture": "CharacterCreation/Items/Textures/Cyberware/Cyberware_VisionMagnification_Q5_Alpha.Tex",
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.TextureEntry, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Meshset, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
 					"Id": "CyberwareBoostedComlinkLeftQ2MeshSet",
 					"Layer": 30,
 					"Meshsets": [
@@ -11888,6 +12503,155 @@
 					"Texture": {
 						"Mask": null,
 						"Texture": "CharacterCreation/Items/Textures/Cyberware/Cyberware_BoostedComlink_Q2_Tex",
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.TextureEntry, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Meshset, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "CyberwareBoostedComlinkLeftQ2AlphaMeshSet",
+					"Layer": 30,
+					"Meshsets": [
+						{
+							"Prefab": "CharacterCreation/Items/Prefabs/Cyberware/Cyberware_ComLinkLeft",
+							"RemovedZones": [],
+							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MeshsetEntry, Cliffhanger.SRO.ServerClientCommons",
+							"Zones": [
+								"eyes",
+								"head"
+							]
+						},
+						{
+							"Prefab": "CharacterCreation/Items/Prefabs/Empty",
+							"RemovedZones": [],
+							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MeshsetEntry, Cliffhanger.SRO.ServerClientCommons",
+							"Zones": []
+						}
+					],
+					"Texture": {
+						"Mask": null,
+						"Texture": "CharacterCreation/Items/Textures/Cyberware/Cyberware_BoostedComlink_Q2_Alpha_Tex",
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.TextureEntry, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Meshset, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "CyberwareBoostedComlinkLeftQ2DeltaMeshSet",
+					"Layer": 30,
+					"Meshsets": [
+						{
+							"Prefab": "CharacterCreation/Items/Prefabs/Cyberware/Cyberware_ComLinkLeft",
+							"RemovedZones": [],
+							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MeshsetEntry, Cliffhanger.SRO.ServerClientCommons",
+							"Zones": [
+								"eyes",
+								"head"
+							]
+						},
+						{
+							"Prefab": "CharacterCreation/Items/Prefabs/Empty",
+							"RemovedZones": [],
+							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MeshsetEntry, Cliffhanger.SRO.ServerClientCommons",
+							"Zones": []
+						}
+					],
+					"Texture": {
+						"Mask": null,
+						"Texture": "CharacterCreation/Items/Textures/Cyberware/Cyberware_BoostedComlink_Q2_Delta_Tex",
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.TextureEntry, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Meshset, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "CyberwareBoostedComlinkLeftQ3AlphaMeshSet",
+					"Layer": 30,
+					"Meshsets": [
+						{
+							"Prefab": "CharacterCreation/Items/Prefabs/Cyberware/Cyberware_ComLinkLeft",
+							"RemovedZones": [],
+							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MeshsetEntry, Cliffhanger.SRO.ServerClientCommons",
+							"Zones": [
+								"eyes",
+								"head"
+							]
+						},
+						{
+							"Prefab": "CharacterCreation/Items/Prefabs/Empty",
+							"RemovedZones": [],
+							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MeshsetEntry, Cliffhanger.SRO.ServerClientCommons",
+							"Zones": []
+						}
+					],
+					"Texture": {
+						"Mask": null,
+						"Texture": "CharacterCreation/Items/Textures/Cyberware/Cyberware_BoostedComlink_Q3_Alpha_Tex",
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.TextureEntry, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Meshset, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"Id": "CyberwareLegsQ5DeltaMeshSet",
+					"Layer": 12,
+					"Meshsets": [
+						{
+							"Prefab": "CharacterCreation/Items/Prefabs/Cyberware/Cyberware_Legs",
+							"RemovedZones": [
+								"leg_L",
+								"lowerleg_L",
+								"foot_L",
+								"leg_R",
+								"lowerleg_R",
+								"foot_R"
+							],
+							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MeshsetEntry, Cliffhanger.SRO.ServerClientCommons",
+							"Zones": [
+								"leg_L_cyberware",
+								"lowerleg_L_cyberware",
+								"foot_L",
+								"leg_R_cyberware",
+								"lowerleg_R_cyberware",
+								"foot_R"
+							]
+						},
+						{
+							"Prefab": "CharacterCreation/Items/Prefabs/Cyberware/Cyberware_LegsShort",
+							"RemovedZones": [
+								"leg_L",
+								"lowerleg_L",
+								"foot_L",
+								"leg_R",
+								"lowerleg_R",
+								"foot_R"
+							],
+							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MeshsetEntry, Cliffhanger.SRO.ServerClientCommons",
+							"Zones": [
+								"leg_L_cyberware",
+								"lowerleg_L_cyberware",
+								"leg_R_cyberware",
+								"lowerleg_R_cyberware"
+							]
+						},
+						{
+							"Prefab": "CharacterCreation/Items/Prefabs/Cyberware/Cyberware_LegsFeet",
+							"RemovedZones": [
+								"foot_L",
+								"foot_R"
+							],
+							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MeshsetEntry, Cliffhanger.SRO.ServerClientCommons",
+							"Zones": [
+								"foot_L_cyberware",
+								"foot_R_cyberware"
+							]
+						},
+						{
+							"Prefab": "CharacterCreation/Items/Prefabs/Empty",
+							"RemovedZones": [],
+							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MeshsetEntry, Cliffhanger.SRO.ServerClientCommons",
+							"Zones": []
+						}
+					],
+					"Texture": {
+						"Mask": null,
+						"Texture": "CharacterCreation/Items/Textures/Cyberware/Cyberware_Legs_Q5_Delta_Tex",
 						"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.TextureEntry, Cliffhanger.SRO.ServerClientCommons"
 					},
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Meshset, Cliffhanger.SRO.ServerClientCommons"
@@ -17068,6 +17832,38 @@
 				},
 				{
 					"AlternateTorso": false,
+					"BodyTextureModificationId": "CyberwareWiredReflexesQ4AlphaModification",
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareWiredReflexesQ4Alpha",
+					"MeshsetId": null,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
+					"BodyTextureModificationId": "CyberwareWiredReflexesQ5AlphaModification",
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareWiredReflexesQ5Alpha",
+					"MeshsetId": null,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
+					"BodyTextureModificationId": "CyberwareWiredReflexesQ5DeltaModification",
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareWiredReflexesQ5Delta",
+					"MeshsetId": null,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
+					"BodyTextureModificationId": "CyberwareWiredReflexesQ6AlphaModification",
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareWiredReflexesQ6Alpha",
+					"MeshsetId": null,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
 					"BodyTextureModificationId": "CyberwareReinforcedArmQ1Modification",
 					"ColorCustomizationIds": null,
 					"Id": "CyberwareReinforcedArmQ1",
@@ -17100,6 +17896,38 @@
 				},
 				{
 					"AlternateTorso": false,
+					"BodyTextureModificationId": "CyberwareReinforcedArmQ5Modification",
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareReinforcedArmQ5",
+					"MeshsetId": null,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
+					"BodyTextureModificationId": "CyberwareReinforcedArmQ6AlphaModification",
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareReinforcedArmQ6Alpha",
+					"MeshsetId": null,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
+					"BodyTextureModificationId": "CyberwareReinforcedArmQ6DeltaModification",
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareReinforcedArmQ6Delta",
+					"MeshsetId": null,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
+					"BodyTextureModificationId": "CyberwareReinforcedArmQ7Modification",
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareReinforcedArmQ7",
+					"MeshsetId": null,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
 					"BodyTextureModificationId": "CyberwareDermalPlatingQ2Modification",
 					"ColorCustomizationIds": null,
 					"Id": "CyberwareDermalPlatingQ2",
@@ -17124,6 +17952,38 @@
 				},
 				{
 					"AlternateTorso": false,
+					"BodyTextureModificationId": "CyberwareDermalPlatingQ4AlphaModification",
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareDermalPlatingQ4Alpha",
+					"MeshsetId": null,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
+					"BodyTextureModificationId": "CyberwareDermalPlatingQ5AlphaModification",
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareDermalPlatingQ5Alpha",
+					"MeshsetId": null,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
+					"BodyTextureModificationId": "CyberwareDermalPlatingQ5DeltaModification",
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareDermalPlatingQ5Delta",
+					"MeshsetId": null,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
+					"BodyTextureModificationId": "CyberwareDermalPlatingQ6AlphaModification",
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareDermalPlatingQ6Alpha",
+					"MeshsetId": null,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
 					"BodyTextureModificationId": "CyberwareGlandularImplantsQ2Modification",
 					"ColorCustomizationIds": null,
 					"Id": "CyberwareGlandularImplantsQ2",
@@ -17143,6 +18003,38 @@
 					"BodyTextureModificationId": "CyberwareGlandularImplantsQ4Modification",
 					"ColorCustomizationIds": null,
 					"Id": "CyberwareGlandularImplantsQ4",
+					"MeshsetId": null,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
+					"BodyTextureModificationId": "CyberwareGlandularImplantsQ4AlphaModification",
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareGlandularImplantsQ4Alpha",
+					"MeshsetId": null,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
+					"BodyTextureModificationId": "CyberwareGlandularImplantsQ5AlphaModification",
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareGlandularImplantsQ5Alpha",
+					"MeshsetId": null,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
+					"BodyTextureModificationId": "CyberwareGlandularImplantsQ5DeltaModification",
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareGlandularImplantsQ5Delta",
+					"MeshsetId": null,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
+					"BodyTextureModificationId": "CyberwareGlandularImplantsQ6AlphaModification",
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareGlandularImplantsQ6Alpha",
 					"MeshsetId": null,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -17180,6 +18072,38 @@
 				},
 				{
 					"AlternateTorso": false,
+					"BodyTextureModificationId": "CyberwareStabilizedArmQ5Modification",
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareStabilizedArmQ5",
+					"MeshsetId": null,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
+					"BodyTextureModificationId": "CyberwareStabilizedArmQ6AlphaModification",
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareStabilizedArmQ6Alpha",
+					"MeshsetId": null,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
+					"BodyTextureModificationId": "CyberwareStabilizedArmQ6DeltaModification",
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareStabilizedArmQ6Delta",
+					"MeshsetId": null,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
+					"BodyTextureModificationId": "CyberwareStabilizedArmQ7Modification",
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareStabilizedArmQ7",
+					"MeshsetId": null,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
 					"BodyTextureModificationId": "CyberwarePneumaticArmModification",
 					"ColorCustomizationIds": null,
 					"Id": "CyberwarePneumaticArm",
@@ -17212,6 +18136,46 @@
 				},
 				{
 					"AlternateTorso": false,
+					"BodyTextureModificationId": "CyberwareLegsQ4AlphaModification",
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareLegsQ4Alpha",
+					"MeshsetId": null,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
+					"BodyTextureModificationId": "CyberwareLegsQ5AlphaModification",
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareLegsQ5Alpha",
+					"MeshsetId": null,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
+					"BodyTextureModificationId": "CyberwareLegsQ6AlphaModification",
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareLegsQ6Alpha",
+					"MeshsetId": null,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
+					"BodyTextureModificationId": "CyberwareLegsQ7Modification",
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareLegsQ7",
+					"MeshsetId": null,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
+					"BodyTextureModificationId": "CyberwareLegsQ5DeltaModification",
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareLegsQ5Delta",
+					"MeshsetId": "CyberwareLegsQ5DeltaMeshSet",
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
 					"BodyTextureModificationId": null,
 					"ColorCustomizationIds": null,
 					"Id": "CyberwareVisionMagnificationQ3",
@@ -17230,8 +18194,64 @@
 					"AlternateTorso": false,
 					"BodyTextureModificationId": null,
 					"ColorCustomizationIds": null,
+					"Id": "CyberwareVisionMagnificationQ4Alpha",
+					"MeshsetId": "CyberwareVisionMagnificationQ4AlphaMeshSet",
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
+					"BodyTextureModificationId": null,
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareVisionMagnificationQ5Alpha",
+					"MeshsetId": "CyberwareVisionMagnificationQ5AlphaMeshSet",
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
+					"BodyTextureModificationId": null,
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareVisionMagnificationQ4Delta",
+					"MeshsetId": "CyberwareVisionMagnificationQ4DeltaMeshSet",
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
+					"BodyTextureModificationId": null,
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareVisionMagnificationQ3Alpha",
+					"MeshsetId": "CyberwareVisionMagnificationQ3AlphaMeshSet",
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
+					"BodyTextureModificationId": null,
+					"ColorCustomizationIds": null,
 					"Id": "CyberwareBoostedComlinkQ2",
 					"MeshsetId": "CyberwareBoostedComlinkLeftQ2MeshSet",
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
+					"BodyTextureModificationId": null,
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareBoostedComlinkQ2Alpha",
+					"MeshsetId": "CyberwareBoostedComlinkLeftQ2AlphaMeshSet",
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
+					"BodyTextureModificationId": null,
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareBoostedComlinkQ2Delta",
+					"MeshsetId": "CyberwareBoostedComlinkLeftQ2DeltaMeshSet",
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
+					"BodyTextureModificationId": null,
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareBoostedComlinkQ3Alpha",
+					"MeshsetId": "CyberwareBoostedComlinkLeftQ3AlphaMeshSet",
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
 				},
 				{
@@ -17256,6 +18276,38 @@
 					"ColorCustomizationIds": null,
 					"Id": "CyberwareCranialRemoteQ4",
 					"MeshsetId": "CyberwareCranialRemoteQ4MeshSet",
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
+					"BodyTextureModificationId": null,
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareCranialRemoteQ4Alpha",
+					"MeshsetId": "CyberwareCranialRemoteQ4AlphaMeshSet",
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
+					"BodyTextureModificationId": null,
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareCranialRemoteQ5Alpha",
+					"MeshsetId": "CyberwareCranialRemoteQ5AlphaMeshSet",
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
+					"BodyTextureModificationId": null,
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareCranialRemoteQ5Delta",
+					"MeshsetId": "CyberwareCranialRemoteQ5DeltaMeshSet",
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
+					"BodyTextureModificationId": null,
+					"ColorCustomizationIds": null,
+					"Id": "CyberwareCranialRemoteQ6Alpha",
+					"MeshsetId": "CyberwareCranialRemoteQ6AlphaMeshSet",
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
 				},
 				{
@@ -30580,6 +31632,306 @@
 		},
 		{
 			"AgentIconPath": "",
+			"AgentPrefabPath": "Prefabs/Characters/CraziesSquatter",
+			"DisplayName": "Character.ZombieElite.Name",
+			"Id": 721327,
+			"InternalName": "HeadcasesElite/Melee",
+			"PlayerSelectionIconPath": null,
+			"TurnIconPath": null,
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "",
+			"AgentPrefabPath": "Prefabs/Characters/CraziesMantis",
+			"DisplayName": "Character.PreyingMantisElite.Name",
+			"Id": 721328,
+			"InternalName": "HeadcasesElite/MeleeAdvanced",
+			"PlayerSelectionIconPath": null,
+			"TurnIconPath": null,
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "",
+			"AgentPrefabPath": "Prefabs/Characters/Headcases_Berserker",
+			"DisplayName": "Character.InfectedBerserkerElite.Name",
+			"Id": 721329,
+			"InternalName": "HeadcasesElite/Ranged",
+			"PlayerSelectionIconPath": null,
+			"TurnIconPath": null,
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "",
+			"AgentPrefabPath": "Prefabs/Characters/CraziesHiveController",
+			"DisplayName": "Character.HiveControllerElite.Name",
+			"Id": 721330,
+			"InternalName": "HeadcasesElite/RangedAdvanced",
+			"PlayerSelectionIconPath": null,
+			"TurnIconPath": null,
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "",
+			"AgentPrefabPath": "Prefabs/Characters/Electrocutioner",
+			"DisplayName": "Character.SuicideBomberElite.Name",
+			"Id": 721331,
+			"InternalName": "HeadcasesElite/Special",
+			"PlayerSelectionIconPath": null,
+			"TurnIconPath": null,
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "",
+			"AgentPrefabPath": "Prefabs/Characters/CraziesBug",
+			"DisplayName": "Character.BugElite.Name",
+			"Id": 721332,
+			"InternalName": "HeadcasesElite/SpecialAdvanced",
+			"PlayerSelectionIconPath": null,
+			"TurnIconPath": null,
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "",
+			"AgentPrefabPath": "Prefabs/Characters/CraziesTurret1",
+			"DisplayName": "Character.HoboTurretElite.Name",
+			"Id": 721333,
+			"InternalName": "HeadcasesElite/Turret",
+			"PlayerSelectionIconPath": null,
+			"TurnIconPath": null,
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "",
+			"AgentPrefabPath": "Prefabs/Characters/CraziesTurret2",
+			"DisplayName": "Character.HoboTurretAdvancedElite.Name",
+			"Id": 721334,
+			"InternalName": "HeadcasesElite/TurretAdvanced",
+			"PlayerSelectionIconPath": null,
+			"TurnIconPath": null,
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "",
+			"AgentPrefabPath": "Prefabs/Characters/Cyberdog1",
+			"DisplayName": "Character.HoboAlarmElite.Name",
+			"Id": 721335,
+			"InternalName": "HeadcasesElite/Alarm",
+			"PlayerSelectionIconPath": null,
+			"TurnIconPath": null,
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "",
+			"AgentPrefabPath": "Prefabs/Characters/Cyberdog2",
+			"DisplayName": "Character.HoboAlarmAdvancedElite.Name",
+			"Id": 721336,
+			"InternalName": "HeadcasesElite/AlertAdvanced",
+			"PlayerSelectionIconPath": null,
+			"TurnIconPath": null,
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "",
+			"AgentPrefabPath": "Prefabs/Characters/TechnomancerTrollMale_01",
+			"DisplayName": "Character.TechnomancerMelee.Name",
+			"Id": 721337,
+			"InternalName": "Technomancers/Brawler",
+			"PlayerSelectionIconPath": null,
+			"TurnIconPath": null,
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "",
+			"AgentPrefabPath": "Prefabs/Characters/TechnomancerDwarfFemale_01",
+			"DisplayName": "Character.TechnomancerRanged.Name",
+			"Id": 721338,
+			"InternalName": "Technomancers/Shooter",
+			"PlayerSelectionIconPath": null,
+			"TurnIconPath": null,
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "",
+			"AgentPrefabPath": "Prefabs/Characters/TechnomancerHumanMale_01",
+			"DisplayName": "Character.TechnomancerSpecial.Name",
+			"Id": 721339,
+			"InternalName": "Technomancers/Special",
+			"PlayerSelectionIconPath": null,
+			"TurnIconPath": null,
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "",
+			"AgentPrefabPath": "Prefabs/Characters/TechnomancerSprite",
+			"DisplayName": "Character.TechnomancerSprite1.Name",
+			"Id": 721340,
+			"InternalName": "Technomancers/SpriteMelee",
+			"PlayerSelectionIconPath": null,
+			"TurnIconPath": null,
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "",
+			"AgentPrefabPath": "Prefabs/Characters/TechnomancerSprite",
+			"DisplayName": "Character.TechnomancerSprite2.Name",
+			"Id": 721341,
+			"InternalName": "Technomancers/SpriteRanged",
+			"PlayerSelectionIconPath": null,
+			"TurnIconPath": null,
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "",
+			"AgentPrefabPath": "Prefabs/Characters/TechnomancerSprite",
+			"DisplayName": "Character.TechnomancerSprite3.Name",
+			"Id": 721349,
+			"InternalName": "Technomancers/SpriteAoE",
+			"PlayerSelectionIconPath": null,
+			"TurnIconPath": null,
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "",
+			"AgentPrefabPath": "Prefabs/Characters/TechnomancerHumanMale_01",
+			"DisplayName": "Character.TechnomancerClone.Name",
+			"Id": 721353,
+			"InternalName": "Technomancers/Clone",
+			"PlayerSelectionIconPath": "GUI/Missiongameplay/initiative_character_selection/icon_ini_char_takshak_active",
+			"TurnIconPath": "GUI/Missiongameplay/CharacterIcons/icon_takshak_turn",
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "",
+			"AgentPrefabPath": "Prefabs/Characters/BigBang",
+			"DisplayName": "Character.ShamanRunner.Name",
+			"Id": 721342,
+			"InternalName": "EnemyRunners/Shaman",
+			"PlayerSelectionIconPath": null,
+			"TurnIconPath": null,
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "",
+			"AgentPrefabPath": "Prefabs/Characters/Brujo",
+			"DisplayName": "Character.MageRunner.Name",
+			"Id": 721343,
+			"InternalName": "EnemyRunners/Mage",
+			"PlayerSelectionIconPath": null,
+			"TurnIconPath": null,
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "",
+			"AgentPrefabPath": "Prefabs/Characters/Work",
+			"DisplayName": "Character.GrenadierRunner.Name",
+			"Id": 721344,
+			"InternalName": "EnemyRunners/Grenadier",
+			"PlayerSelectionIconPath": null,
+			"TurnIconPath": null,
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "",
+			"AgentPrefabPath": "Prefabs/Characters/Vsai",
+			"DisplayName": "Character.SniperRunner.Name",
+			"Id": 721345,
+			"InternalName": "EnemyRunners/Sniper",
+			"PlayerSelectionIconPath": null,
+			"TurnIconPath": null,
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "",
+			"AgentPrefabPath": "Prefabs/Characters/Hardwire",
+			"DisplayName": "Character.DeckerRunner.Name",
+			"Id": 721346,
+			"InternalName": "EnemyRunners/Decker",
+			"PlayerSelectionIconPath": null,
+			"TurnIconPath": null,
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "",
+			"AgentPrefabPath": "Prefabs/Characters/NewGuardSecurity",
+			"DisplayName": "Character.DocWagonRunner.Name",
+			"Id": 721347,
+			"InternalName": "Guards/Ranged",
+			"PlayerSelectionIconPath": null,
+			"TurnIconPath": null,
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "",
+			"AgentPrefabPath": "Prefabs/Characters/NewGuardRiot",
+			"DisplayName": "Character.DocWagonRunnerMelee.Name",
+			"Id": 721348,
+			"InternalName": "Guards/Melee",
+			"PlayerSelectionIconPath": null,
+			"TurnIconPath": null,
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "GUI/Textures/Metagameplay/player_portraits/portrait_male_air_spirit_",
+			"AgentPrefabPath": "Prefabs/Characters/SpiritAir",
+			"DisplayName": "Character.RunnerAirSpirit.Name",
+			"Id": 721352,
+			"InternalName": "EnemyRunners/AirSpirit",
+			"PlayerSelectionIconPath": "GUI/Textures/Metagameplay/player_portraits/portrait_male_air_spirit_",
+			"TurnIconPath": "GUI/Textures/Metagameplay/player_portraits/portrait_male_air_spirit_",
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "GUI/Textures/Metagameplay/player_portraits/portrait_male_wolf_spirit_",
+			"AgentPrefabPath": "Prefabs/Characters/SpiritWolf",
+			"DisplayName": "Character.RunnerWolfSpirit.Name",
+			"Id": 721351,
+			"InternalName": "Spirits/RunnerWolfSpirit",
+			"PlayerSelectionIconPath": "GUI/Textures/Metagameplay/player_portraits/portrait_male_wolf_spirit_",
+			"TurnIconPath": "GUI/Textures/Metagameplay/player_portraits/portrait_male_wolf_spirit_",
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "GUI/Textures/Metagameplay/player_portraits/portrait_male_bear_spirit_",
+			"AgentPrefabPath": "Prefabs/Characters/SpiritBear_1",
+			"DisplayName": "Character.RunnerBearSpirit.Name",
+			"Id": 721350,
+			"InternalName": "EnemyRunners/RunnerBearSpirit",
+			"PlayerSelectionIconPath": "GUI/Textures/Metagameplay/player_portraits/portrait_male_bear_spirit_",
+			"TurnIconPath": "GUI/Textures/Metagameplay/player_portraits/portrait_male_bear_spirit_",
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "",
+			"AgentPrefabPath": "Prefabs/Characters/GuardDroid1",
+			"DisplayName": "Character.GuardDroid1.Name",
+			"Id": 721354,
+			"InternalName": "Guards/Droid1",
+			"PlayerSelectionIconPath": null,
+			"TurnIconPath": null,
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "",
+			"AgentPrefabPath": "Prefabs/Characters/GuardDroid2",
+			"DisplayName": "Character.GuardDroid2.Name",
+			"Id": 721355,
+			"InternalName": "Guards/Droid2",
+			"PlayerSelectionIconPath": null,
+			"TurnIconPath": null,
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "",
+			"AgentPrefabPath": "Prefabs/Characters/GuardDroid3",
+			"DisplayName": "Character.GuardDroid3.Name",
+			"Id": 721356,
+			"InternalName": "Guards/Droid3",
+			"PlayerSelectionIconPath": null,
+			"TurnIconPath": null,
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "",
 			"AgentPrefabPath": "Prefabs/Characters/Luna",
 			"DisplayName": "Character.LunaAct1.Name",
 			"Id": 721800,
@@ -31069,6 +32421,26 @@
 			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
 		},
 		{
+			"AgentIconPath": "GUI/Textures/Metagameplay/player_portraits/portrait_male_human_alexander_",
+			"AgentPrefabPath": "Prefabs/Characters/Alexander",
+			"DisplayName": "Character.Alex.Name",
+			"Id": 721503,
+			"InternalName": "NPCs/Alex",
+			"PlayerSelectionIconPath": "GUI/Textures/Metagameplay/player_portraits/portrait_male_human_alexander_",
+			"TurnIconPath": "GUI/Textures/Metagameplay/player_portraits/portrait_male_human_alexander_",
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "GUI/Textures/Metagameplay/player_portraits/portrait_male_dwarf_bozeman_",
+			"AgentPrefabPath": "Prefabs/Characters/Bozeman",
+			"DisplayName": "Character.Bozeman.Name",
+			"Id": 721504,
+			"InternalName": "NPCs/Bozeman",
+			"PlayerSelectionIconPath": "GUI/Textures/Metagameplay/player_portraits/portrait_male_dwarf_bozeman_",
+			"TurnIconPath": "GUI/Textures/Metagameplay/player_portraits/portrait_male_dwarf_bozeman_",
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
 			"AgentIconPath": "",
 			"AgentPrefabPath": "Prefabs/Characters/CraziesBug",
 			"DisplayName": "Character.SuicideBomber.Name",
@@ -31411,6 +32783,16 @@
 		{
 			"AgentIconPath": "",
 			"AgentPrefabPath": "Prefabs/Objects/DoubleDoor",
+			"DisplayName": "InteractiveObject.ElevatorControl.Name",
+			"Id": 721620,
+			"InternalName": "Interactive/ElevatorControl",
+			"PlayerSelectionIconPath": null,
+			"TurnIconPath": null,
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "",
+			"AgentPrefabPath": "Prefabs/Objects/DoubleDoor",
 			"DisplayName": "Interactive/NW_NW_NW",
 			"Id": 721597,
 			"InternalName": "Interactive/NW_NW_NW",
@@ -31464,6 +32846,16 @@
 			"DisplayName": "Interactive/FC_W_W",
 			"Id": 721602,
 			"InternalName": "Interactive/FC_W_W",
+			"PlayerSelectionIconPath": null,
+			"TurnIconPath": null,
+			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"
+		},
+		{
+			"AgentIconPath": "",
+			"AgentPrefabPath": "Prefabs/Objects/DoubleDoor",
+			"DisplayName": "Interactive/FC_FC_W",
+			"Id": 721619,
+			"InternalName": "Interactive/FC_FC_W",
 			"PlayerSelectionIconPath": null,
 			"TurnIconPath": null,
 			"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.AgentPresentationData, Cliffhanger.SRO.ServerClientCommons"

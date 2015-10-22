@@ -41181,7 +41181,7 @@
 							"ID": 80103,
 							"IgnoreOverrideSet": false,
 							"InteractionObjectOverride": false,
-							"InteractionSkillId": 90006,
+							"InteractionSkillId": 90018,
 							"IsHenchmanSpawn": false,
 							"IsLieutenant": false,
 							"IsPlayerSpawn": false,
@@ -41215,7 +41215,7 @@
 							"RoleName": "",
 							"SpawnPointId": "",
 							"StatusValueDependentActivities": [],
-							"Template": 721600,
+							"Template": 721598,
 							"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.SpawnpointDefinition, SRO.Core.Compatibility",
 							"UniqueGameObjectIdentifier": "86d9d592-3a1e-403c-9058-d94fe933e40d",
 							"ViewDirection": {
@@ -41237,7 +41237,7 @@
 							"ID": 80104,
 							"IgnoreOverrideSet": false,
 							"InteractionObjectOverride": false,
-							"InteractionSkillId": 90006,
+							"InteractionSkillId": 90018,
 							"IsHenchmanSpawn": false,
 							"IsLieutenant": false,
 							"IsPlayerSpawn": false,
@@ -41271,7 +41271,7 @@
 							"RoleName": "",
 							"SpawnPointId": "",
 							"StatusValueDependentActivities": [],
-							"Template": 721600,
+							"Template": 721598,
 							"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.SpawnpointDefinition, SRO.Core.Compatibility",
 							"UniqueGameObjectIdentifier": "5eb9579b-95b5-4ca0-9b40-a38c63375724",
 							"ViewDirection": {
@@ -41293,7 +41293,7 @@
 							"ID": 80101,
 							"IgnoreOverrideSet": false,
 							"InteractionObjectOverride": false,
-							"InteractionSkillId": 90006,
+							"InteractionSkillId": 90018,
 							"IsHenchmanSpawn": false,
 							"IsLieutenant": false,
 							"IsPlayerSpawn": false,
@@ -41327,7 +41327,7 @@
 							"RoleName": "",
 							"SpawnPointId": "",
 							"StatusValueDependentActivities": [],
-							"Template": 721600,
+							"Template": 721598,
 							"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.SpawnpointDefinition, SRO.Core.Compatibility",
 							"UniqueGameObjectIdentifier": "b38dd203-89bb-40de-b96e-57c3d9291c03",
 							"ViewDirection": {
@@ -41349,7 +41349,7 @@
 							"ID": 80102,
 							"IgnoreOverrideSet": false,
 							"InteractionObjectOverride": false,
-							"InteractionSkillId": 90006,
+							"InteractionSkillId": 90018,
 							"IsHenchmanSpawn": false,
 							"IsLieutenant": false,
 							"IsPlayerSpawn": false,
@@ -41383,7 +41383,7 @@
 							"RoleName": "",
 							"SpawnPointId": "",
 							"StatusValueDependentActivities": [],
-							"Template": 721600,
+							"Template": 721598,
 							"TypeName": "SRO.Core.Compatibility.Gameplay.Levelrepresentation.Serialization.SpawnpointDefinition, SRO.Core.Compatibility",
 							"UniqueGameObjectIdentifier": "e21ed41b-d66b-4ecd-a30e-a63ec32eab63",
 							"ViewDirection": {
@@ -41469,6 +41469,7 @@
 									"Comparison": "GreaterOrEqual",
 									"Context": [],
 									"StatusValue": 524291,
+									"StringContext": [],
 									"Treshold": 0,
 									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.StatusValueDependentActivity, SRO.Core.Compatibility"
 								},
@@ -41477,6 +41478,7 @@
 									"Comparison": "GreaterOrEqual",
 									"Context": [],
 									"StatusValue": 524291,
+									"StringContext": [],
 									"Treshold": 0,
 									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.StatusValueDependentActivity, SRO.Core.Compatibility"
 								}
