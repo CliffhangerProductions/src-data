@@ -14132,6 +14132,26 @@
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Meshset, Cliffhanger.SRO.ServerClientCommons"
 				},
 				{
+					"Id": "PetsHalloween01MeshSet",
+					"Layer": 10,
+					"Meshsets": [
+						{
+							"Prefab": "CharacterCreation/Items/Prefabs/Pets/Pet_Halloween01",
+							"RemovedZones": [],
+							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MeshsetEntry, Cliffhanger.SRO.ServerClientCommons",
+							"Zones": []
+						},
+						{
+							"Prefab": "CharacterCreation/Items/Prefabs/Empty",
+							"RemovedZones": [],
+							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.MeshsetEntry, Cliffhanger.SRO.ServerClientCommons",
+							"Zones": []
+						}
+					],
+					"Texture": null,
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Meshset, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
 					"Id": "Bandana_Anarchy_MeshSet",
 					"Layer": 26,
 					"Meshsets": [
@@ -18860,6 +18880,14 @@
 					"ColorCustomizationIds": null,
 					"Id": "PetsTankMeshSet_Item",
 					"MeshsetId": "PetsTankMeshSet",
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
+				},
+				{
+					"AlternateTorso": false,
+					"BodyTextureModificationId": null,
+					"ColorCustomizationIds": null,
+					"Id": "PetsHalloween01MeshSet_Item",
+					"MeshsetId": "PetsHalloween01MeshSet",
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.Visualitem, Cliffhanger.SRO.ServerClientCommons"
 				},
 				{

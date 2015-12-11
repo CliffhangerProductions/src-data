@@ -59128,18 +59128,6 @@
 									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.ActivityRef, SRO.Core.Compatibility"
 								},
 								{
-									"ActivityId": 393254,
-									"Context": [
-										{
-											"Id": "Value",
-											"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.TriggerActivityContextFloatEntry, SRO.Core.Compatibility",
-											"Value": 2
-										}
-									],
-									"StringContext": [],
-									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.ActivityRef, SRO.Core.Compatibility"
-								},
-								{
 									"ActivityId": 393268,
 									"Context": [],
 									"StringContext": [

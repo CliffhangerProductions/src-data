@@ -43806,6 +43806,7 @@
 		{
 			"ActivationConditions": [],
 			"AllTeamMemberConstraint": false,
+			"AllTeamMemberConstraintIncludeSummons": false,
 			"FireOnEachTile": false,
 			"GameObject": "22482a25-40c8-4d62-955a-a085656e2b73",
 			"Id": "",
@@ -43931,6 +43932,7 @@
 		{
 			"ActivationConditions": [],
 			"AllTeamMemberConstraint": true,
+			"AllTeamMemberConstraintIncludeSummons": false,
 			"FireOnEachTile": false,
 			"GameObject": "84355250-cf7c-47df-bfe5-0cfaa90c82f4",
 			"Id": "GOTO:Final",
@@ -44016,6 +44018,7 @@
 		{
 			"ActivationConditions": [],
 			"AllTeamMemberConstraint": false,
+			"AllTeamMemberConstraintIncludeSummons": false,
 			"FireOnEachTile": false,
 			"GameObject": "1e33a8ed-8988-47a9-866e-1ca5189ee75e",
 			"Id": "",
@@ -44419,7 +44422,20 @@
 							"IsPlayerSpawn": false,
 							"IsRoleSpawn": false,
 							"OnActivatedActivities": [],
-							"OnDeactivatedActivities": [],
+							"OnDeactivatedActivities": [
+								{
+									"ActivityId": 393519,
+									"Context": [],
+									"StringContext": [
+										{
+											"Id": "LootTable",
+											"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.TriggerActivityContextStringEntry, SRO.Core.Compatibility",
+											"Value": "FirstAidWardLootTable"
+										}
+									],
+									"TypeName": "SRO.Core.Compatibility.Gameplay.Trigger.ActivityRef, SRO.Core.Compatibility"
+								}
+							],
 							"Position": {
 								"TypeName": "SRO.Core.Compatibility.Serialization.SerializableIntVector2, SRO.Core.Compatibility",
 								"X": 32,

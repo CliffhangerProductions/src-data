@@ -4561,7 +4561,7 @@
 						},
 						{
 							"ID": 458761,
-							"Modifier": 6,
+							"Modifier": 7,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -4708,14 +4708,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 8,
+							"Modifier": 9,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 9,
+							"Modifier": 10,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -5171,14 +5171,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 10,
+							"Modifier": 11,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 11,
+							"Modifier": 13,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -5325,14 +5325,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 3,
+							"Modifier": 4,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 4,
+							"Modifier": 5,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -5346,7 +5346,7 @@
 						},
 						{
 							"ID": 458766,
-							"Modifier": 6,
+							"Modifier": 10,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -5461,14 +5461,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 7,
+							"Modifier": 8,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 10,
+							"Modifier": 11,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -5482,7 +5482,7 @@
 						},
 						{
 							"ID": 458766,
-							"Modifier": 6,
+							"Modifier": 10,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -16062,14 +16062,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 5,
+							"Modifier": 6,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 7,
+							"Modifier": 8,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -16083,7 +16083,7 @@
 						},
 						{
 							"ID": 458766,
-							"Modifier": 7,
+							"Modifier": 11,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -16197,14 +16197,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 7,
+							"Modifier": 8,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 10,
+							"Modifier": 11,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -16218,7 +16218,7 @@
 						},
 						{
 							"ID": 458766,
-							"Modifier": 7,
+							"Modifier": 11,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -16332,14 +16332,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 8,
+							"Modifier": 10,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 11,
+							"Modifier": 13,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -16353,7 +16353,7 @@
 						},
 						{
 							"ID": 458766,
-							"Modifier": 7,
+							"Modifier": 11,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -16488,7 +16488,7 @@
 						},
 						{
 							"ID": 458766,
-							"Modifier": 6,
+							"Modifier": 10,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -16602,7 +16602,7 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 4,
+							"Modifier": 5,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -16623,7 +16623,7 @@
 						},
 						{
 							"ID": 458766,
-							"Modifier": 6,
+							"Modifier": 10,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -16737,14 +16737,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 5,
+							"Modifier": 6,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 7,
+							"Modifier": 8,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -16758,7 +16758,7 @@
 						},
 						{
 							"ID": 458766,
-							"Modifier": 6,
+							"Modifier": 10,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -16872,14 +16872,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 7,
+							"Modifier": 8,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 10,
+							"Modifier": 11,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -16893,7 +16893,7 @@
 						},
 						{
 							"ID": 458766,
-							"Modifier": 6,
+							"Modifier": 10,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -17007,14 +17007,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 8,
+							"Modifier": 10,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 11,
+							"Modifier": 13,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -17028,7 +17028,7 @@
 						},
 						{
 							"ID": 458766,
-							"Modifier": 6,
+							"Modifier": 10,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -17142,14 +17142,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 6,
+							"Modifier": 7,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 8,
+							"Modifier": 10,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -17163,7 +17163,7 @@
 						},
 						{
 							"ID": 458766,
-							"Modifier": 6,
+							"Modifier": 10,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -17277,14 +17277,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 8,
+							"Modifier": 10,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 12,
+							"Modifier": 13,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -17298,7 +17298,7 @@
 						},
 						{
 							"ID": 458766,
-							"Modifier": 6,
+							"Modifier": 10,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -17412,14 +17412,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 10,
+							"Modifier": 12,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 13,
+							"Modifier": 15,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -17433,7 +17433,7 @@
 						},
 						{
 							"ID": 458766,
-							"Modifier": 6,
+							"Modifier": 10,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -17556,7 +17556,7 @@
 						},
 						{
 							"ID": 458761,
-							"Modifier": 3,
+							"Modifier": 4,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -17712,7 +17712,7 @@
 						},
 						{
 							"ID": 458761,
-							"Modifier": 6,
+							"Modifier": 7,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -17861,14 +17861,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 7,
+							"Modifier": 8,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 8,
+							"Modifier": 9,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -18017,14 +18017,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 7,
+							"Modifier": 8,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 8,
+							"Modifier": 9,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -18173,14 +18173,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 10,
+							"Modifier": 11,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 11,
+							"Modifier": 13,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -18329,14 +18329,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 11,
+							"Modifier": 13,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 13,
+							"Modifier": 14,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -18485,14 +18485,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 10,
+							"Modifier": 11,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 11,
+							"Modifier": 13,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -18641,14 +18641,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 11,
+							"Modifier": 13,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 13,
+							"Modifier": 14,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -18797,14 +18797,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 13,
+							"Modifier": 14,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 14,
+							"Modifier": 16,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -18953,14 +18953,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 8,
+							"Modifier": 9,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 9,
+							"Modifier": 10,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -19109,14 +19109,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 8,
+							"Modifier": 9,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 9,
+							"Modifier": 10,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -19265,14 +19265,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 7,
+							"Modifier": 8,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 8,
+							"Modifier": 9,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -19421,14 +19421,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 8,
+							"Modifier": 10,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 10,
+							"Modifier": 11,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -19577,14 +19577,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 12,
+							"Modifier": 13,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 13,
+							"Modifier": 15,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -19733,14 +19733,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 13,
+							"Modifier": 15,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 15,
+							"Modifier": 17,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -23306,14 +23306,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 7,
+							"Modifier": 8,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 8,
+							"Modifier": 9,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -26186,14 +26186,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 13,
+							"Modifier": 14,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 15,
+							"Modifier": 17,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -26342,14 +26342,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 14,
+							"Modifier": 16,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 16,
+							"Modifier": 18,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -26498,14 +26498,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 13,
+							"Modifier": 14,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 15,
+							"Modifier": 17,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -26654,14 +26654,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 15,
+							"Modifier": 17,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 17,
+							"Modifier": 19,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -26810,14 +26810,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 18,
+							"Modifier": 20,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 20,
+							"Modifier": 23,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -26966,14 +26966,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 15,
+							"Modifier": 17,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 17,
+							"Modifier": 19,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -27122,14 +27122,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 17,
+							"Modifier": 19,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 20,
+							"Modifier": 23,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -27278,14 +27278,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 18,
+							"Modifier": 21,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 21,
+							"Modifier": 24,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -27434,14 +27434,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 17,
+							"Modifier": 19,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 20,
+							"Modifier": 23,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -27588,14 +27588,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 9,
+							"Modifier": 11,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 13,
+							"Modifier": 15,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -27609,7 +27609,7 @@
 						},
 						{
 							"ID": 458766,
-							"Modifier": 9,
+							"Modifier": 13,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -27723,14 +27723,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 9,
+							"Modifier": 11,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 13,
+							"Modifier": 15,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -27744,7 +27744,7 @@
 						},
 						{
 							"ID": 458766,
-							"Modifier": 6,
+							"Modifier": 10,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -27858,14 +27858,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 11,
+							"Modifier": 13,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 15,
+							"Modifier": 17,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -27879,7 +27879,7 @@
 						},
 						{
 							"ID": 458766,
-							"Modifier": 9,
+							"Modifier": 13,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -27993,14 +27993,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 11,
+							"Modifier": 13,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 15,
+							"Modifier": 17,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -28014,7 +28014,7 @@
 						},
 						{
 							"ID": 458766,
-							"Modifier": 6,
+							"Modifier": 10,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -28128,14 +28128,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 12,
+							"Modifier": 15,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 18,
+							"Modifier": 20,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -28149,7 +28149,7 @@
 						},
 						{
 							"ID": 458766,
-							"Modifier": 9,
+							"Modifier": 13,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -28263,14 +28263,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 12,
+							"Modifier": 15,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 18,
+							"Modifier": 20,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -28284,7 +28284,7 @@
 						},
 						{
 							"ID": 458766,
-							"Modifier": 6,
+							"Modifier": 10,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -33209,7 +33209,7 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 3,
+							"Modifier": 4,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -34695,14 +34695,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 3,
+							"Modifier": 4,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 4,
+							"Modifier": 5,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -34716,7 +34716,7 @@
 						},
 						{
 							"ID": 458766,
-							"Modifier": 6,
+							"Modifier": 10,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -34830,14 +34830,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 3,
+							"Modifier": 4,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 4,
+							"Modifier": 5,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -34851,7 +34851,7 @@
 						},
 						{
 							"ID": 458766,
-							"Modifier": 7,
+							"Modifier": 11,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -34967,7 +34967,7 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 4,
+							"Modifier": 5,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -35123,7 +35123,7 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 4,
+							"Modifier": 5,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -37581,14 +37581,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 6,
+							"Modifier": 7,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 8,
+							"Modifier": 9,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -37602,7 +37602,7 @@
 						},
 						{
 							"ID": 458766,
-							"Modifier": 7,
+							"Modifier": 11,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -37716,14 +37716,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 6,
+							"Modifier": 7,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 8,
+							"Modifier": 9,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -37737,7 +37737,7 @@
 						},
 						{
 							"ID": 458766,
-							"Modifier": 6,
+							"Modifier": 10,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -37851,14 +37851,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 7,
+							"Modifier": 8,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 9,
+							"Modifier": 11,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -37872,7 +37872,7 @@
 						},
 						{
 							"ID": 458766,
-							"Modifier": 6,
+							"Modifier": 10,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -39478,14 +39478,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 13,
+							"Modifier": 15,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 17,
+							"Modifier": 19,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -39634,14 +39634,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 14,
+							"Modifier": 17,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 18,
+							"Modifier": 20,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -40330,14 +40330,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 9,
+							"Modifier": 11,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 14,
+							"Modifier": 17,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -40351,7 +40351,7 @@
 						},
 						{
 							"ID": 458766,
-							"Modifier": 6,
+							"Modifier": 10,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -40465,14 +40465,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458760,
-							"Modifier": 9,
+							"Modifier": 11,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458761,
-							"Modifier": 16,
+							"Modifier": 18,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -40486,7 +40486,7 @@
 						},
 						{
 							"ID": 458766,
-							"Modifier": 7,
+							"Modifier": 11,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -42389,7 +42389,7 @@
 						},
 						{
 							"ID": 458766,
-							"Modifier": 6,
+							"Modifier": 10,
 							"ModifiesMaximum": true,
 							"Tag": "Weapon",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"

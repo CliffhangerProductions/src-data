@@ -39647,7 +39647,7 @@
 									"TypeName": "Cliffhanger.SRO.ServerClientCommons.ArtificialIntelligence.AIBehaviourConfigurationComponent, Cliffhanger.SRO.ServerClientCommons"
 								},
 								{
-									"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Components.AgentNatureNormal, Cliffhanger.SRO.ServerClientCommons"
+									"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Components.AgentNatureTechnical, Cliffhanger.SRO.ServerClientCommons"
 								},
 								{
 									"InitialStatusEffects": [],
@@ -40146,7 +40146,7 @@
 									"TypeName": "Cliffhanger.SRO.ServerClientCommons.ArtificialIntelligence.AIBehaviourConfigurationComponent, Cliffhanger.SRO.ServerClientCommons"
 								},
 								{
-									"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Components.AgentNatureNormal, Cliffhanger.SRO.ServerClientCommons"
+									"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Components.AgentNatureTechnical, Cliffhanger.SRO.ServerClientCommons"
 								},
 								{
 									"InitialStatusEffects": [],
@@ -40645,7 +40645,7 @@
 									"TypeName": "Cliffhanger.SRO.ServerClientCommons.ArtificialIntelligence.AIBehaviourConfigurationComponent, Cliffhanger.SRO.ServerClientCommons"
 								},
 								{
-									"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Components.AgentNatureNormal, Cliffhanger.SRO.ServerClientCommons"
+									"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Components.AgentNatureTechnical, Cliffhanger.SRO.ServerClientCommons"
 								},
 								{
 									"InitialStatusEffects": [],
@@ -53251,7 +53251,7 @@
 										},
 										{
 											"ID": 458761,
-											"InternalValue": 2,
+											"InternalValue": 3,
 											"LimitOffset": 0,
 											"MaxCapsAtOne": false,
 											"MaxValue": 3.40282347e+38,
@@ -53702,10 +53702,10 @@
 										},
 										{
 											"ID": 458753,
-											"InternalValue": 5,
+											"InternalValue": 10,
 											"LimitOffset": 0,
 											"MaxCapsAtOne": true,
-											"MaxValue": 5,
+											"MaxValue": 10,
 											"MinValue": 0,
 											"Modifiers": [],
 											"PreserveValueAfterModifierRemove": true,
@@ -53768,7 +53768,7 @@
 										},
 										{
 											"ID": 458760,
-											"InternalValue": 2,
+											"InternalValue": 4,
 											"LimitOffset": 0,
 											"MaxCapsAtOne": false,
 											"MaxValue": 3.40282347e+38,
@@ -53779,7 +53779,7 @@
 										},
 										{
 											"ID": 458761,
-											"InternalValue": 2,
+											"InternalValue": 6,
 											"LimitOffset": 0,
 											"MaxCapsAtOne": false,
 											"MaxValue": 3.40282347e+38,
@@ -53823,10 +53823,10 @@
 										},
 										{
 											"ID": 458763,
-											"InternalValue": 7,
+											"InternalValue": 12,
 											"LimitOffset": 0,
 											"MaxCapsAtOne": false,
-											"MaxValue": 7,
+											"MaxValue": 12,
 											"MinValue": 0,
 											"Modifiers": [],
 											"PreserveValueAfterModifierRemove": true,
@@ -54163,28 +54163,28 @@
 									"SummonModifiers": [
 										{
 											"CeilToInt": false,
-											"Modifier": 1,
+											"Modifier": 1.1,
 											"TargetStatusValue": 458753,
 											"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueDependentStatusValueModifier, Cliffhanger.SRO.ServerClientCommons",
 											"UsedStatusValue": 0
 										},
 										{
 											"CeilToInt": false,
-											"Modifier": 1,
+											"Modifier": 1.1,
 											"TargetStatusValue": 458760,
 											"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueDependentStatusValueModifier, Cliffhanger.SRO.ServerClientCommons",
 											"UsedStatusValue": 0
 										},
 										{
 											"CeilToInt": false,
-											"Modifier": 1,
+											"Modifier": 1.1,
 											"TargetStatusValue": 458761,
 											"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueDependentStatusValueModifier, Cliffhanger.SRO.ServerClientCommons",
 											"UsedStatusValue": 0
 										},
 										{
 											"CeilToInt": false,
-											"Modifier": 1,
+											"Modifier": 1.1,
 											"TargetStatusValue": 458763,
 											"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueDependentStatusValueModifier, Cliffhanger.SRO.ServerClientCommons",
 											"UsedStatusValue": 0
@@ -54230,10 +54230,10 @@
 										},
 										{
 											"ID": 458753,
-											"InternalValue": 5,
+											"InternalValue": 15,
 											"LimitOffset": 0,
 											"MaxCapsAtOne": true,
-											"MaxValue": 5,
+											"MaxValue": 15,
 											"MinValue": 0,
 											"Modifiers": [],
 											"PreserveValueAfterModifierRemove": true,
@@ -54296,7 +54296,7 @@
 										},
 										{
 											"ID": 458760,
-											"InternalValue": 3,
+											"InternalValue": 6,
 											"LimitOffset": 0,
 											"MaxCapsAtOne": false,
 											"MaxValue": 3.40282347e+38,
@@ -54307,7 +54307,7 @@
 										},
 										{
 											"ID": 458761,
-											"InternalValue": 3,
+											"InternalValue": 10,
 											"LimitOffset": 0,
 											"MaxCapsAtOne": false,
 											"MaxValue": 3.40282347e+38,
@@ -54351,10 +54351,10 @@
 										},
 										{
 											"ID": 458763,
-											"InternalValue": 7,
+											"InternalValue": 17,
 											"LimitOffset": 0,
 											"MaxCapsAtOne": false,
-											"MaxValue": 7,
+											"MaxValue": 17,
 											"MinValue": 0,
 											"Modifiers": [],
 											"PreserveValueAfterModifierRemove": true,
@@ -54691,28 +54691,28 @@
 									"SummonModifiers": [
 										{
 											"CeilToInt": false,
-											"Modifier": 1,
+											"Modifier": 1.2,
 											"TargetStatusValue": 458753,
 											"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueDependentStatusValueModifier, Cliffhanger.SRO.ServerClientCommons",
 											"UsedStatusValue": 0
 										},
 										{
 											"CeilToInt": false,
-											"Modifier": 1,
+											"Modifier": 1.2,
 											"TargetStatusValue": 458760,
 											"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueDependentStatusValueModifier, Cliffhanger.SRO.ServerClientCommons",
 											"UsedStatusValue": 0
 										},
 										{
 											"CeilToInt": false,
-											"Modifier": 1,
+											"Modifier": 1.2,
 											"TargetStatusValue": 458761,
 											"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueDependentStatusValueModifier, Cliffhanger.SRO.ServerClientCommons",
 											"UsedStatusValue": 0
 										},
 										{
 											"CeilToInt": false,
-											"Modifier": 1,
+											"Modifier": 1.2,
 											"TargetStatusValue": 458763,
 											"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueDependentStatusValueModifier, Cliffhanger.SRO.ServerClientCommons",
 											"UsedStatusValue": 0

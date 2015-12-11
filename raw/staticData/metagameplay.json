@@ -126,7 +126,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Automatics_IngramSmartgun_Tier_01",
-							"Price": 3500,
+							"Price": 6900,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -149,7 +149,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Automatics_FnP93Praetor_Tier_01",
-							"Price": 4700,
+							"Price": 9400,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -172,7 +172,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Automatics_FnP93Praetor_Tier_02",
-							"Price": 11400,
+							"Price": 16800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -195,7 +195,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Automatics_IngramSmartgun_Tier_02",
-							"Price": 8400,
+							"Price": 12500,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -218,7 +218,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Automatics_AresExecutiveProtector_Tier_04",
-							"Price": 13100,
+							"Price": 17800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -241,7 +241,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Automatics_FnP93Praetor_Tier_04",
-							"Price": 17700,
+							"Price": 24000,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -264,7 +264,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Automatics_HkG38_Tier_04",
-							"Price": 16400,
+							"Price": 22200,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -287,7 +287,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Automatics_Mag5Mg_Tier_04",
-							"Price": 19600,
+							"Price": 26600,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -310,7 +310,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Automatics_AresExecutiveProtector_Tier_05",
-							"Price": 15400,
+							"Price": 20100,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -333,7 +333,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Automatics_FnP93Praetor_Tier_05",
-							"Price": 20800,
+							"Price": 27100,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -356,7 +356,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Automatics_HkG38_Tier_05",
-							"Price": 19300,
+							"Price": 25100,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -379,7 +379,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Automatics_Mag5Mg_Tier_05",
-							"Price": 23200,
+							"Price": 30200,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -425,7 +425,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Pistol_AresLightfire_Tier_01",
-							"Price": 2800,
+							"Price": 5500,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -448,7 +448,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Pistol_AresPredator_Tier_01",
-							"Price": 3400,
+							"Price": 6800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -471,7 +471,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Pistol_AresLightfire_Tier_02",
-							"Price": 6600,
+							"Price": 9800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -494,7 +494,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Pistol_SuperWarhawk_Tier_02",
-							"Price": 10000,
+							"Price": 14700,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -517,7 +517,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Pistol_AresLightfire_Tier_03",
-							"Price": 7100,
+							"Price": 10300,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -540,7 +540,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Pistol_AresPredator_Tier_03",
-							"Price": 8900,
+							"Price": 12900,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -563,7 +563,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Pistol_SuperWarhawk_Tier_03",
-							"Price": 10700,
+							"Price": 15500,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -586,7 +586,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Pistol_Haemmerli620s_Tier_04",
-							"Price": 10300,
+							"Price": 14000,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -609,7 +609,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Pistol_SkSpraydown_Tier_04",
-							"Price": 12900,
+							"Price": 17500,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -632,7 +632,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Pistol_AresPredator_Tier_05",
-							"Price": 15200,
+							"Price": 19800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -655,7 +655,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Pistol_CavalierDeputy_Tier_05",
-							"Price": 12200,
+							"Price": 15800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -678,7 +678,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Pistol_SuperWarhawk_Tier_05",
-							"Price": 18200,
+							"Price": 23800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -770,7 +770,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Shotgun_RemingtonSportsman_Tier_01",
-							"Price": 3100,
+							"Price": 6200,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -793,7 +793,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Shotgun_Spas22_Tier_01",
-							"Price": 4700,
+							"Price": 9400,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -816,7 +816,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Shotgun_RemingtonSportsman_Tier_02",
-							"Price": 7600,
+							"Price": 11200,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -839,7 +839,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Shotgun_RemingtonRoomsweeper_Tier_03",
-							"Price": 8200,
+							"Price": 11800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -862,7 +862,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Shotgun_Spas22_Tier_03",
-							"Price": 12200,
+							"Price": 17700,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -885,7 +885,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Shotgun_RemingtonRoomsweeper_Tier_04",
-							"Price": 11800,
+							"Price": 16000,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -908,7 +908,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Shotgun_Spas22_Tier_05",
-							"Price": 20800,
+							"Price": 27100,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -977,7 +977,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Automatics_IngramSmartgun_Tier_03",
-							"Price": 9100,
+							"Price": 13100,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -1000,7 +1000,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Automatics_FnP93Praetor_Tier_03",
-							"Price": 12200,
+							"Price": 17700,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -1023,7 +1023,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Shotgun_RemingtonRoomsweeper_Tier_05",
-							"Price": 13900,
+							"Price": 18100,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -1046,7 +1046,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Shotgun_Spas22_Tier_04",
-							"Price": 15900,
+							"Price": 21600,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -1322,7 +1322,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Consumable_FragGrenade",
-							"Price": 300,
+							"Price": 900,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -1345,7 +1345,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Consumable_SmokeGrenade",
-							"Price": 1100,
+							"Price": 1700,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -1368,7 +1368,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Consumable_ImprovedFragGrenade",
-							"Price": 1100,
+							"Price": 1700,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -1391,7 +1391,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Consumable_EMPGrenade",
-							"Price": 300,
+							"Price": 900,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -1414,7 +1414,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Consumable_ImprovedEMPGrenade",
-							"Price": 1100,
+							"Price": 1700,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -1437,7 +1437,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Consumable_SOTAFragGrenade",
-							"Price": 2000,
+							"Price": 2700,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -1460,7 +1460,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Consumable_SOTAEMPGrenade",
-							"Price": 2000,
+							"Price": 2700,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -1473,7 +1473,7 @@
 									},
 									{
 										"InnerCondition": {
-											"ChapterIndex": 36,
+											"ChapterIndex": 41,
 											"StorylineReference": "Main Campaign",
 											"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.StoryAndChapterAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 										},
@@ -1483,7 +1483,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Consumable_RocketLauncher",
-							"Price": 2800,
+							"Price": 3500,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -1506,7 +1506,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Consumable_TaserRifle",
-							"Price": 2000,
+							"Price": 2700,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -1581,7 +1581,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Blade_Cleaver_Tier_01",
-							"Price": 2600,
+							"Price": 5100,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -1604,7 +1604,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Blade_Katana_Tier_01",
-							"Price": 3500,
+							"Price": 6900,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -1627,7 +1627,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Blade_Cleaver_Tier_02",
-							"Price": 6200,
+							"Price": 9200,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -1650,7 +1650,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Blade_Katana_Tier_02",
-							"Price": 8400,
+							"Price": 12400,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -1673,7 +1673,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Blade_Macuahuitl_Tier_02",
-							"Price": 9300,
+							"Price": 13800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -1696,7 +1696,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Blade_Katana_Tier_04",
-							"Price": 13000,
+							"Price": 17700,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -1719,7 +1719,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Blade_Macuahuitl_Tier_04",
-							"Price": 14500,
+							"Price": 19600,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -1742,7 +1742,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Blade_VibroBlade_Tier_04",
-							"Price": 9700,
+							"Price": 13100,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -1765,7 +1765,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Blade_Katana_Tier_05",
-							"Price": 15400,
+							"Price": 20000,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -1788,7 +1788,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Blade_Macuahuitl_Tier_05",
-							"Price": 17100,
+							"Price": 22200,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -1811,7 +1811,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Blade_VibroBlade_Tier_05",
-							"Price": 11400,
+							"Price": 14800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -1834,7 +1834,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Club_NailBoard_Tier_01",
-							"Price": 2200,
+							"Price": 4400,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -1857,7 +1857,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Club_FoldingSpade_Tier_01",
-							"Price": 3300,
+							"Price": 6600,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -1880,7 +1880,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Club_FoldingSpade_Tier_02",
-							"Price": 8100,
+							"Price": 11900,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -1903,7 +1903,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Club_NailBoard_Tier_02",
-							"Price": 5400,
+							"Price": 8000,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -1926,7 +1926,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Club_ShockMace_Tier_02",
-							"Price": 7300,
+							"Price": 10700,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -1949,7 +1949,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Club_FoldingSpade_Tier_04",
-							"Price": 12500,
+							"Price": 17000,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -1972,7 +1972,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Club_ShockMace_Tier_04",
-							"Price": 11300,
+							"Price": 15300,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -1995,7 +1995,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Club_Tonfa_Tier_04",
-							"Price": 8300,
+							"Price": 11300,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -2018,7 +2018,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Club_FoldingSpade_Tier_05",
-							"Price": 14800,
+							"Price": 19200,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -2041,7 +2041,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Club_ShockMace_Tier_05",
-							"Price": 13300,
+							"Price": 17300,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -2064,7 +2064,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Club_Tonfa_Tier_05",
-							"Price": 9800,
+							"Price": 12800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -2087,7 +2087,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Blade_Katana_Tier_03",
-							"Price": 9000,
+							"Price": 13100,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -2110,7 +2110,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Blade_Macuahuitl_Tier_03",
-							"Price": 10000,
+							"Price": 14500,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -2133,7 +2133,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Club_FoldingSpade_Tier_03",
-							"Price": 8700,
+							"Price": 12500,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -2156,7 +2156,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Club_ShockMace_Tier_03",
-							"Price": 7800,
+							"Price": 11300,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -2317,7 +2317,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Consumable_Cram",
-							"Price": 300,
+							"Price": 800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -2340,7 +2340,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Consumable_Kamikaze",
-							"Price": 300,
+							"Price": 800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -2363,7 +2363,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Consumable_Jazz",
-							"Price": 1000,
+							"Price": 1500,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -2386,7 +2386,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Consumable_Medkit",
-							"Price": 300,
+							"Price": 900,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -2409,7 +2409,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Consumable_DocWagonCardBasic",
-							"Price": 1500,
+							"Price": 2200,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -2432,7 +2432,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Consumable_DocWagonCardGold",
-							"Price": 3000,
+							"Price": 3700,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -2484,7 +2484,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Conjuring_ConjuringFocus_Tier_01",
-							"Price": 3900,
+							"Price": 7800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -2507,7 +2507,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Conjuring_CombatFocus_Tier_01",
-							"Price": 3900,
+							"Price": 7800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -2530,7 +2530,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Conjuring_ConjuringFocus_Tier_02",
-							"Price": 9500,
+							"Price": 14000,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -2553,7 +2553,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Conjuring_CombatFocus_Tier_03",
-							"Price": 10200,
+							"Price": 14800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -2576,7 +2576,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Conjuring_ConjuringFocus_Tier_03",
-							"Price": 10200,
+							"Price": 14800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -2599,7 +2599,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Conjuring_CombatFocus_Tier_05",
-							"Price": 17400,
+							"Price": 22600,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -2622,7 +2622,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Conjuring_ConjuringFocus_Tier_05",
-							"Price": 17400,
+							"Price": 22600,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -2691,7 +2691,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Spellcasting_PowerFocus_Tier_01",
-							"Price": 4300,
+							"Price": 8600,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -2714,7 +2714,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Spellcasting_OverchargeFocus_Tier_01",
-							"Price": 6500,
+							"Price": 12900,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -2737,7 +2737,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Spellcasting_PowerFocus_Tier_02",
-							"Price": 10400,
+							"Price": 15400,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -2760,7 +2760,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Spellcasting_OverchargeFocus_Tier_03",
-							"Price": 16800,
+							"Price": 24400,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -2783,7 +2783,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Spellcasting_PowerFocus_Tier_03",
-							"Price": 11200,
+							"Price": 16200,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -2806,7 +2806,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Spellcasting_OverchargeFocus_Tier_05",
-							"Price": 28700,
+							"Price": 37300,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -2829,7 +2829,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Spellcasting_PowerFocus_Tier_05",
-							"Price": 19100,
+							"Price": 24900,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -2898,7 +2898,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Spellcasting_OverchargeFocus_Tier_04",
-							"Price": 24300,
+							"Price": 33000,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -2921,7 +2921,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Spellcasting_PowerFocus_Tier_04",
-							"Price": 16200,
+							"Price": 22000,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -2944,7 +2944,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Conjuring_CombatFocus_Tier_04",
-							"Price": 14700,
+							"Price": 20000,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -2967,7 +2967,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Conjuring_ConjuringFocus_Tier_04",
-							"Price": 14700,
+							"Price": 20000,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -3088,7 +3088,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Hacking_Mcd1Deck_Tier_01",
-							"Price": 4100,
+							"Price": 8200,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -3111,7 +3111,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Hacking_Aztecha200_Tier_01",
-							"Price": 5200,
+							"Price": 10300,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -3134,7 +3134,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Hacking_Mcd1Deck_Tier_02",
-							"Price": 10000,
+							"Price": 14800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -3157,7 +3157,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Hacking_Aztecha200_Tier_03",
-							"Price": 13500,
+							"Price": 19500,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -3180,7 +3180,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Hacking_Mcd1Deck_Tier_03",
-							"Price": 10800,
+							"Price": 15600,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -3203,7 +3203,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Hacking_MicrodeckSummit_Tier_03",
-							"Price": 16200,
+							"Price": 23400,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -3226,7 +3226,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Hacking_Aztecha200_Tier_05",
-							"Price": 22900,
+							"Price": 29800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -3249,7 +3249,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Hacking_Mcd1Deck_Tier_05",
-							"Price": 18300,
+							"Price": 23900,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -3272,7 +3272,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Hacking_MicrodeckSummit_Tier_05",
-							"Price": 27500,
+							"Price": 35800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -3364,7 +3364,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Rigging_ControlRigInterface_Tier_01",
-							"Price": 5000,
+							"Price": 10000,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -3387,7 +3387,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Rigging_ModdedRigInterface_Tier_01",
-							"Price": 9700,
+							"Price": 14400,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -3410,7 +3410,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Rigging_ControlRigInterface_Tier_02",
-							"Price": 12100,
+							"Price": 17900,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -3433,7 +3433,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Rigging_ControlRigInterface_Tier_03",
-							"Price": 13000,
+							"Price": 18900,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -3456,7 +3456,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Rigging_ModdedRigInterface_Tier_03",
-							"Price": 10400,
+							"Price": 15100,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -3479,7 +3479,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Rigging_ControlRigInterface_Tier_05",
-							"Price": 22200,
+							"Price": 28900,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -3502,7 +3502,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Rigging_ModdedRigInterface_Tier_05",
-							"Price": 17800,
+							"Price": 23100,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -3571,7 +3571,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Hacking_Aztecha200_Tier_04",
-							"Price": 19400,
+							"Price": 26400,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -3594,7 +3594,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Hacking_Mcd1Deck_Tier_04",
-							"Price": 15500,
+							"Price": 21100,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -3617,7 +3617,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Hacking_MicrodeckSummit_Tier_04",
-							"Price": 23300,
+							"Price": 31600,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -3640,7 +3640,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Rigging_ControlRigInterface_Tier_04",
-							"Price": 18800,
+							"Price": 25500,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -3663,7 +3663,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Rigging_ModdedRigInterface_Tier_04",
-							"Price": 15100,
+							"Price": 20400,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -3784,7 +3784,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_CeramicPlating1",
-							"Price": 1700,
+							"Price": 4300,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -3807,7 +3807,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_CeramicPlating2",
-							"Price": 6300,
+							"Price": 9400,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -3830,7 +3830,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_CeramicPlating3",
-							"Price": 9800,
+							"Price": 13300,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -3853,7 +3853,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_CeramicPlating4",
-							"Price": 11700,
+							"Price": 15100,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -3876,7 +3876,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_ElementalEssenceSpray2",
-							"Price": 4700,
+							"Price": 7000,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -3899,7 +3899,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_ElementalEssenceSpray3",
-							"Price": 7400,
+							"Price": 10000,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -3922,7 +3922,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_ElementalEssenceSpray4",
-							"Price": 8800,
+							"Price": 11300,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -3945,7 +3945,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_EnchantedBiofiber2",
-							"Price": 8200,
+							"Price": 11100,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -3968,7 +3968,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_EnchantedBiofiber3",
-							"Price": 9700,
+							"Price": 12600,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -3991,7 +3991,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_EnchantedBiofiber4",
-							"Price": 13100,
+							"Price": 13000,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -4014,7 +4014,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_PolymerCoating1",
-							"Price": 1000,
+							"Price": 2500,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -4037,7 +4037,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_PolymerCoating2",
-							"Price": 3700,
+							"Price": 5500,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -4060,7 +4060,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_PolymerCoating3",
-							"Price": 5700,
+							"Price": 7800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -4083,7 +4083,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_PolymerCoating4",
-							"Price": 6800,
+							"Price": 8800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -4106,7 +4106,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_ResponsiveECMFilaments2",
-							"Price": 8200,
+							"Price": 11100,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -4129,7 +4129,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_ResponsiveECMFilaments3",
-							"Price": 9700,
+							"Price": 12600,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -4152,7 +4152,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_ResponsiveECMFilaments4",
-							"Price": 13100,
+							"Price": 13000,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -4221,7 +4221,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_PolymerCoating6",
-							"Price": 17500,
+							"Price": 17400,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -4313,7 +4313,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_CeramicPlating6",
-							"Price": 29900,
+							"Price": 29800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -4336,7 +4336,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_CeramicPlating7",
-							"Price": 36800,
+							"Price": 36700,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -4382,7 +4382,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_ElementalEssenceSpray7",
-							"Price": 27600,
+							"Price": 27500,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						}
 					],
@@ -4457,7 +4457,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_ReinforcedCyberarm_2_Alpha",
-							"Price": 3400,
+							"Price": 3300,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -4480,7 +4480,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_ReinforcedCyberarm_2_Beta",
-							"Price": 5900,
+							"Price": 5800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -4503,7 +4503,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_ReinforcedCyberarm_3_Alpha",
-							"Price": 6400,
+							"Price": 6300,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -4526,7 +4526,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_ReinforcedCyberarm_3_Beta",
-							"Price": 11200,
+							"Price": 11100,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -4549,7 +4549,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_ReinforcedCyberarm_4_Alpha",
-							"Price": 13400,
+							"Price": 13300,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -4572,7 +4572,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_ReinforcedCyberarm_4_Beta",
-							"Price": 23400,
+							"Price": 23300,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -4641,7 +4641,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_StabilisedCyberarm_2_Alpha",
-							"Price": 3400,
+							"Price": 3300,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -4664,7 +4664,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_StabilisedCyberarm_2_Beta",
-							"Price": 5900,
+							"Price": 5800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -4687,7 +4687,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_StabilisedCyberarm_3_Alpha",
-							"Price": 6400,
+							"Price": 6300,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -4710,7 +4710,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_StabilisedCyberarm_3_Beta",
-							"Price": 11200,
+							"Price": 11100,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -4733,7 +4733,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_StabilisedCyberarm_4_Alpha",
-							"Price": 13400,
+							"Price": 13300,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -4756,7 +4756,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_StabilisedCyberarm_4_Beta",
-							"Price": 23400,
+							"Price": 23300,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -4802,7 +4802,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_BoostedComlink_1_Beta",
-							"Price": 5100,
+							"Price": 5000,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -4848,7 +4848,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_CranialRemote_1_Beta",
-							"Price": 5100,
+							"Price": 5000,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -4940,7 +4940,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_CranialRemote_3_Beta",
-							"Price": 20200,
+							"Price": 20100,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -5032,7 +5032,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_VisionMagnification_2_Beta",
-							"Price": 20200,
+							"Price": 20100,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -5078,7 +5078,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_Cyberlegs_1_Beta",
-							"Price": 6100,
+							"Price": 6000,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -5124,7 +5124,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_Cyberlegs_2_Beta",
-							"Price": 11600,
+							"Price": 11500,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -5147,7 +5147,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_Cyberlegs_3_Alpha",
-							"Price": 13900,
+							"Price": 13800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -5216,7 +5216,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_GlandularImplants_1_Beta",
-							"Price": 6100,
+							"Price": 6000,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -5262,7 +5262,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_GlandularImplants_2_Beta",
-							"Price": 11600,
+							"Price": 11500,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -5285,7 +5285,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_GlandularImplants_3_Alpha",
-							"Price": 13900,
+							"Price": 13800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -5331,7 +5331,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_Dermal_Plating_1_Alpha",
-							"Price": 4700,
+							"Price": 4600,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -5354,7 +5354,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_Dermal_Plating_1_Beta",
-							"Price": 8200,
+							"Price": 8100,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -5377,7 +5377,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_Dermal_Plating_2_Alpha",
-							"Price": 8800,
+							"Price": 8700,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -5400,7 +5400,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_Dermal_Plating_2_Beta",
-							"Price": 15400,
+							"Price": 15300,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -5423,7 +5423,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_Dermal_Plating_3_Alpha",
-							"Price": 18500,
+							"Price": 18400,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -5446,7 +5446,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_Dermal_Plating_3_Beta",
-							"Price": 32300,
+							"Price": 32200,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -5469,7 +5469,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_Wired_Reflexes_1_Alpha",
-							"Price": 4700,
+							"Price": 4600,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -5492,7 +5492,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_Wired_Reflexes_1_Beta",
-							"Price": 8200,
+							"Price": 8100,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -5515,7 +5515,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_Wired_Reflexes_2_Alpha",
-							"Price": 8800,
+							"Price": 8700,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -5538,7 +5538,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_Wired_Reflexes_2_Beta",
-							"Price": 15400,
+							"Price": 15300,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -5561,7 +5561,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_Wired_Reflexes_3_Alpha",
-							"Price": 18500,
+							"Price": 18400,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -5584,7 +5584,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_Wired_Reflexes_3_Beta",
-							"Price": 32300,
+							"Price": 32200,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -5607,7 +5607,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_Bioware_Head",
-							"Price": 112100,
+							"Price": 44400,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -5630,7 +5630,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_Bioware_Torso",
-							"Price": 179300,
+							"Price": 71100,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -5653,7 +5653,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_Bioware_Legs",
-							"Price": 134500,
+							"Price": 53300,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -5676,7 +5676,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_Bioware_Arms",
-							"Price": 130000,
+							"Price": 51500,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -5699,7 +5699,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_BoostedBioware_Head",
-							"Price": 112100,
+							"Price": 111000,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -5722,7 +5722,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_BoostedBioware_Torso",
-							"Price": 179300,
+							"Price": 177700,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -5745,7 +5745,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_BoostedBioware_Legs",
-							"Price": 134500,
+							"Price": 133300,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -5768,7 +5768,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_BoostedBioware_Arms",
-							"Price": 130000,
+							"Price": 128800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -5814,7 +5814,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_ReinforcedCyberarm_6_Alpha",
-							"Price": 25600,
+							"Price": 25500,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -5860,7 +5860,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_ReinforcedCyberarm_6_Delta",
-							"Price": 73000,
+							"Price": 72800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -5906,7 +5906,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_StabilisedCyberarm_6_Alpha",
-							"Price": 25600,
+							"Price": 25500,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -5952,7 +5952,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_StabilisedCyberarm_6_Delta",
-							"Price": 73000,
+							"Price": 72800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -6021,7 +6021,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_BoostedComlink_2_Delta",
-							"Price": 63000,
+							"Price": 62800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -6113,7 +6113,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_CranialRemote_5_Delta",
-							"Price": 63000,
+							"Price": 62800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -6205,7 +6205,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_VisionMagnification_4_Delta",
-							"Price": 63000,
+							"Price": 62800,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -6297,7 +6297,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_Cyberlegs_5_Delta",
-							"Price": 75600,
+							"Price": 75300,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -6389,7 +6389,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_Glandularimplants_5_Delta",
-							"Price": 75600,
+							"Price": 75300,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -6435,7 +6435,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_Dermal_Plating_5_Alpha",
-							"Price": 35300,
+							"Price": 35100,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -6481,7 +6481,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_Dermal_Plating_5_Delta",
-							"Price": 100700,
+							"Price": 100400,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -6527,7 +6527,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_Wired_Reflexes_5_Alpha",
-							"Price": 35300,
+							"Price": 35100,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
@@ -6573,7 +6573,7 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LootConditions.AndAvailabilityCondition, Cliffhanger.SRO.ServerClientCommons"
 							},
 							"ItemId": "Item_Cyberware_Wired_Reflexes_5_Delta",
-							"Price": 100700,
+							"Price": 100400,
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.ShopListEntry, Cliffhanger.SRO.ServerClientCommons"
 						}
 					],
@@ -6753,7 +6753,7 @@
 					"ItemTypeId": 196820,
 					"MaxStacksize": 99,
 					"Name": "Consumable.Item_Consumable_FragGrenade.Name",
-					"SellPrice": 30,
+					"SellPrice": 90,
 					"SkillId": 60001,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicConsumableItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -6764,7 +6764,7 @@
 					"ItemTypeId": 196820,
 					"MaxStacksize": 99,
 					"Name": "Consumable.Item_Consumable_ImprovedFragGrenade.Name",
-					"SellPrice": 110,
+					"SellPrice": 170,
 					"SkillId": 60011,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicConsumableItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -6775,7 +6775,7 @@
 					"ItemTypeId": 196820,
 					"MaxStacksize": 99,
 					"Name": "Consumable.Item_Consumable_SOTAFragGrenade.Name",
-					"SellPrice": 200,
+					"SellPrice": 270,
 					"SkillId": 60012,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicConsumableItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -6786,7 +6786,7 @@
 					"ItemTypeId": 196820,
 					"MaxStacksize": 99,
 					"Name": "Consumable.Item_Consumable_SmokeGrenade.Name",
-					"SellPrice": 110,
+					"SellPrice": 170,
 					"SkillId": 60002,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicConsumableItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -6797,7 +6797,7 @@
 					"ItemTypeId": 196820,
 					"MaxStacksize": 99,
 					"Name": "Consumable.Item_Consumable_EMPGrenade.Name",
-					"SellPrice": 30,
+					"SellPrice": 90,
 					"SkillId": 60003,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicConsumableItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -6808,7 +6808,7 @@
 					"ItemTypeId": 196820,
 					"MaxStacksize": 99,
 					"Name": "Consumable.Item_Consumable_ImprovedEMPGrenade.Name",
-					"SellPrice": 110,
+					"SellPrice": 170,
 					"SkillId": 60013,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicConsumableItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -6819,7 +6819,7 @@
 					"ItemTypeId": 196820,
 					"MaxStacksize": 99,
 					"Name": "Consumable.Item_Consumable_SOTAEMPGrenade.Name",
-					"SellPrice": 200,
+					"SellPrice": 270,
 					"SkillId": 60014,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicConsumableItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -6830,7 +6830,7 @@
 					"ItemTypeId": 196820,
 					"MaxStacksize": 99,
 					"Name": "Consumable.Item_Consumable_RocketLauncher.Name",
-					"SellPrice": 280,
+					"SellPrice": 350,
 					"SkillId": 60004,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicConsumableItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -6841,7 +6841,7 @@
 					"ItemTypeId": 196820,
 					"MaxStacksize": 99,
 					"Name": "Consumable.Item_Consumable_Medkit.Name",
-					"SellPrice": 30,
+					"SellPrice": 90,
 					"SkillId": 60010,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicConsumableItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -6852,7 +6852,7 @@
 					"ItemTypeId": 196820,
 					"MaxStacksize": 99,
 					"Name": "Consumable.Item_Consumable_DocWagonCardBasic.Name",
-					"SellPrice": 150,
+					"SellPrice": 220,
 					"SkillId": 60015,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicConsumableItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -6907,7 +6907,7 @@
 					"ItemTypeId": 196820,
 					"MaxStacksize": 99,
 					"Name": "Consumable.Item_Consumable_Cram.Name",
-					"SellPrice": 30,
+					"SellPrice": 80,
 					"SkillId": 60018,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicConsumableItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -6918,7 +6918,7 @@
 					"ItemTypeId": 196820,
 					"MaxStacksize": 99,
 					"Name": "Consumable.Item_Consumable_Kamikaze.Name",
-					"SellPrice": 30,
+					"SellPrice": 80,
 					"SkillId": 60019,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicConsumableItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -6929,7 +6929,7 @@
 					"ItemTypeId": 196820,
 					"MaxStacksize": 99,
 					"Name": "Consumable.Item_Consumable_Jazz.Name",
-					"SellPrice": 100,
+					"SellPrice": 150,
 					"SkillId": 60020,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicConsumableItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -6940,7 +6940,7 @@
 					"ItemTypeId": 196820,
 					"MaxStacksize": 99,
 					"Name": "Consumable.Item_Consumable_BustersFlamethrower.Name",
-					"SellPrice": 200,
+					"SellPrice": 270,
 					"SkillId": 60022,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicConsumableItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -6962,7 +6962,7 @@
 					"ItemTypeId": 196820,
 					"MaxStacksize": 99,
 					"Name": "Consumable.Item_Consumable_TaserRifle.Name",
-					"SellPrice": 200,
+					"SellPrice": 270,
 					"SkillId": 60024,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicConsumableItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -6973,7 +6973,7 @@
 					"ItemTypeId": 196820,
 					"MaxStacksize": 99,
 					"Name": "Consumable.Item_Consumable_TheRipper.Name",
-					"SellPrice": 200,
+					"SellPrice": 270,
 					"SkillId": 60025,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicConsumableItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -6984,7 +6984,7 @@
 					"ItemTypeId": 196820,
 					"MaxStacksize": 99,
 					"Name": "Consumable.Item_Consumable_DocWagonCardGold.Name",
-					"SellPrice": 300,
+					"SellPrice": 370,
 					"SkillId": 60016,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicConsumableItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -7039,7 +7039,7 @@
 					"Bodytype": 196715,
 					"CharacterIdentifier": "",
 					"CharacterName": "Henchman.Anjelica.Name",
-					"DataVersion": 45,
+					"DataVersion": 46,
 					"IsHenchman": true,
 					"PlayerCharacterInventory": {
 						"Armor": {
@@ -7245,7 +7245,7 @@
 					"Bodytype": 196714,
 					"CharacterIdentifier": "",
 					"CharacterName": "Henchman.Batshit.Name",
-					"DataVersion": 45,
+					"DataVersion": 46,
 					"IsHenchman": true,
 					"PlayerCharacterInventory": {
 						"Armor": {
@@ -7477,7 +7477,7 @@
 					"Bodytype": 196712,
 					"CharacterIdentifier": "",
 					"CharacterName": "Henchman.Brutus.Name",
-					"DataVersion": 45,
+					"DataVersion": 46,
 					"IsHenchman": true,
 					"PlayerCharacterInventory": {
 						"Armor": {
@@ -7735,7 +7735,7 @@
 					"Bodytype": 196711,
 					"CharacterIdentifier": "",
 					"CharacterName": "Henchman.Halon.Name",
-					"DataVersion": 45,
+					"DataVersion": 46,
 					"IsHenchman": true,
 					"PlayerCharacterInventory": {
 						"Armor": {
@@ -7967,7 +7967,7 @@
 					"Bodytype": 196717,
 					"CharacterIdentifier": "",
 					"CharacterName": "Henchman.Hangover.Name",
-					"DataVersion": 45,
+					"DataVersion": 46,
 					"IsHenchman": true,
 					"PlayerCharacterInventory": {
 						"Armor": {
@@ -8225,7 +8225,7 @@
 					"Bodytype": 196710,
 					"CharacterIdentifier": "",
 					"CharacterName": "Henchman.JimmyMac.Name",
-					"DataVersion": 45,
+					"DataVersion": 46,
 					"IsHenchman": true,
 					"PlayerCharacterInventory": {
 						"Armor": {
@@ -8405,7 +8405,7 @@
 					"Bodytype": 196716,
 					"CharacterIdentifier": "",
 					"CharacterName": "Henchman.Shucks.Name",
-					"DataVersion": 45,
+					"DataVersion": 46,
 					"IsHenchman": true,
 					"PlayerCharacterInventory": {
 						"Armor": {
@@ -8611,7 +8611,7 @@
 					"Bodytype": 196718,
 					"CharacterIdentifier": "",
 					"CharacterName": "Henchman.Tenpin.Name",
-					"DataVersion": 45,
+					"DataVersion": 46,
 					"IsHenchman": true,
 					"PlayerCharacterInventory": {
 						"Armor": {
@@ -8843,7 +8843,7 @@
 					"Bodytype": 196709,
 					"CharacterIdentifier": "",
 					"CharacterName": "Henchman.Thunderb0lz.Name",
-					"DataVersion": 45,
+					"DataVersion": 46,
 					"IsHenchman": true,
 					"PlayerCharacterInventory": {
 						"Armor": {
@@ -15685,6 +15685,20 @@
 					"VisualItemReference": "PetsTankMeshSet_Item"
 				},
 				{
+					"Description": "Cloth.Item_halloweenpet_01.Description",
+					"GenderRestrictions": null,
+					"Icon": "GUI/Textures/Metagameplay/clothing_icons_small/icon_small_Item_halloweenpet_01",
+					"Id": "Item_halloweenpet_01",
+					"ItemTypeId": 196831,
+					"MaxStacksize": 99,
+					"MetaTypeRestrictions": null,
+					"Name": "Cloth.Item_halloweenpet_01.Name",
+					"SellPrice": 0,
+					"StatusValueModifiers": [],
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicEquipmentItemDefinition, Cliffhanger.SRO.ServerClientCommons",
+					"VisualItemReference": "PetsHalloween01MeshSet_Item"
+				},
+				{
 					"Description": "Armor.Item_PolymerCoating1.Description",
 					"GenderRestrictions": null,
 					"Icon": "GUI/Textures/Metagameplay/armor_icons_small/icon_small_PolymerCoating1",
@@ -15693,7 +15707,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Armor.Item_PolymerCoating1.Name",
-					"SellPrice": 100,
+					"SellPrice": 250,
 					"StatusValueModifiers": [
 						{
 							"ID": 458763,
@@ -15715,7 +15729,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Armor.Item_PolymerCoating2.Name",
-					"SellPrice": 370,
+					"SellPrice": 550,
 					"StatusValueModifiers": [
 						{
 							"ID": 458763,
@@ -15737,7 +15751,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Armor.Item_PolymerCoating3.Name",
-					"SellPrice": 570,
+					"SellPrice": 780,
 					"StatusValueModifiers": [
 						{
 							"ID": 458763,
@@ -15766,7 +15780,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Armor.Item_PolymerCoating4.Name",
-					"SellPrice": 680,
+					"SellPrice": 880,
 					"StatusValueModifiers": [
 						{
 							"ID": 458763,
@@ -15824,7 +15838,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Armor.Item_PolymerCoating6.Name",
-					"SellPrice": 1750,
+					"SellPrice": 1740,
 					"StatusValueModifiers": [
 						{
 							"ID": 458763,
@@ -15882,7 +15896,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Armor.Item_ResponsiveECMFilaments2.Name",
-					"SellPrice": 820,
+					"SellPrice": 1110,
 					"StatusValueModifiers": [
 						{
 							"ID": 458765,
@@ -15904,7 +15918,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Armor.Item_ResponsiveECMFilaments3.Name",
-					"SellPrice": 970,
+					"SellPrice": 1260,
 					"StatusValueModifiers": [
 						{
 							"ID": 458763,
@@ -15933,7 +15947,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Armor.Item_ResponsiveECMFilaments4.Name",
-					"SellPrice": 1310,
+					"SellPrice": 1300,
 					"StatusValueModifiers": [
 						{
 							"ID": 458763,
@@ -16049,7 +16063,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Armor.Item_CeramicPlating1.Name",
-					"SellPrice": 170,
+					"SellPrice": 430,
 					"StatusValueModifiers": [
 						{
 							"ID": 458763,
@@ -16085,7 +16099,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Armor.Item_CeramicPlating2.Name",
-					"SellPrice": 630,
+					"SellPrice": 940,
 					"StatusValueModifiers": [
 						{
 							"ID": 458763,
@@ -16121,7 +16135,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Armor.Item_CeramicPlating3.Name",
-					"SellPrice": 980,
+					"SellPrice": 1330,
 					"StatusValueModifiers": [
 						{
 							"ID": 458763,
@@ -16164,7 +16178,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Armor.Item_CeramicPlating4.Name",
-					"SellPrice": 1170,
+					"SellPrice": 1510,
 					"StatusValueModifiers": [
 						{
 							"ID": 458763,
@@ -16250,7 +16264,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Armor.Item_CeramicPlating6.Name",
-					"SellPrice": 2990,
+					"SellPrice": 2980,
 					"StatusValueModifiers": [
 						{
 							"ID": 458763,
@@ -16293,7 +16307,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Armor.Item_CeramicPlating7.Name",
-					"SellPrice": 3680,
+					"SellPrice": 3670,
 					"StatusValueModifiers": [
 						{
 							"ID": 458763,
@@ -16336,7 +16350,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Armor.Item_EnchantedBiofiber2.Name",
-					"SellPrice": 820,
+					"SellPrice": 1110,
 					"StatusValueModifiers": [
 						{
 							"ID": 458764,
@@ -16358,7 +16372,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Armor.Item_EnchantedBiofiber3.Name",
-					"SellPrice": 970,
+					"SellPrice": 1260,
 					"StatusValueModifiers": [
 						{
 							"ID": 458763,
@@ -16387,7 +16401,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Armor.Item_EnchantedBiofiber4.Name",
-					"SellPrice": 1310,
+					"SellPrice": 1300,
 					"StatusValueModifiers": [
 						{
 							"ID": 458763,
@@ -16532,7 +16546,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Armor.Item_ElementalEssenceSpray2.Name",
-					"SellPrice": 470,
+					"SellPrice": 700,
 					"StatusValueModifiers": [
 						{
 							"ID": 458753,
@@ -16568,7 +16582,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Armor.Item_ElementalEssenceSpray3.Name",
-					"SellPrice": 740,
+					"SellPrice": 1000,
 					"StatusValueModifiers": [
 						{
 							"ID": 458753,
@@ -16604,7 +16618,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Armor.Item_ElementalEssenceSpray4.Name",
-					"SellPrice": 880,
+					"SellPrice": 1130,
 					"StatusValueModifiers": [
 						{
 							"ID": 458753,
@@ -16712,7 +16726,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Armor.Item_ElementalEssenceSpray7.Name",
-					"SellPrice": 2760,
+					"SellPrice": 2750,
 					"StatusValueModifiers": [
 						{
 							"ID": 458753,
@@ -16842,7 +16856,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_ReinforcedCyberarm_2_Alpha.Name",
-					"SellPrice": 340,
+					"SellPrice": 330,
 					"StatusValueModifiers": [
 						{
 							"ID": 458779,
@@ -16885,7 +16899,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_ReinforcedCyberarm_2_Beta.Name",
-					"SellPrice": 590,
+					"SellPrice": 580,
 					"StatusValueModifiers": [
 						{
 							"ID": 458779,
@@ -16928,7 +16942,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_ReinforcedCyberarm_3_Alpha.Name",
-					"SellPrice": 640,
+					"SellPrice": 630,
 					"StatusValueModifiers": [
 						{
 							"ID": 458779,
@@ -16971,7 +16985,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_ReinforcedCyberarm_3_Beta.Name",
-					"SellPrice": 1120,
+					"SellPrice": 1110,
 					"StatusValueModifiers": [
 						{
 							"ID": 458779,
@@ -17014,7 +17028,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_ReinforcedCyberarm_4_Alpha.Name",
-					"SellPrice": 1340,
+					"SellPrice": 1330,
 					"StatusValueModifiers": [
 						{
 							"ID": 458779,
@@ -17057,7 +17071,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_ReinforcedCyberarm_4_Beta.Name",
-					"SellPrice": 2340,
+					"SellPrice": 2330,
 					"StatusValueModifiers": [
 						{
 							"ID": 458779,
@@ -17143,7 +17157,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_ReinforcedCyberarm_6_Alpha.Name",
-					"SellPrice": 2560,
+					"SellPrice": 2550,
 					"StatusValueModifiers": [
 						{
 							"ID": 458779,
@@ -17229,7 +17243,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_ReinforcedCyberarm_6_Delta.Name",
-					"SellPrice": 7300,
+					"SellPrice": 7280,
 					"StatusValueModifiers": [
 						{
 							"ID": 458779,
@@ -17344,7 +17358,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_StabilisedCyberarm_2_Alpha.Name",
-					"SellPrice": 340,
+					"SellPrice": 330,
 					"StatusValueModifiers": [
 						{
 							"ID": 458779,
@@ -17387,7 +17401,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_StabilisedCyberarm_2_Beta.Name",
-					"SellPrice": 590,
+					"SellPrice": 580,
 					"StatusValueModifiers": [
 						{
 							"ID": 458779,
@@ -17430,7 +17444,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_StabilisedCyberarm_3_Alpha.Name",
-					"SellPrice": 640,
+					"SellPrice": 630,
 					"StatusValueModifiers": [
 						{
 							"ID": 458779,
@@ -17473,7 +17487,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_StabilisedCyberarm_3_Beta.Name",
-					"SellPrice": 1120,
+					"SellPrice": 1110,
 					"StatusValueModifiers": [
 						{
 							"ID": 458779,
@@ -17516,7 +17530,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_StabilisedCyberarm_4_Alpha.Name",
-					"SellPrice": 1340,
+					"SellPrice": 1330,
 					"StatusValueModifiers": [
 						{
 							"ID": 458779,
@@ -17559,7 +17573,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_StabilisedCyberarm_4_Beta.Name",
-					"SellPrice": 2340,
+					"SellPrice": 2330,
 					"StatusValueModifiers": [
 						{
 							"ID": 458779,
@@ -17645,7 +17659,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_StabilisedCyberarm_6_Alpha.Name",
-					"SellPrice": 2560,
+					"SellPrice": 2550,
 					"StatusValueModifiers": [
 						{
 							"ID": 458779,
@@ -17731,7 +17745,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_StabilisedCyberarm_6_Delta.Name",
-					"SellPrice": 7300,
+					"SellPrice": 7280,
 					"StatusValueModifiers": [
 						{
 							"ID": 458779,
@@ -17810,7 +17824,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_BoostedComlink_1_Beta.Name",
-					"SellPrice": 510,
+					"SellPrice": 500,
 					"StatusValueModifiers": [
 						{
 							"ID": 458759,
@@ -17918,7 +17932,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_BoostedComlink_2_Delta.Name",
-					"SellPrice": 6300,
+					"SellPrice": 6280,
 					"StatusValueModifiers": [
 						{
 							"ID": 458759,
@@ -17997,7 +18011,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_CranialRemote_1_Beta.Name",
-					"SellPrice": 510,
+					"SellPrice": 500,
 					"StatusValueModifiers": [
 						{
 							"ID": 458780,
@@ -18190,7 +18204,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_CranialRemote_3_Beta.Name",
-					"SellPrice": 2020,
+					"SellPrice": 2010,
 					"StatusValueModifiers": [
 						{
 							"ID": 458757,
@@ -18390,7 +18404,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_CranialRemote_5_Delta.Name",
-					"SellPrice": 6300,
+					"SellPrice": 6280,
 					"StatusValueModifiers": [
 						{
 							"ID": 458757,
@@ -18548,7 +18562,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_VisionMagnification_2_Beta.Name",
-					"SellPrice": 2020,
+					"SellPrice": 2010,
 					"StatusValueModifiers": [
 						{
 							"ID": 458757,
@@ -18559,7 +18573,7 @@
 						},
 						{
 							"ID": 458759,
-							"Modifier": 0.1,
+							"Modifier": 0.07,
 							"ModifiesMaximum": true,
 							"Tag": "Trait",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -18588,14 +18602,14 @@
 					"StatusValueModifiers": [
 						{
 							"ID": 458757,
-							"Modifier": 0.1,
+							"Modifier": 0.07,
 							"ModifiesMaximum": true,
 							"Tag": "Trait",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
 						},
 						{
 							"ID": 458759,
-							"Modifier": 0.05,
+							"Modifier": 0.07,
 							"ModifiesMaximum": true,
 							"Tag": "Trait",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -18692,7 +18706,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_VisionMagnification_4_Delta.Name",
-					"SellPrice": 6300,
+					"SellPrice": 6280,
 					"StatusValueModifiers": [
 						{
 							"ID": 458757,
@@ -18764,7 +18778,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_Cyberlegs_1_Beta.Name",
-					"SellPrice": 610,
+					"SellPrice": 600,
 					"StatusValueModifiers": [
 						{
 							"ID": 458753,
@@ -18843,7 +18857,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_Cyberlegs_2_Beta.Name",
-					"SellPrice": 1160,
+					"SellPrice": 1150,
 					"StatusValueModifiers": [
 						{
 							"ID": 458753,
@@ -18886,7 +18900,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_Cyberlegs_3_Alpha.Name",
-					"SellPrice": 1390,
+					"SellPrice": 1380,
 					"StatusValueModifiers": [
 						{
 							"ID": 458753,
@@ -19101,7 +19115,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_Cyberlegs_5_Delta.Name",
-					"SellPrice": 7560,
+					"SellPrice": 7530,
 					"StatusValueModifiers": [
 						{
 							"ID": 458753,
@@ -19194,7 +19208,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_GlandularImplants_1_Beta.Name",
-					"SellPrice": 610,
+					"SellPrice": 600,
 					"StatusValueModifiers": [
 						{
 							"ID": 458753,
@@ -19294,7 +19308,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_GlandularImplants_2_Beta.Name",
-					"SellPrice": 1160,
+					"SellPrice": 1150,
 					"StatusValueModifiers": [
 						{
 							"ID": 458753,
@@ -19344,7 +19358,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_GlandularImplants_3_Alpha.Name",
-					"SellPrice": 1390,
+					"SellPrice": 1380,
 					"StatusValueModifiers": [
 						{
 							"ID": 458753,
@@ -19594,7 +19608,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_Glandularimplants_5_Delta.Name",
-					"SellPrice": 7560,
+					"SellPrice": 7530,
 					"StatusValueModifiers": [
 						{
 							"ID": 458753,
@@ -19673,7 +19687,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_Dermal_Plating_1_Alpha.Name",
-					"SellPrice": 470,
+					"SellPrice": 460,
 					"StatusValueModifiers": [
 						{
 							"ID": 458753,
@@ -19709,7 +19723,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_Dermal_Plating_1_Beta.Name",
-					"SellPrice": 820,
+					"SellPrice": 810,
 					"StatusValueModifiers": [
 						{
 							"ID": 458753,
@@ -19745,7 +19759,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_Dermal_Plating_2_Alpha.Name",
-					"SellPrice": 880,
+					"SellPrice": 870,
 					"StatusValueModifiers": [
 						{
 							"ID": 458753,
@@ -19781,7 +19795,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_Dermal_Plating_2_Beta.Name",
-					"SellPrice": 1540,
+					"SellPrice": 1530,
 					"StatusValueModifiers": [
 						{
 							"ID": 458753,
@@ -19817,7 +19831,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_Dermal_Plating_3_Alpha.Name",
-					"SellPrice": 1850,
+					"SellPrice": 1840,
 					"StatusValueModifiers": [
 						{
 							"ID": 458753,
@@ -19853,7 +19867,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_Dermal_Plating_3_Beta.Name",
-					"SellPrice": 3230,
+					"SellPrice": 3220,
 					"StatusValueModifiers": [
 						{
 							"ID": 458753,
@@ -19925,7 +19939,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_Dermal_Plating_5_Alpha.Name",
-					"SellPrice": 3530,
+					"SellPrice": 3510,
 					"StatusValueModifiers": [
 						{
 							"ID": 458753,
@@ -19997,7 +20011,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_Dermal_Plating_5_Delta.Name",
-					"SellPrice": 10070,
+					"SellPrice": 10040,
 					"StatusValueModifiers": [
 						{
 							"ID": 458753,
@@ -20033,7 +20047,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_Wired_Reflexes_1_Alpha.Name",
-					"SellPrice": 470,
+					"SellPrice": 460,
 					"StatusValueModifiers": [
 						{
 							"ID": 458780,
@@ -20069,7 +20083,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_Wired_Reflexes_1_Beta.Name",
-					"SellPrice": 820,
+					"SellPrice": 810,
 					"StatusValueModifiers": [
 						{
 							"ID": 458780,
@@ -20105,7 +20119,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_Wired_Reflexes_2_Alpha.Name",
-					"SellPrice": 880,
+					"SellPrice": 870,
 					"StatusValueModifiers": [
 						{
 							"ID": 458780,
@@ -20141,7 +20155,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_Wired_Reflexes_2_Beta.Name",
-					"SellPrice": 1540,
+					"SellPrice": 1530,
 					"StatusValueModifiers": [
 						{
 							"ID": 458780,
@@ -20177,7 +20191,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_Wired_Reflexes_3_Alpha.Name",
-					"SellPrice": 1850,
+					"SellPrice": 1840,
 					"StatusValueModifiers": [
 						{
 							"ID": 458780,
@@ -20220,7 +20234,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_Wired_Reflexes_3_Beta.Name",
-					"SellPrice": 3230,
+					"SellPrice": 3220,
 					"StatusValueModifiers": [
 						{
 							"ID": 458780,
@@ -20306,7 +20320,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_Wired_Reflexes_5_Alpha.Name",
-					"SellPrice": 3530,
+					"SellPrice": 3510,
 					"StatusValueModifiers": [
 						{
 							"ID": 458780,
@@ -20392,7 +20406,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_Wired_Reflexes_5_Delta.Name",
-					"SellPrice": 10070,
+					"SellPrice": 10040,
 					"StatusValueModifiers": [
 						{
 							"ID": 458780,
@@ -20515,7 +20529,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_Bioware_Head.Name",
-					"SellPrice": 11210,
+					"SellPrice": 4440,
 					"StatusValueModifiers": [],
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicCyberwareItemDefinition, Cliffhanger.SRO.ServerClientCommons",
 					"VisualItemReference": "EmptyMesh"
@@ -20529,7 +20543,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_BoostedBioware_Arms.Name",
-					"SellPrice": 13000,
+					"SellPrice": 12880,
 					"StatusValueModifiers": [
 						{
 							"ID": 458766,
@@ -20565,7 +20579,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_Bioware_Arms.Name",
-					"SellPrice": 13000,
+					"SellPrice": 5150,
 					"StatusValueModifiers": [],
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicCyberwareItemDefinition, Cliffhanger.SRO.ServerClientCommons",
 					"VisualItemReference": "EmptyMesh"
@@ -20579,7 +20593,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_Bioware_Torso.Name",
-					"SellPrice": 17930,
+					"SellPrice": 7110,
 					"StatusValueModifiers": [],
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicCyberwareItemDefinition, Cliffhanger.SRO.ServerClientCommons",
 					"VisualItemReference": "EmptyMesh"
@@ -20593,7 +20607,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_Bioware_Legs.Name",
-					"SellPrice": 13450,
+					"SellPrice": 5330,
 					"StatusValueModifiers": [],
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicCyberwareItemDefinition, Cliffhanger.SRO.ServerClientCommons",
 					"VisualItemReference": "EmptyMesh"
@@ -20607,7 +20621,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_BoostedBioware_Head.Name",
-					"SellPrice": 11210,
+					"SellPrice": 11100,
 					"StatusValueModifiers": [
 						{
 							"ID": 458759,
@@ -20636,7 +20650,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_BoostedBioware_Torso.Name",
-					"SellPrice": 17930,
+					"SellPrice": 17770,
 					"StatusValueModifiers": [
 						{
 							"ID": 458753,
@@ -20658,7 +20672,7 @@
 					"MaxStacksize": 99,
 					"MetaTypeRestrictions": null,
 					"Name": "Cyberware.Item_Cyberware_BoostedBioware_Legs.Name",
-					"SellPrice": 13450,
+					"SellPrice": 13330,
 					"StatusValueModifiers": [
 						{
 							"ID": 458756,
@@ -21189,7 +21203,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806432,
 					"Name": "Weapon.Automatics_AresExecutiveProtector_Tier_04.Name",
-					"SellPrice": 1310,
+					"SellPrice": 1780,
 					"SkillTreeId": 197111,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21201,7 +21215,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806433,
 					"Name": "Weapon.Automatics_AresExecutiveProtector_Tier_05.Name",
-					"SellPrice": 1540,
+					"SellPrice": 2010,
 					"SkillTreeId": 197111,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21225,7 +21239,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806733,
 					"Name": "Weapon.Automatics_FnP93Praetor_Tier_01.Name",
-					"SellPrice": 470,
+					"SellPrice": 940,
 					"SkillTreeId": 197111,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21237,7 +21251,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806435,
 					"Name": "Weapon.Automatics_FnP93Praetor_Tier_02.Name",
-					"SellPrice": 1140,
+					"SellPrice": 1680,
 					"SkillTreeId": 197111,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21249,7 +21263,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806833,
 					"Name": "Weapon.Automatics_FnP93Praetor_Tier_03.Name",
-					"SellPrice": 1220,
+					"SellPrice": 1770,
 					"SkillTreeId": 197111,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21261,7 +21275,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806436,
 					"Name": "Weapon.Automatics_FnP93Praetor_Tier_04.Name",
-					"SellPrice": 1770,
+					"SellPrice": 2400,
 					"SkillTreeId": 197111,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21273,7 +21287,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806437,
 					"Name": "Weapon.Automatics_FnP93Praetor_Tier_05.Name",
-					"SellPrice": 2080,
+					"SellPrice": 2710,
 					"SkillTreeId": 197111,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21285,7 +21299,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806438,
 					"Name": "Weapon.Automatics_HkG38_Tier_04.Name",
-					"SellPrice": 1640,
+					"SellPrice": 2220,
 					"SkillTreeId": 197111,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21297,7 +21311,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806439,
 					"Name": "Weapon.Automatics_HkG38_Tier_05.Name",
-					"SellPrice": 1930,
+					"SellPrice": 2510,
 					"SkillTreeId": 197111,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21321,7 +21335,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806441,
 					"Name": "Weapon.Automatics_IngramSmartgun_Tier_00.Name",
-					"SellPrice": 230,
+					"SellPrice": 570,
 					"SkillTreeId": 197111,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21333,7 +21347,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806732,
 					"Name": "Weapon.Automatics_IngramSmartgun_Tier_01.Name",
-					"SellPrice": 350,
+					"SellPrice": 690,
 					"SkillTreeId": 197111,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21345,7 +21359,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806442,
 					"Name": "Weapon.Automatics_IngramSmartgun_Tier_02.Name",
-					"SellPrice": 840,
+					"SellPrice": 1250,
 					"SkillTreeId": 197111,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21357,7 +21371,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806832,
 					"Name": "Weapon.Automatics_IngramSmartgun_Tier_03.Name",
-					"SellPrice": 910,
+					"SellPrice": 1310,
 					"SkillTreeId": 197111,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21369,7 +21383,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806443,
 					"Name": "Weapon.Automatics_Mag5Mg_Tier_04.Name",
-					"SellPrice": 1960,
+					"SellPrice": 2660,
 					"SkillTreeId": 197111,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21381,7 +21395,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806444,
 					"Name": "Weapon.Automatics_Mag5Mg_Tier_05.Name",
-					"SellPrice": 2320,
+					"SellPrice": 3020,
 					"SkillTreeId": 197111,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21585,7 +21599,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806749,
 					"Name": "Weapon.Spellcasting_OverchargeFocus_Tier_01.Name",
-					"SellPrice": 650,
+					"SellPrice": 1290,
 					"SkillTreeId": 197114,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21597,7 +21611,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806519,
 					"Name": "Weapon.Spellcasting_OverchargeFocus_Tier_03.Name",
-					"SellPrice": 1680,
+					"SellPrice": 2440,
 					"SkillTreeId": 197114,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21609,7 +21623,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806843,
 					"Name": "Weapon.Spellcasting_OverchargeFocus_Tier_04.Name",
-					"SellPrice": 2430,
+					"SellPrice": 3300,
 					"SkillTreeId": 197114,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21621,7 +21635,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806520,
 					"Name": "Weapon.Spellcasting_OverchargeFocus_Tier_05.Name",
-					"SellPrice": 2870,
+					"SellPrice": 3730,
 					"SkillTreeId": 197114,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21645,7 +21659,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806522,
 					"Name": "Weapon.Spellcasting_PowerFocus_Tier_00.Name",
-					"SellPrice": 280,
+					"SellPrice": 710,
 					"SkillTreeId": 197114,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21657,7 +21671,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806748,
 					"Name": "Weapon.Spellcasting_PowerFocus_Tier_01.Name",
-					"SellPrice": 430,
+					"SellPrice": 860,
 					"SkillTreeId": 197114,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21669,7 +21683,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806523,
 					"Name": "Weapon.Spellcasting_PowerFocus_Tier_02.Name",
-					"SellPrice": 1040,
+					"SellPrice": 1540,
 					"SkillTreeId": 197114,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21681,7 +21695,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806524,
 					"Name": "Weapon.Spellcasting_PowerFocus_Tier_03.Name",
-					"SellPrice": 1120,
+					"SellPrice": 1620,
 					"SkillTreeId": 197114,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21693,7 +21707,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806844,
 					"Name": "Weapon.Spellcasting_PowerFocus_Tier_04.Name",
-					"SellPrice": 1620,
+					"SellPrice": 2200,
 					"SkillTreeId": 197114,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21705,7 +21719,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806525,
 					"Name": "Weapon.Spellcasting_PowerFocus_Tier_05.Name",
-					"SellPrice": 1910,
+					"SellPrice": 2490,
 					"SkillTreeId": 197114,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21825,7 +21839,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806447,
 					"Name": "Weapon.Blade_Cleaver_Tier_00.Name",
-					"SellPrice": 170,
+					"SellPrice": 420,
 					"SkillTreeId": 197112,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21837,7 +21851,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806734,
 					"Name": "Weapon.Blade_Cleaver_Tier_01.Name",
-					"SellPrice": 260,
+					"SellPrice": 510,
 					"SkillTreeId": 197112,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21849,7 +21863,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806448,
 					"Name": "Weapon.Blade_Cleaver_Tier_02.Name",
-					"SellPrice": 620,
+					"SellPrice": 920,
 					"SkillTreeId": 197112,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21861,7 +21875,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806735,
 					"Name": "Weapon.Blade_Katana_Tier_01.Name",
-					"SellPrice": 350,
+					"SellPrice": 690,
 					"SkillTreeId": 197112,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21873,7 +21887,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806449,
 					"Name": "Weapon.Blade_Katana_Tier_02.Name",
-					"SellPrice": 840,
+					"SellPrice": 1240,
 					"SkillTreeId": 197112,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21885,7 +21899,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806836,
 					"Name": "Weapon.Blade_Katana_Tier_03.Name",
-					"SellPrice": 900,
+					"SellPrice": 1310,
 					"SkillTreeId": 197112,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21897,7 +21911,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806450,
 					"Name": "Weapon.Blade_Katana_Tier_04.Name",
-					"SellPrice": 1300,
+					"SellPrice": 1770,
 					"SkillTreeId": 197112,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21909,7 +21923,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806451,
 					"Name": "Weapon.Blade_Katana_Tier_05.Name",
-					"SellPrice": 1540,
+					"SellPrice": 2000,
 					"SkillTreeId": 197112,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21921,7 +21935,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806452,
 					"Name": "Weapon.Blade_Macuahuitl_Tier_02.Name",
-					"SellPrice": 930,
+					"SellPrice": 1380,
 					"SkillTreeId": 197112,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21933,7 +21947,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806837,
 					"Name": "Weapon.Blade_Macuahuitl_Tier_03.Name",
-					"SellPrice": 1000,
+					"SellPrice": 1450,
 					"SkillTreeId": 197112,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21945,7 +21959,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806453,
 					"Name": "Weapon.Blade_Macuahuitl_Tier_04.Name",
-					"SellPrice": 1450,
+					"SellPrice": 1960,
 					"SkillTreeId": 197112,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21957,7 +21971,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806454,
 					"Name": "Weapon.Blade_Macuahuitl_Tier_05.Name",
-					"SellPrice": 1710,
+					"SellPrice": 2220,
 					"SkillTreeId": 197112,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21969,7 +21983,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806455,
 					"Name": "Weapon.Blade_VibroBlade_Tier_04.Name",
-					"SellPrice": 970,
+					"SellPrice": 1310,
 					"SkillTreeId": 197112,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -21981,7 +21995,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806456,
 					"Name": "Weapon.Blade_VibroBlade_Tier_05.Name",
-					"SellPrice": 1140,
+					"SellPrice": 1480,
 					"SkillTreeId": 197112,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22149,7 +22163,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806511,
 					"Name": "Weapon.Shotgun_RemingtonRoomsweeper_Tier_03.Name",
-					"SellPrice": 820,
+					"SellPrice": 1180,
 					"SkillTreeId": 197110,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22161,7 +22175,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806512,
 					"Name": "Weapon.Shotgun_RemingtonRoomsweeper_Tier_04.Name",
-					"SellPrice": 1180,
+					"SellPrice": 1600,
 					"SkillTreeId": 197110,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22173,7 +22187,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806834,
 					"Name": "Weapon.Shotgun_RemingtonRoomsweeper_Tier_05.Name",
-					"SellPrice": 1390,
+					"SellPrice": 1810,
 					"SkillTreeId": 197110,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22197,7 +22211,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806514,
 					"Name": "Weapon.Shotgun_RemingtonSportsman_Tier_00.Name",
-					"SellPrice": 200,
+					"SellPrice": 510,
 					"SkillTreeId": 197110,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22209,7 +22223,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806746,
 					"Name": "Weapon.Shotgun_RemingtonSportsman_Tier_01.Name",
-					"SellPrice": 310,
+					"SellPrice": 620,
 					"SkillTreeId": 197110,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22221,7 +22235,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806515,
 					"Name": "Weapon.Shotgun_RemingtonSportsman_Tier_02.Name",
-					"SellPrice": 760,
+					"SellPrice": 1120,
 					"SkillTreeId": 197110,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22233,7 +22247,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806747,
 					"Name": "Weapon.Shotgun_Spas22_Tier_01.Name",
-					"SellPrice": 470,
+					"SellPrice": 940,
 					"SkillTreeId": 197110,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22245,7 +22259,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806516,
 					"Name": "Weapon.Shotgun_Spas22_Tier_03.Name",
-					"SellPrice": 1220,
+					"SellPrice": 1770,
 					"SkillTreeId": 197110,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22257,7 +22271,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806835,
 					"Name": "Weapon.Shotgun_Spas22_Tier_04.Name",
-					"SellPrice": 1590,
+					"SellPrice": 2160,
 					"SkillTreeId": 197110,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22269,7 +22283,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806517,
 					"Name": "Weapon.Shotgun_Spas22_Tier_05.Name",
-					"SellPrice": 2080,
+					"SellPrice": 2710,
 					"SkillTreeId": 197110,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22389,7 +22403,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806737,
 					"Name": "Weapon.Club_FoldingSpade_Tier_01.Name",
-					"SellPrice": 330,
+					"SellPrice": 660,
 					"SkillTreeId": 197117,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22401,7 +22415,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806458,
 					"Name": "Weapon.Club_FoldingSpade_Tier_02.Name",
-					"SellPrice": 810,
+					"SellPrice": 1190,
 					"SkillTreeId": 197117,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22413,7 +22427,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806838,
 					"Name": "Weapon.Club_FoldingSpade_Tier_03.Name",
-					"SellPrice": 870,
+					"SellPrice": 1250,
 					"SkillTreeId": 197117,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22425,7 +22439,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806459,
 					"Name": "Weapon.Club_FoldingSpade_Tier_04.Name",
-					"SellPrice": 1250,
+					"SellPrice": 1700,
 					"SkillTreeId": 197117,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22437,7 +22451,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806460,
 					"Name": "Weapon.Club_FoldingSpade_Tier_05.Name",
-					"SellPrice": 1480,
+					"SellPrice": 1920,
 					"SkillTreeId": 197117,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22449,7 +22463,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806461,
 					"Name": "Weapon.Club_NailBoard_Tier_00.Name",
-					"SellPrice": 140,
+					"SellPrice": 360,
 					"SkillTreeId": 197117,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22461,7 +22475,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806736,
 					"Name": "Weapon.Club_NailBoard_Tier_01.Name",
-					"SellPrice": 220,
+					"SellPrice": 440,
 					"SkillTreeId": 197117,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22473,7 +22487,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806462,
 					"Name": "Weapon.Club_NailBoard_Tier_02.Name",
-					"SellPrice": 540,
+					"SellPrice": 800,
 					"SkillTreeId": 197117,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22485,7 +22499,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806463,
 					"Name": "Weapon.Club_ShockMace_Tier_02.Name",
-					"SellPrice": 730,
+					"SellPrice": 1070,
 					"SkillTreeId": 197117,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22497,7 +22511,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806839,
 					"Name": "Weapon.Club_ShockMace_Tier_03.Name",
-					"SellPrice": 780,
+					"SellPrice": 1130,
 					"SkillTreeId": 197117,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22509,7 +22523,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806464,
 					"Name": "Weapon.Club_ShockMace_Tier_04.Name",
-					"SellPrice": 1130,
+					"SellPrice": 1530,
 					"SkillTreeId": 197117,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22521,7 +22535,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806465,
 					"Name": "Weapon.Club_ShockMace_Tier_05.Name",
-					"SellPrice": 1330,
+					"SellPrice": 1730,
 					"SkillTreeId": 197117,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22533,7 +22547,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806466,
 					"Name": "Weapon.Club_Tonfa_Tier_04.Name",
-					"SellPrice": 830,
+					"SellPrice": 1130,
 					"SkillTreeId": 197117,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22545,7 +22559,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806467,
 					"Name": "Weapon.Club_Tonfa_Tier_05.Name",
-					"SellPrice": 980,
+					"SellPrice": 1280,
 					"SkillTreeId": 197117,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22701,7 +22715,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806488,
 					"Name": "Weapon.Pistol_AresLightfire_Tier_00.Name",
-					"SellPrice": 180,
+					"SellPrice": 450,
 					"SkillTreeId": 197109,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22713,7 +22727,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806742,
 					"Name": "Weapon.Pistol_AresLightfire_Tier_01.Name",
-					"SellPrice": 280,
+					"SellPrice": 550,
 					"SkillTreeId": 197109,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22725,7 +22739,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806489,
 					"Name": "Weapon.Pistol_AresLightfire_Tier_02.Name",
-					"SellPrice": 660,
+					"SellPrice": 980,
 					"SkillTreeId": 197109,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22737,7 +22751,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806490,
 					"Name": "Weapon.Pistol_AresLightfire_Tier_03.Name",
-					"SellPrice": 710,
+					"SellPrice": 1030,
 					"SkillTreeId": 197109,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22749,7 +22763,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806743,
 					"Name": "Weapon.Pistol_AresPredator_Tier_01.Name",
-					"SellPrice": 340,
+					"SellPrice": 680,
 					"SkillTreeId": 197109,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22761,7 +22775,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806491,
 					"Name": "Weapon.Pistol_AresPredator_Tier_03.Name",
-					"SellPrice": 890,
+					"SellPrice": 1290,
 					"SkillTreeId": 197109,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22773,7 +22787,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806492,
 					"Name": "Weapon.Pistol_AresPredator_Tier_05.Name",
-					"SellPrice": 1520,
+					"SellPrice": 1980,
 					"SkillTreeId": 197109,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22797,7 +22811,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806494,
 					"Name": "Weapon.Pistol_CavalierDeputy_Tier_05.Name",
-					"SellPrice": 1220,
+					"SellPrice": 1580,
 					"SkillTreeId": 197109,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22833,7 +22847,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806497,
 					"Name": "Weapon.Pistol_Haemmerli620s_Tier_04.Name",
-					"SellPrice": 1030,
+					"SellPrice": 1400,
 					"SkillTreeId": 197109,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22845,7 +22859,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806498,
 					"Name": "Weapon.Pistol_SkSpraydown_Tier_04.Name",
-					"SellPrice": 1290,
+					"SellPrice": 1750,
 					"SkillTreeId": 197109,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22857,7 +22871,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806499,
 					"Name": "Weapon.Pistol_SuperWarhawk_Tier_02.Name",
-					"SellPrice": 1000,
+					"SellPrice": 1470,
 					"SkillTreeId": 197109,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22869,7 +22883,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806500,
 					"Name": "Weapon.Pistol_SuperWarhawk_Tier_03.Name",
-					"SellPrice": 1070,
+					"SellPrice": 1550,
 					"SkillTreeId": 197109,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -22881,7 +22895,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806501,
 					"Name": "Weapon.Pistol_SuperWarhawk_Tier_05.Name",
-					"SellPrice": 1820,
+					"SellPrice": 2380,
 					"SkillTreeId": 197109,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23061,7 +23075,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806741,
 					"Name": "Weapon.Hacking_Aztecha200_Tier_01.Name",
-					"SellPrice": 520,
+					"SellPrice": 1030,
 					"SkillTreeId": 197113,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23073,7 +23087,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806477,
 					"Name": "Weapon.Hacking_Aztecha200_Tier_03.Name",
-					"SellPrice": 1350,
+					"SellPrice": 1950,
 					"SkillTreeId": 197113,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23085,7 +23099,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806840,
 					"Name": "Weapon.Hacking_Aztecha200_Tier_04.Name",
-					"SellPrice": 1940,
+					"SellPrice": 2640,
 					"SkillTreeId": 197113,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23097,7 +23111,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806478,
 					"Name": "Weapon.Hacking_Aztecha200_Tier_05.Name",
-					"SellPrice": 2290,
+					"SellPrice": 2980,
 					"SkillTreeId": 197113,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23121,7 +23135,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806480,
 					"Name": "Weapon.Hacking_Mcd1Deck_Tier_00.Name",
-					"SellPrice": 270,
+					"SellPrice": 680,
 					"SkillTreeId": 197113,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23133,7 +23147,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806740,
 					"Name": "Weapon.Hacking_Mcd1Deck_Tier_01.Name",
-					"SellPrice": 410,
+					"SellPrice": 820,
 					"SkillTreeId": 197113,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23145,7 +23159,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806481,
 					"Name": "Weapon.Hacking_Mcd1Deck_Tier_02.Name",
-					"SellPrice": 1000,
+					"SellPrice": 1480,
 					"SkillTreeId": 197113,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23157,7 +23171,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806482,
 					"Name": "Weapon.Hacking_Mcd1Deck_Tier_03.Name",
-					"SellPrice": 1080,
+					"SellPrice": 1560,
 					"SkillTreeId": 197113,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23169,7 +23183,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806841,
 					"Name": "Weapon.Hacking_Mcd1Deck_Tier_04.Name",
-					"SellPrice": 1550,
+					"SellPrice": 2110,
 					"SkillTreeId": 197113,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23181,7 +23195,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806483,
 					"Name": "Weapon.Hacking_Mcd1Deck_Tier_05.Name",
-					"SellPrice": 1830,
+					"SellPrice": 2390,
 					"SkillTreeId": 197113,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23205,7 +23219,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806485,
 					"Name": "Weapon.Hacking_MicrodeckSummit_Tier_03.Name",
-					"SellPrice": 1620,
+					"SellPrice": 2340,
 					"SkillTreeId": 197113,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23217,7 +23231,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806842,
 					"Name": "Weapon.Hacking_MicrodeckSummit_Tier_04.Name",
-					"SellPrice": 2330,
+					"SellPrice": 3160,
 					"SkillTreeId": 197113,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23229,7 +23243,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806486,
 					"Name": "Weapon.Hacking_MicrodeckSummit_Tier_05.Name",
-					"SellPrice": 2750,
+					"SellPrice": 3580,
 					"SkillTreeId": 197113,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23349,7 +23363,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806739,
 					"Name": "Weapon.Conjuring_CombatFocus_Tier_01.Name",
-					"SellPrice": 390,
+					"SellPrice": 780,
 					"SkillTreeId": 197116,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23361,7 +23375,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806469,
 					"Name": "Weapon.Conjuring_CombatFocus_Tier_03.Name",
-					"SellPrice": 1020,
+					"SellPrice": 1480,
 					"SkillTreeId": 197116,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23373,7 +23387,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806845,
 					"Name": "Weapon.Conjuring_CombatFocus_Tier_04.Name",
-					"SellPrice": 1470,
+					"SellPrice": 2000,
 					"SkillTreeId": 197116,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23385,7 +23399,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806470,
 					"Name": "Weapon.Conjuring_CombatFocus_Tier_05.Name",
-					"SellPrice": 1740,
+					"SellPrice": 2260,
 					"SkillTreeId": 197116,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23409,7 +23423,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806472,
 					"Name": "Weapon.Conjuring_ConjuringFocus_Tier_00.Name",
-					"SellPrice": 260,
+					"SellPrice": 640,
 					"SkillTreeId": 197116,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23421,7 +23435,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806738,
 					"Name": "Weapon.Conjuring_ConjuringFocus_Tier_01.Name",
-					"SellPrice": 390,
+					"SellPrice": 780,
 					"SkillTreeId": 197116,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23433,7 +23447,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806473,
 					"Name": "Weapon.Conjuring_ConjuringFocus_Tier_02.Name",
-					"SellPrice": 950,
+					"SellPrice": 1400,
 					"SkillTreeId": 197116,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23445,7 +23459,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806474,
 					"Name": "Weapon.Conjuring_ConjuringFocus_Tier_03.Name",
-					"SellPrice": 1020,
+					"SellPrice": 1480,
 					"SkillTreeId": 197116,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23457,7 +23471,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806846,
 					"Name": "Weapon.Conjuring_ConjuringFocus_Tier_04.Name",
-					"SellPrice": 1470,
+					"SellPrice": 2000,
 					"SkillTreeId": 197116,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23469,7 +23483,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806475,
 					"Name": "Weapon.Conjuring_ConjuringFocus_Tier_05.Name",
-					"SellPrice": 1740,
+					"SellPrice": 2260,
 					"SkillTreeId": 197116,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23589,7 +23603,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806503,
 					"Name": "Weapon.Rigging_ControlRigInterface_Tier_00.Name",
-					"SellPrice": 330,
+					"SellPrice": 820,
 					"SkillTreeId": 197118,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23601,7 +23615,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806744,
 					"Name": "Weapon.Rigging_ControlRigInterface_Tier_01.Name",
-					"SellPrice": 500,
+					"SellPrice": 1000,
 					"SkillTreeId": 197118,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23613,7 +23627,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806504,
 					"Name": "Weapon.Rigging_ControlRigInterface_Tier_02.Name",
-					"SellPrice": 1210,
+					"SellPrice": 1790,
 					"SkillTreeId": 197118,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23625,7 +23639,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806505,
 					"Name": "Weapon.Rigging_ControlRigInterface_Tier_03.Name",
-					"SellPrice": 1300,
+					"SellPrice": 1890,
 					"SkillTreeId": 197118,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23637,7 +23651,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806847,
 					"Name": "Weapon.Rigging_ControlRigInterface_Tier_04.Name",
-					"SellPrice": 1880,
+					"SellPrice": 2550,
 					"SkillTreeId": 197118,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23649,7 +23663,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806506,
 					"Name": "Weapon.Rigging_ControlRigInterface_Tier_05.Name",
-					"SellPrice": 2220,
+					"SellPrice": 2890,
 					"SkillTreeId": 197118,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23673,7 +23687,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806745,
 					"Name": "Weapon.Rigging_ModdedRigInterface_Tier_01.Name",
-					"SellPrice": 970,
+					"SellPrice": 1440,
 					"SkillTreeId": 197118,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23685,7 +23699,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806508,
 					"Name": "Weapon.Rigging_ModdedRigInterface_Tier_03.Name",
-					"SellPrice": 1040,
+					"SellPrice": 1510,
 					"SkillTreeId": 197118,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23697,7 +23711,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806848,
 					"Name": "Weapon.Rigging_ModdedRigInterface_Tier_04.Name",
-					"SellPrice": 1510,
+					"SellPrice": 2040,
 					"SkillTreeId": 197118,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -23709,7 +23723,7 @@
 					"MaxStacksize": 99,
 					"MissionWeaponReference": 806509,
 					"Name": "Weapon.Rigging_ModdedRigInterface_Tier_05.Name",
-					"SellPrice": 1780,
+					"SellPrice": 2310,
 					"SkillTreeId": 197118,
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.Definitions.LogicWeaponItemDefinition, Cliffhanger.SRO.ServerClientCommons"
 				},
@@ -30672,16 +30686,16 @@
 						{
 							"SerializedSkills": [
 								{
-									"Description": "SkillName.Passive_Tough.SkillTreeDrescription",
+									"Description": "SkillName.Passive_Resilient.SkillTreeDrescription",
 									"Icon": "GUI/Missiongameplay/Icons/SkillIcons/icon_skill_Passive_Tough_Level_01",
 									"KarmaCost": 13,
-									"Name": "SkillName.Passive_Tough",
-									"SkillId": 90027,
+									"Name": "SkillName.Passive_Resilient",
+									"SkillId": 90049,
 									"SlotIndex": -1,
 									"StatusValueModifiers": [
 										{
 											"ID": 458753,
-											"Modifier": 5,
+											"Modifier": 3,
 											"ModifiesMaximum": true,
 											"Tag": "SkillTree",
 											"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -31098,11 +31112,11 @@
 						{
 							"SerializedSkills": [
 								{
-									"Description": "SkillName.Passive_Tough.SkillTreeDrescription",
+									"Description": "SkillName.Passive_Resilient.SkillTreeDrescription",
 									"Icon": "GUI/Missiongameplay/Icons/SkillIcons/icon_skill_Passive_Tough_Level_01",
 									"KarmaCost": 8,
-									"Name": "SkillName.Passive_Tough",
-									"SkillId": 90027,
+									"Name": "SkillName.Passive_Resilient",
+									"SkillId": 90049,
 									"SlotIndex": -1,
 									"StatusValueModifiers": [
 										{
@@ -31377,11 +31391,11 @@
 						{
 							"SerializedSkills": [
 								{
-									"Description": "SkillName.Passive_Tough.SkillTreeDrescription",
+									"Description": "SkillName.Passive_Resilient.SkillTreeDrescription",
 									"Icon": "GUI/Missiongameplay/Icons/SkillIcons/icon_skill_Passive_Tough_Level_01",
 									"KarmaCost": 13,
-									"Name": "SkillName.Passive_Tough",
-									"SkillId": 90027,
+									"Name": "SkillName.Passive_Resilient",
+									"SkillId": 90049,
 									"SlotIndex": -1,
 									"StatusValueModifiers": [
 										{

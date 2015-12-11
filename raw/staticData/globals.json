@@ -2,7 +2,7 @@
 	"Components": [
 		{
 			"TypeName": "Cliffhanger.SRO.ServerClientCommons.Gameworld.StaticGameData.VersioningInfo, Cliffhanger.SRO.ServerClientCommons",
-			"Version": 45
+			"Version": 46
 		},
 		{
 			"Activities": {
@@ -10262,29 +10262,18 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Calculation.ForEachTargetCalculation, Cliffhanger.SRO.ServerClientCommons"
 							},
 							{
-								"Id": 0,
-								"ModifiedChanceToCrit": 0,
-								"ModifiedCritMultiplierModifier": 0,
-								"ModifiedDamageCritical": 0,
-								"ModifiedRange": 0,
-								"ModifiedRelativeDamage": 1,
-								"ModifierMaxCtH": -0.65,
-								"StaticCritMultiplierModifier": 0,
-								"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Calculations.ModifySourceWorkspaceCalculation, Cliffhanger.SRO.ServerClientCommons"
-							},
-							{
-								"ElseCalculation": null,
+								"ElseCalculation": {
+									"CtHValue": 0.35,
+									"Id": 0,
+									"IgnoreForDryRun": true,
+									"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Calculations.StaticChanceToHitCalculation, Cliffhanger.SRO.ServerClientCommons"
+								},
 								"Id": 0,
 								"InnerCalculation": {
+									"CtHValue": 1,
 									"Id": 0,
-									"ModifiedChanceToCrit": 0,
-									"ModifiedCritMultiplierModifier": 0,
-									"ModifiedDamageCritical": 0,
-									"ModifiedRange": 0,
-									"ModifiedRelativeDamage": 1,
-									"ModifierMaxCtH": 0.65,
-									"StaticCritMultiplierModifier": 0,
-									"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Calculations.ModifySourceWorkspaceCalculation, Cliffhanger.SRO.ServerClientCommons"
+									"IgnoreForDryRun": true,
+									"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Calculations.StaticChanceToHitCalculation, Cliffhanger.SRO.ServerClientCommons"
 								},
 								"InnerCondition": {
 									"Id": 0,
@@ -10292,13 +10281,6 @@
 									"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.EntityConditions.AnyTargetHasStatusEffectWithIdCondition, Cliffhanger.SRO.ServerClientCommons"
 								},
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Calculation.ConditionalSourceCalculation, Cliffhanger.SRO.ServerClientCommons"
-							},
-							{
-								"Id": 0,
-								"IgnoreAdjecentCheck": true,
-								"IgnoreForDryRun": true,
-								"IgnoreRangePenalty": false,
-								"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Calculations.ChanceToHitTargetPositionCalculation, Cliffhanger.SRO.ServerClientCommons"
 							},
 							{
 								"Id": 0,
@@ -11474,29 +11456,18 @@
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Calculation.ForEachTargetCalculation, Cliffhanger.SRO.ServerClientCommons"
 							},
 							{
-								"Id": 0,
-								"ModifiedChanceToCrit": 0,
-								"ModifiedCritMultiplierModifier": 0,
-								"ModifiedDamageCritical": 0,
-								"ModifiedRange": 0,
-								"ModifiedRelativeDamage": 1,
-								"ModifierMaxCtH": -0.5,
-								"StaticCritMultiplierModifier": 0,
-								"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Calculations.ModifySourceWorkspaceCalculation, Cliffhanger.SRO.ServerClientCommons"
-							},
-							{
-								"ElseCalculation": null,
+								"ElseCalculation": {
+									"CtHValue": 0.5,
+									"Id": 0,
+									"IgnoreForDryRun": true,
+									"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Calculations.StaticChanceToHitCalculation, Cliffhanger.SRO.ServerClientCommons"
+								},
 								"Id": 0,
 								"InnerCalculation": {
+									"CtHValue": 1,
 									"Id": 0,
-									"ModifiedChanceToCrit": 0,
-									"ModifiedCritMultiplierModifier": 0,
-									"ModifiedDamageCritical": 0,
-									"ModifiedRange": 0,
-									"ModifiedRelativeDamage": 1,
-									"ModifierMaxCtH": 0.5,
-									"StaticCritMultiplierModifier": 0,
-									"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Calculations.ModifySourceWorkspaceCalculation, Cliffhanger.SRO.ServerClientCommons"
+									"IgnoreForDryRun": true,
+									"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Calculations.StaticChanceToHitCalculation, Cliffhanger.SRO.ServerClientCommons"
 								},
 								"InnerCondition": {
 									"Id": 0,
@@ -11504,13 +11475,6 @@
 									"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.EntityConditions.AnyTargetHasStatusEffectWithIdCondition, Cliffhanger.SRO.ServerClientCommons"
 								},
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Calculation.ConditionalSourceCalculation, Cliffhanger.SRO.ServerClientCommons"
-							},
-							{
-								"Id": 0,
-								"IgnoreAdjecentCheck": true,
-								"IgnoreForDryRun": true,
-								"IgnoreRangePenalty": false,
-								"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Calculations.ChanceToHitTargetPositionCalculation, Cliffhanger.SRO.ServerClientCommons"
 							},
 							{
 								"Id": 0,
@@ -18010,12 +17974,12 @@
 							{
 								"Id": 0,
 								"ModifiedChanceToCrit": 0,
-								"ModifiedCritMultiplierModifier": 0,
+								"ModifiedCritMultiplierModifier": -0.25,
 								"ModifiedDamageCritical": 0,
 								"ModifiedRange": 0,
 								"ModifiedRelativeDamage": 1,
 								"ModifierMaxCtH": 0,
-								"StaticCritMultiplierModifier": 1,
+								"StaticCritMultiplierModifier": 0,
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Calculations.ModifySourceWorkspaceCalculation, Cliffhanger.SRO.ServerClientCommons"
 							},
 							{
@@ -18529,12 +18493,12 @@
 							{
 								"Id": 0,
 								"ModifiedChanceToCrit": 0,
-								"ModifiedCritMultiplierModifier": 0,
+								"ModifiedCritMultiplierModifier": -0.25,
 								"ModifiedDamageCritical": 0,
 								"ModifiedRange": 0,
 								"ModifiedRelativeDamage": 1,
 								"ModifierMaxCtH": 0,
-								"StaticCritMultiplierModifier": 1,
+								"StaticCritMultiplierModifier": 0,
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Calculations.ModifySourceWorkspaceCalculation, Cliffhanger.SRO.ServerClientCommons"
 							},
 							{
@@ -19078,12 +19042,12 @@
 							{
 								"Id": 0,
 								"ModifiedChanceToCrit": 0,
-								"ModifiedCritMultiplierModifier": 0,
+								"ModifiedCritMultiplierModifier": -0.25,
 								"ModifiedDamageCritical": 0,
 								"ModifiedRange": 0,
 								"ModifiedRelativeDamage": 1,
 								"ModifierMaxCtH": 0,
-								"StaticCritMultiplierModifier": 1,
+								"StaticCritMultiplierModifier": 0,
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Calculations.ModifySourceWorkspaceCalculation, Cliffhanger.SRO.ServerClientCommons"
 							},
 							{
@@ -19923,17 +19887,6 @@
 							},
 							{
 								"Id": 0,
-								"ModifiedChanceToCrit": 0,
-								"ModifiedCritMultiplierModifier": 0,
-								"ModifiedDamageCritical": 0,
-								"ModifiedRange": 0,
-								"ModifiedRelativeDamage": 1,
-								"ModifierMaxCtH": 0,
-								"StaticCritMultiplierModifier": 1,
-								"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Calculations.ModifySourceWorkspaceCalculation, Cliffhanger.SRO.ServerClientCommons"
-							},
-							{
-								"Id": 0,
 								"IgnoreAdjecentCheck": false,
 								"IgnoreForDryRun": false,
 								"IgnoreRangePenalty": false,
@@ -20213,12 +20166,6 @@
 									"LocaRef": "DynamicTooltip.Bulletpoints.MoreCritChanceOnMarked",
 									"Style": "None",
 									"TypeName": "Cliffhanger.SRO.ServerClientCommons.TooltipTemplate+TooltipLine, Cliffhanger.SRO.ServerClientCommons"
-								},
-								{
-									"Format": "Bulletpoint",
-									"LocaRef": "DynamicTooltip.Bulletpoints.ExtraDamageOnCritical",
-									"Style": "None",
-									"TypeName": "Cliffhanger.SRO.ServerClientCommons.TooltipTemplate+TooltipLine, Cliffhanger.SRO.ServerClientCommons"
 								}
 							],
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.TooltipTemplate, Cliffhanger.SRO.ServerClientCommons"
@@ -20254,17 +20201,6 @@
 								"TimelinePrefab": "FX/Prefabs/WeaponTimelines/Pistol/Pistol_DefaultAttack_Timeline",
 								"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Calculations.TimelineActorCalculationElement, Cliffhanger.SRO.ServerClientCommons",
 								"UsedPosition": "Workspace"
-							},
-							{
-								"Id": 0,
-								"ModifiedChanceToCrit": 0,
-								"ModifiedCritMultiplierModifier": 0,
-								"ModifiedDamageCritical": 0,
-								"ModifiedRange": 0,
-								"ModifiedRelativeDamage": 1,
-								"ModifierMaxCtH": 0,
-								"StaticCritMultiplierModifier": 1,
-								"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Calculations.ModifySourceWorkspaceCalculation, Cliffhanger.SRO.ServerClientCommons"
 							},
 							{
 								"Id": 0,
@@ -20545,12 +20481,6 @@
 								{
 									"Format": "Bulletpoint",
 									"LocaRef": "DynamicTooltip.Bulletpoints.MoreCritChanceOnMarked",
-									"Style": "None",
-									"TypeName": "Cliffhanger.SRO.ServerClientCommons.TooltipTemplate+TooltipLine, Cliffhanger.SRO.ServerClientCommons"
-								},
-								{
-									"Format": "Bulletpoint",
-									"LocaRef": "DynamicTooltip.Bulletpoints.ExtraDamageOnCritical",
 									"Style": "None",
 									"TypeName": "Cliffhanger.SRO.ServerClientCommons.TooltipTemplate+TooltipLine, Cliffhanger.SRO.ServerClientCommons"
 								}
@@ -23210,7 +23140,7 @@
 														"Id": 0,
 														"ModifiedChanceToHitEnemy": 0,
 														"ModifiedCriticalChance": 0,
-														"ModifiedRelativeDamage": 1.5,
+														"ModifiedRelativeDamage": 2,
 														"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Calculations.ModifyTargetWorkspaceCalculation, Cliffhanger.SRO.ServerClientCommons"
 													}
 												],
@@ -23413,7 +23343,7 @@
 								},
 								{
 									"Format": "Bulletpoint",
-									"LocaRef": "DynamicTooltip.Bulletpoints.ExtraDamageAgainstTech",
+									"LocaRef": "DynamicTooltip.Bulletpoints.ExtraDamageAgainstTech100",
 									"Style": "None",
 									"TypeName": "Cliffhanger.SRO.ServerClientCommons.TooltipTemplate+TooltipLine, Cliffhanger.SRO.ServerClientCommons"
 								}
@@ -23796,6 +23726,23 @@
 											"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Calculation.ConditionalEntityCalculation, Cliffhanger.SRO.ServerClientCommons"
 										},
 										{
+											"ElseCalculation": null,
+											"Id": 0,
+											"InnerCalculation": {
+												"Id": 0,
+												"ModifiedChanceToHitEnemy": 0,
+												"ModifiedCriticalChance": 0,
+												"ModifiedRelativeDamage": 1.5,
+												"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Calculations.ModifyTargetWorkspaceCalculation, Cliffhanger.SRO.ServerClientCommons"
+											},
+											"InnerCondition": {
+												"AgentNature": 197211,
+												"Id": 0,
+												"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.EntityConditions.IsOfAgentNatureCondition, Cliffhanger.SRO.ServerClientCommons"
+											},
+											"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Calculation.ConditionalEntityCalculation, Cliffhanger.SRO.ServerClientCommons"
+										},
+										{
 											"Additional": [],
 											"Damage": "Technical",
 											"Id": 0,
@@ -23847,6 +23794,17 @@
 																"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.EntityConditions.IsOfAgentNatureCondition, Cliffhanger.SRO.ServerClientCommons"
 															},
 															"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.EntityConditions.NotCondition, Cliffhanger.SRO.ServerClientCommons"
+														},
+														"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Calculation.ConditionalEntityCalculation, Cliffhanger.SRO.ServerClientCommons"
+													},
+													{
+														"ElseCalculation": null,
+														"Id": 0,
+														"InnerCalculation": null,
+														"InnerCondition": {
+															"AgentNature": 0,
+															"Id": 0,
+															"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.EntityConditions.IsOfAgentNatureCondition, Cliffhanger.SRO.ServerClientCommons"
 														},
 														"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Calculation.ConditionalEntityCalculation, Cliffhanger.SRO.ServerClientCommons"
 													}
@@ -25705,7 +25663,7 @@
 						},
 						"Icon": "GUI/Missiongameplay/Icons/SkillIcons/icon_skill_Conjuring_MassSlow",
 						"Name": null,
-						"ShortDescription": "Skills.Shaman.ShamanSummonMassSlow",
+						"ShortDescription": "Skills.Shaman.ShamanMassSlow",
 						"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.SkillData, Cliffhanger.SRO.ServerClientCommons"
 					},
 					"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Activity, Cliffhanger.SRO.ServerClientCommons",
@@ -62902,6 +62860,57 @@
 						"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.VisualizationFlags, Cliffhanger.SRO.ServerClientCommons"
 					}
 				},
+				"90049": {
+					"Calculation": {
+						"TypeName": "Cliffhanger.GameLogic.Calculations.NullCalculation`1[[Cliffhanger.SRO.ServerClientCommons.GameLogic.ActivityParameters, Cliffhanger.SRO.ServerClientCommons, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], Cliffhanger.GameLogic"
+					},
+					"Condition": {
+						"Conditions": [
+							{
+								"TypeName": "Cliffhanger.GameLogic.Conditions.TrueCondition`1[[Cliffhanger.SRO.ServerClientCommons.GameLogic.ActivityParameters, Cliffhanger.SRO.ServerClientCommons, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], Cliffhanger.GameLogic"
+							}
+						],
+						"TypeName": "Cliffhanger.GameLogic.Conditions.AndCondition`1[[Cliffhanger.SRO.ServerClientCommons.GameLogic.ActivityParameters, Cliffhanger.SRO.ServerClientCommons, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], Cliffhanger.GameLogic"
+					},
+					"Cost": {
+						"TypeName": "Cliffhanger.GameLogic.Framework.NullActivityCost`1[[Cliffhanger.SRO.ServerClientCommons.GameLogic.ActivityParameters, Cliffhanger.SRO.ServerClientCommons, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], Cliffhanger.GameLogic"
+					},
+					"Effect": {
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Calculation.ApplyCalculationResultEffect, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"Id": 90049,
+					"PreCalculation": {
+						"TypeName": "Cliffhanger.GameLogic.Calculations.NullCalculation`1[[Cliffhanger.SRO.ServerClientCommons.GameLogic.ActivityParameters, Cliffhanger.SRO.ServerClientCommons, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], Cliffhanger.GameLogic"
+					},
+					"SkillData": {
+						"Description": {
+							"Contents": [
+								{
+									"Format": "Line",
+									"LocaRef": "Hacking is awesome.",
+									"Style": "None",
+									"TypeName": "Cliffhanger.SRO.ServerClientCommons.TooltipTemplate+TooltipLine, Cliffhanger.SRO.ServerClientCommons"
+								}
+							],
+							"TypeName": "Cliffhanger.SRO.ServerClientCommons.TooltipTemplate, Cliffhanger.SRO.ServerClientCommons"
+						},
+						"DynamicTooltip": null,
+						"Icon": "GUI/Missiongameplay/Icons/SkillIcons/icon_skill_Passive_Tough_Level_01",
+						"Name": "Hacking",
+						"ShortDescription": "Hacking",
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.VisualGameworld.SkillData, Cliffhanger.SRO.ServerClientCommons"
+					},
+					"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.Activity, Cliffhanger.SRO.ServerClientCommons",
+					"VisualizationFlags": {
+						"ShowMovementRange": {
+							"ShowMaximumRange": true,
+							"ShowMinimumRange": true,
+							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.MovementRangeFlags, Cliffhanger.SRO.ServerClientCommons"
+						},
+						"ShowTargets": true,
+						"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.VisualizationFlags, Cliffhanger.SRO.ServerClientCommons"
+					}
+				},
 				"90500": {
 					"Calculation": {
 						"TypeName": "Cliffhanger.GameLogic.Calculations.NullCalculation`1[[Cliffhanger.SRO.ServerClientCommons.GameLogic.ActivityParameters, Cliffhanger.SRO.ServerClientCommons, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], Cliffhanger.GameLogic"
@@ -82767,7 +82776,7 @@
 						},
 						{
 							"ID": 458754,
-							"Modifier": 2,
+							"Modifier": 1,
 							"ModifiesMaximum": true,
 							"Tag": "Undefined",
 							"TypeName": "Cliffhanger.SRO.ServerClientCommons.GameLogic.StatusValueModifier, Cliffhanger.SRO.ServerClientCommons"
@@ -82777,7 +82786,7 @@
 					"VisualEffectName": null
 				},
 				"131077": {
-					"DisplayName": "Suppressed",
+					"DisplayName": "StatusEffect.DisplayName.Suppressed",
 					"Id": 131077,
 					"InitialDuration": 1,
 					"InternalName": "Suppressed",

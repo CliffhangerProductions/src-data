@@ -77608,8 +77608,8 @@
 							"OnDeactivatedActivities": [],
 							"Position": {
 								"TypeName": "SRO.Core.Compatibility.Serialization.SerializableIntVector2, SRO.Core.Compatibility",
-								"X": 37,
-								"Y": 8
+								"X": 29,
+								"Y": 11
 							},
 							"Priority": 0,
 							"RoleName": "",
@@ -77658,8 +77658,8 @@
 							"OnDeactivatedActivities": [],
 							"Position": {
 								"TypeName": "SRO.Core.Compatibility.Serialization.SerializableIntVector2, SRO.Core.Compatibility",
-								"X": 47,
-								"Y": 8
+								"X": 51,
+								"Y": 11
 							},
 							"Priority": 0,
 							"RoleName": "",
@@ -77758,7 +77758,7 @@
 							"OnDeactivatedActivities": [],
 							"Position": {
 								"TypeName": "SRO.Core.Compatibility.Serialization.SerializableIntVector2, SRO.Core.Compatibility",
-								"X": 19,
+								"X": 17,
 								"Y": 16
 							},
 							"Priority": 0,
@@ -77866,8 +77866,8 @@
 							"OnDeactivatedActivities": [],
 							"Position": {
 								"TypeName": "SRO.Core.Compatibility.Serialization.SerializableIntVector2, SRO.Core.Compatibility",
-								"X": 37,
-								"Y": 8
+								"X": 29,
+								"Y": 11
 							},
 							"Priority": 0,
 							"RoleName": "",
@@ -77916,8 +77916,8 @@
 							"OnDeactivatedActivities": [],
 							"Position": {
 								"TypeName": "SRO.Core.Compatibility.Serialization.SerializableIntVector2, SRO.Core.Compatibility",
-								"X": 47,
-								"Y": 8
+								"X": 51,
+								"Y": 11
 							},
 							"Priority": 0,
 							"RoleName": "",
@@ -78016,7 +78016,7 @@
 							"OnDeactivatedActivities": [],
 							"Position": {
 								"TypeName": "SRO.Core.Compatibility.Serialization.SerializableIntVector2, SRO.Core.Compatibility",
-								"X": 19,
+								"X": 17,
 								"Y": 16
 							},
 							"Priority": 0,
@@ -78192,8 +78192,8 @@
 							"OnDeactivatedActivities": [],
 							"Position": {
 								"TypeName": "SRO.Core.Compatibility.Serialization.SerializableIntVector2, SRO.Core.Compatibility",
-								"X": 41,
-								"Y": 27
+								"X": 49,
+								"Y": 21
 							},
 							"Priority": 0,
 							"RoleName": "",
@@ -78288,8 +78288,8 @@
 							"OnDeactivatedActivities": [],
 							"Position": {
 								"TypeName": "SRO.Core.Compatibility.Serialization.SerializableIntVector2, SRO.Core.Compatibility",
-								"X": 41,
-								"Y": 24
+								"X": 34,
+								"Y": 21
 							},
 							"Priority": 0,
 							"RoleName": "",
